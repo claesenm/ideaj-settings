@@ -6,8 +6,12 @@
       <file name="/Dummy.txt" timestamp="1550361575202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1550362545258">
-        <mark key="'" line="771" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1550364188491">
+        <mark key="'" line="1090" column="36" />
+        <mark key="[" line="130" column="18" />
+        <mark key="]" line="130" column="11" />
+        <mark key="." line="130" column="11" />
+        <mark key="^" line="130" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/project.clj" timestamp="1550362558379" />
       <file name="/Dummy.regexp" timestamp="1550361323761">
@@ -21,30 +25,58 @@
       <jump line="10" column="39" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="17" column="20" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="771" column="23" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="93" column="8" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="116" column="22" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="154" column="21" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="1090" column="36" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">KGRlZiBqb3MgbG9nLWRlYnVnKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>l</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">KGRlZm4gYmxhaCAiayIpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>l</text>
+      </register>
       <register name="/" type="4">
-        <text>dommy</text>
+        <text>active?</text>
       </register>
     </registers>
     <search>
-      <last-search>dommy</last-search>
+      <last-search>active?</last-search>
       <last-offset />
-      <last-pattern>dommy</last-pattern>
+      <last-pattern>active?</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>dommy</entry>
+        <entry>active?</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
