@@ -6,8 +6,8 @@
       <file name="/Dummy.txt" timestamp="1550361575202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1550364188491">
-        <mark key="'" line="1090" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1550364344745">
+        <mark key="'" line="20" column="14" />
         <mark key="[" line="130" column="18" />
         <mark key="]" line="130" column="11" />
         <mark key="." line="130" column="11" />
@@ -29,6 +29,9 @@
       <jump line="116" column="22" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="154" column="21" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="1090" column="36" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="967" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="1052" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="20" column="14" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
     </jumps>
     <registers>
       <register name="1" type="2">
