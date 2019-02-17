@@ -1,0 +1,51 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1550361575202">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1550362545258">
+        <mark key="'" line="771" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/project.clj" timestamp="1550362558379" />
+      <file name="/Dummy.regexp" timestamp="1550361323761">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="107" column="71" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="199" column="44" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="10" column="39" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="17" column="20" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="771" column="23" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>dommy</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>dommy</last-search>
+      <last-offset />
+      <last-pattern>dommy</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>dommy</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
