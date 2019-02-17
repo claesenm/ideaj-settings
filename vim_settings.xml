@@ -6,14 +6,13 @@
       <file name="/Dummy.txt" timestamp="1550361575202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1550364344745">
-        <mark key="'" line="20" column="14" />
-        <mark key="[" line="130" column="18" />
-        <mark key="]" line="130" column="11" />
-        <mark key="." line="130" column="11" />
-        <mark key="^" line="130" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1550414474958">
+        <mark key="'" line="95" column="27" />
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="79" column="13" />
+        <mark key="." line="79" column="13" />
+        <mark key="^" line="79" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/project.clj" timestamp="1550362558379" />
       <file name="/Dummy.regexp" timestamp="1550361323761">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,22 +31,27 @@
       <jump line="967" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="1052" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="20" column="14" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="95" column="27" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
+      <jump line="87" column="22" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">KGRlZiBqb3MgbG9nLWRlYnVnKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>]</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">KGRlZiBqb3MgbG9nLWRlYnVnKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">KGRlZm4gYmxhaCAiayIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>active?</text>
@@ -80,6 +84,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
