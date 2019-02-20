@@ -7,6 +7,7 @@
   :cursive.formatting/align-binding-forms true
   :cursive.formatting/align-maps false
   :cursive.formatting/default-only-indent true
+  :nrl.api.mutations/action :only-indent
   :nrl.gui.material-ui-comps/grid :only-indent
   :nrl.gui.material-ui-comps/mui-theme-provider :only-indent
 }</ClojureCodeStyleSettings>
