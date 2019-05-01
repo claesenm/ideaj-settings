@@ -489,12 +489,12 @@
     </option>
     <option name="Head symbol from clojure.core">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
+        <option name="FOREGROUND" value="36e87d" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="eedd33" />
+        <option name="BACKGROUND" value="424242" />
         <option name="ERROR_STRIPE_COLOR" value="eedd33" />
       </value>
     </option>
@@ -609,7 +609,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a8c023" />
+        <option name="FOREGROUND" value="ffeb95" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>

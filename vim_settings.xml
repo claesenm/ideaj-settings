@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1551654404930">
+      <file name="/Dummy.txt" timestamp="1556745756906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -48,11 +48,11 @@
         <mark key="^" line="27" column="9" />
         <mark key="." line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" timestamp="1553869418060">
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" timestamp="1556746150756">
         <mark key="'" line="194" column="54" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="1" />
-        <mark key="." line="79" column="1" />
+        <mark key="[" line="102" column="60" />
+        <mark key="]" line="102" column="59" />
+        <mark key="." line="102" column="59" />
         <mark key="^" line="79" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/new_study_def.cljs" timestamp="1550651330031">
@@ -162,11 +162,11 @@
       <jump line="56" column="1" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA7ICB7OnF1ZXJ5IChmbiBbXSAoY2FzZSAoOmxheWVyL3R5cGUgcHJvcHMpCiAgOyAgICAgICAgICAgICAgICAgICA6aGlnaC1yZXMtaW1hZ2UvYnktaWQgKHByaW0vZ2V0LXF1ZXJ5IEhpZ2hSZXNJbWFnZSkKICA7ICAgICAgICAgICAgICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
