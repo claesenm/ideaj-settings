@@ -48,7 +48,12 @@
         <mark key="^" line="27" column="9" />
         <mark key="." line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1556747283205" />
+      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1556748085635">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" timestamp="1556746150756">
         <mark key="'" line="194" column="54" />
         <mark key="[" line="102" column="60" />
