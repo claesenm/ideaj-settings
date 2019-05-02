@@ -23,11 +23,18 @@
         <mark key="." line="401" column="13" />
         <mark key="^" line="401" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" timestamp="1556793449411">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/requirements/prod.txt" timestamp="1556797333246">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" timestamp="1556799501068">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="8" />
+        <mark key="." line="91" column="8" />
+        <mark key="^" line="89" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" timestamp="1550650828038">
         <mark key="'" line="320" column="1" />
@@ -184,50 +191,61 @@
       <jump line="56" column="1" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="38" column="32" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="41" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="38" column="46" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="94" column="64" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="93" column="58" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="90" column="17" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="97" column="11" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="10" column="38" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="99" column="6" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBldmVudC5ldmVudF90eXBlID09ICdtb2RpZmllZCc6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>example_l</text>
+        <text>any_event</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZGVjb2RlX2xpbmUoZXhhbXBsZV9saW5lKSkK</text>
+        <text encoding="base64">cHJpbnQoJ3dhdGNoIGRpciAlcycgJSB3YXRjaF9kaXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBldmVudC5ldmVudF90eXBlID09ICdtb2RpZmllZCc6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
-      <register name="3" type="8">
-        <text>#
-#
-#
-#
-#</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBldmVudC5ldmVudF90eXBlID09ICdtb2RpZmllZCc6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZGVjb2RlX2xpbmUobGluZSkpCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5vYnNlcnZlci5qb2luKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnRyYW5zZmVyX21vZGUKCnRyYW5zZmVyX21vZGU6Ci0gYiBiaW5hcnkKLSBhIGFzY2lpCgphY2Nlc3NfbW9kZQotIGEgYW5vbnltb3VzCi0gZyBndWVzdAotIHIgcmVndWxhcgoKCnRyYW5zZmVyX2RpcmVjdGlvbjogaSBpbnB1dAoKY29tcGxldGlvbl9zdGF0dXMKYyBjb21wbGV0ZWQKaSBpbnRlcnJ1cHRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkVycm9yIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHdhdGNoZG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmaWxlc2l6ZSkKICAgICAgICBwcmludChyZWxhdGl2ZV9maWxlbmFtZSkKICAgICAgICBwcmludCh1c2VybmFtZSkK</text>
+        <text encoding="base64">ZnJvbSB3YXRjaGRvZy5vYnNlcnZlcnMucG9sbGluZyBpbXBvcnQgUG9sbGluZ09ic2VydmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbXBsZXRpb25fc3RhdHVzKQogICAgcHJpbnQoQ09NUExFVElPTl9TVEFUVVMuQ09NUExFVEVEKQogICAgcHJpbnQoQ09NUExFVElPTl9TVEFUVVMoY29tcGxldGlvbl9zdGF0dXMpKQo=</text>
+        <text encoding="base64">aW1wb3J0IHdhdGNoZG9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -255,6 +273,7 @@
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
         <entry>498</entry>
         <entry>198</entry>
+        <entry>set paste</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
