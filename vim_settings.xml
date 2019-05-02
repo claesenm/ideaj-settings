@@ -171,7 +171,6 @@
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/mutations.py" timestamp="1556808731220" />
     </filemarks>
     <jumps>
-      <jump line="107" column="71" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="199" column="44" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="10" column="39" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
@@ -271,6 +270,7 @@
       <jump line="158" column="15" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
       <jump line="33" column="58" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
       <jump line="34" column="81" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -370,6 +370,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
