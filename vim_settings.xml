@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" timestamp="1556807513429">
+        <mark key="'" line="158" column="15" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/root.cljs" timestamp="1550658781270">
         <mark key="[" line="63" column="20" />
         <mark key="]" line="63" column="27" />
@@ -23,12 +26,18 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" timestamp="1556805807831">
-        <mark key="'" line="135" column="34" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="148" column="78" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" timestamp="1556806686727">
+        <mark key="'" line="148" column="63" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="159" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-vsftpd-watchdog.sh" timestamp="1556806971911">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/aspect/error_handling.cljs" timestamp="1550658744361">
         <mark key="[" line="95" column="0" />
@@ -50,8 +59,29 @@
         <mark key="^" line="58" column="12" />
         <mark key="." line="58" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1556807487056">
+        <mark key="'" line="50" column="37" />
+      </file>
       <file name="/REPL.clj" timestamp="1550648193631">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-test.env" timestamp="1556806452964">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-staging.env" timestamp="1556806492747">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="28" column="67" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-production.env" timestamp="1556806415877">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="41" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" timestamp="1556805872816">
         <mark key="[" line="34" column="0" />
@@ -98,11 +128,11 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/role_selection_root.cljs" timestamp="1550651344992">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/shutdown-backend.sh" timestamp="1556806771330">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1551682577259">
         <mark key="'" line="56" column="1" />
@@ -111,6 +141,11 @@
         <mark key="." line="616" column="0" />
         <mark key="^" line="643" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1556806884142">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/util.cljs" timestamp="1550657496672">
         <mark key="[" line="240" column="19" />
         <mark key="]" line="241" column="1" />
@@ -118,6 +153,12 @@
         <mark key="." line="241" column="1" />
       </file>
       <file name="/usr/local/lib/python3.6/dist-packages/watchdog/events.py" timestamp="1556802126056" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" timestamp="1556807066424">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+      </file>
       <file name="/fragment.java" timestamp="1556746584046">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,55 +240,80 @@
       <jump line="84" column="28" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
       <jump line="56" column="50" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
       <jump line="138" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="148" column="63" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="41" column="22" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="21" column="20" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="32" column="32" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="33" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="34" column="32" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="35" column="32" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="36" column="30" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="50" column="37" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="27" column="79" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="36" column="31" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="38" column="31" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="47" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="105" column="59" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="111" column="12" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="112" column="12" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="129" column="31" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="143" column="30" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="153" column="45" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="154" column="15" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="157" column="43" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
+      <jump line="158" column="15" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbGVzaXplID0gZGF0YVsnZmlsZXNpemUnXQo=</text>
+        <text encoding="base64">Y2QgZmxhc2sK</text>
       </register>
       <register name="-" type="4">
-        <text>FTP_FOLDER,</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>FTP_FOLDER</text>
+        <text>Mandate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoJ3dhdGNoIGRpciAlcycgJSB3YXRjaF9kaXIpCg==</text>
+        <text encoding="base64">ZWNobyAiU3RhcnRpbmcgdnNmdHBkIGxvZyBsaXN0ZW5lci4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGVzaXplID0gZGF0YVsnZmlsZXNpemUnXQo=</text>
+        <text encoding="base64">Y2QgZmxhc2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgRklYTUU6IG5vdCBuZWNlc3NhcnkgYW55bW9yZSBzaW5jZSB3ZSdyZSBsaXN0ZW5pbmcgdG8gdnNmdHBkIGxvZ3MKICAgIHVwbG9hZF9jb21wbGV0ZSA9IGZpbGVzaXplID4gMAoKICAgIGlmIHVwbG9hZF9jb21wbGV0ZToKICAgICAgICAjIGxhdW5jaCBhc3luY2hyb25vdXMgam9iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlRQX0ZPTERFUiA9IG9zLmVudmlyb25bJ0ZUUF9GT0xERVInXQpwcmludCgiRlRQIEZPTERFUjogJXMiICUgRlRQX0ZPTERFUikK</text>
+        <text encoding="base64">Zmxhc2sgcnEgd29ya2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZpbGVpbnB1dAo=</text>
+        <text encoding="base64">cHl0aG9uMyBwYXJzZV92c2Z0cGRfbG9nX2VudHJ5LnB5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbGVuKGxpbmVzKSA+IDEgZWxzZSBsaW5lc1swXS5yc3RyaXAoKQo=</text>
+        <text encoding="base64">dyA9IFdhdGNoZXIoKQp3LnJ1bigpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExBU1RfUFJPQ0VTU0VEX0xJTkVfT05fU1RBUlQgPSBsaW5lc1stMV0ucnN0cmlwKCkK</text>
+        <text encoding="base64">I0xPR19GSUxFID0gbS5ncm91cCgyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>42</text>
       </register>
     </registers>
     <search>
-      <last-search>FTP_FOLDER</last-search>
+      <last-search>Mandate</last-search>
       <last-offset />
-      <last-pattern>FTP_FOLDER</last-pattern>
+      <last-pattern>Mandate</last-pattern>
       <last-replace>this</last-replace>
       <last-substitute>reconciler</last-substitute>
       <last-dir>1</last-dir>
@@ -262,6 +328,8 @@
         <entry>reconciler</entry>
         <entry>style</entry>
         <entry>FTP_FOLDER</entry>
+        <entry>role</entry>
+        <entry>Mandate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
@@ -270,6 +338,7 @@
         <entry>set paste</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>42</entry>
       </history-cmd>
       <history-expr />
       <history-input />
