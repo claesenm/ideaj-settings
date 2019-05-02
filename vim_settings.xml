@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1556782487143">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="o" line="0" column="21" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/root.cljs" timestamp="1550658781270">
         <mark key="[" line="63" column="20" />
         <mark key="]" line="63" column="27" />
@@ -29,43 +23,18 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" timestamp="1556799501068">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="8" />
-        <mark key="." line="91" column="8" />
-        <mark key="^" line="89" column="32" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" timestamp="1550650828038">
-        <mark key="'" line="320" column="1" />
-        <mark key="[" line="250" column="45" />
-        <mark key="]" line="251" column="55" />
-        <mark key="." line="251" column="55" />
-        <mark key="^" line="251" column="55" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/api/mutations.cljs" timestamp="1551652603523">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="^" line="172" column="12" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" timestamp="1556805807831">
+        <mark key="'" line="135" column="34" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="148" column="78" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/aspect/error_handling.cljs" timestamp="1550658744361">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="68" />
         <mark key="^" line="95" column="68" />
         <mark key="." line="95" column="68" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/api/permissions.cljs" timestamp="1551652792802">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="9" />
-        <mark key="^" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1556787771850">
-        <mark key="[" line="78" column="7" />
-        <mark key="]" line="28" column="3" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="28" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" timestamp="1556783660223">
         <mark key="'" line="194" column="54" />
@@ -81,6 +50,48 @@
         <mark key="^" line="58" column="12" />
         <mark key="." line="58" column="12" />
       </file>
+      <file name="/REPL.clj" timestamp="1550648193631">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" timestamp="1556805872816">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+      </file>
+      <file name="/Dummy.regexp" timestamp="1550361323761">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556782487143">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="o" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" timestamp="1550650828038">
+        <mark key="'" line="320" column="1" />
+        <mark key="[" line="250" column="45" />
+        <mark key="]" line="251" column="55" />
+        <mark key="." line="251" column="55" />
+        <mark key="^" line="251" column="55" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/api/mutations.cljs" timestamp="1551652603523">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="172" column="12" />
+        <mark key="." line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/api/permissions.cljs" timestamp="1551652792802">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1556787771850">
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/client.cljs" timestamp="1550655981060">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="16" column="1" />
@@ -93,14 +104,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1550648193631">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/dev/cljs/user.cljs" timestamp="1550649567280">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1551682577259">
         <mark key="'" line="56" column="1" />
         <mark key="[" line="616" column="0" />
@@ -108,30 +111,17 @@
         <mark key="." line="616" column="0" />
         <mark key="^" line="643" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/client_main.cljs" timestamp="1550649590099">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/util.cljs" timestamp="1550657496672">
         <mark key="[" line="240" column="19" />
         <mark key="]" line="241" column="1" />
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" timestamp="1556793185388">
-        <mark key="'" line="38" column="32" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="21" column="66" />
-        <mark key="." line="21" column="66" />
-      </file>
+      <file name="/usr/local/lib/python3.6/dist-packages/watchdog/events.py" timestamp="1556802126056" />
       <file name="/fragment.java" timestamp="1556746584046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.regexp" timestamp="1550361323761">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/mutations.py" timestamp="1556805621125" />
     </filemarks>
     <jumps>
       <jump line="107" column="71" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
@@ -206,55 +196,58 @@
       <jump line="10" column="38" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
       <jump line="99" column="6" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
       <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="84" column="28" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="56" column="50" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="138" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBldmVudC5ldmVudF90eXBlID09ICdtb2RpZmllZCc6Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVzaXplID0gZGF0YVsnZmlsZXNpemUnXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>any_event</text>
+        <text>FTP_FOLDER,</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>FTP_FOLDER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoJ3dhdGNoIGRpciAlcycgJSB3YXRjaF9kaXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBldmVudC5ldmVudF90eXBlID09ICdtb2RpZmllZCc6Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVzaXplID0gZGF0YVsnZmlsZXNpemUnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICMgRklYTUU6IG5vdCBuZWNlc3NhcnkgYW55bW9yZSBzaW5jZSB3ZSdyZSBsaXN0ZW5pbmcgdG8gdnNmdHBkIGxvZ3MKICAgIHVwbG9hZF9jb21wbGV0ZSA9IGZpbGVzaXplID4gMAoKICAgIGlmIHVwbG9hZF9jb21wbGV0ZToKICAgICAgICAjIGxhdW5jaCBhc3luY2hyb25vdXMgam9iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBldmVudC5ldmVudF90eXBlID09ICdtb2RpZmllZCc6Cg==</text>
+        <text encoding="base64">RlRQX0ZPTERFUiA9IG9zLmVudmlyb25bJ0ZUUF9GT0xERVInXQpwcmludCgiRlRQIEZPTERFUjogJXMiICUgRlRQX0ZPTERFUikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">aW1wb3J0IGZpbGVpbnB1dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5vYnNlcnZlci5qb2luKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbGVuKGxpbmVzKSA+IDEgZWxzZSBsaW5lc1swXS5yc3RyaXAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkVycm9yIikK</text>
+        <text encoding="base64">ICAgIExBU1RfUFJPQ0VTU0VEX0xJTkVfT05fU1RBUlQgPSBsaW5lc1stMV0ucnN0cmlwKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHdhdGNoZG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB3YXRjaGRvZy5vYnNlcnZlcnMucG9sbGluZyBpbXBvcnQgUG9sbGluZ09ic2VydmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHdhdGNoZG9nCg==</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search>FTP_FOLDER</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern>FTP_FOLDER</last-pattern>
       <last-replace>this</last-replace>
       <last-substitute>reconciler</last-substitute>
       <last-dir>1</last-dir>
@@ -268,6 +261,7 @@
         <entry>load-data</entry>
         <entry>reconciler</entry>
         <entry>style</entry>
+        <entry>FTP_FOLDER</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
