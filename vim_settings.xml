@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/marie-kondo.py" timestamp="1556917948075">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/marie-kondo.py" timestamp="1556919452834">
         <mark key="'" line="20" column="35" />
-        <mark key="[" line="100" column="40" />
-        <mark key="]" line="100" column="42" />
-        <mark key="." line="100" column="42" />
-        <mark key="^" line="100" column="42" />
+        <mark key="[" line="53" column="42" />
+        <mark key="]" line="53" column="66" />
+        <mark key="." line="53" column="66" />
+        <mark key="^" line="53" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/root.cljs" timestamp="1550658781270">
         <mark key="[" line="63" column="20" />
@@ -293,24 +293,25 @@
       <jump line="20" column="35" filename="$USER_HOME$/IdeaProjects/nrl-backend/marie-kondo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cantaloupe now serves from image cache 
-
-Merge branch 'feat_roles_permissions' of bitbucket.org:kaleidoanalytics/flask-backend into feat_roles_permissions
-
-# Conflicts:
-#	flask/app/settings.py</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Checking</text>
       </register>
       <register name="/" type="4">
         <text>FOLDER</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IE1BWF9JTUFHRV9DQUNIRV9TSVpFPTEwICMgaW4gR0IK</text>
+      <register name="0" type="4">
+        <text>os.path.getsize(</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBha2EuIGhvdyB0byBrZWVwIHlvdXIgY2FjaGUgY2xlYW4gCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>cantaloupe now serves from image cache 
 
 Merge branch 'feat_roles_permissions' of bitbucket.org:kaleidoanalytics/flask-backend into feat_roles_permissions
@@ -318,29 +319,23 @@ Merge branch 'feat_roles_permissions' of bitbucket.org:kaleidoanalytics/flask-ba
 # Conflicts:
 #	flask/app/settings.py</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">MS8K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IE1BWF9DQUNIRV9USU1FT1VUPTYwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ii9pbnN0YW5jZS1zdG9yZS9pbWFnZS1jYWNoZSIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IE1BWF9DQUNIRV9USU1FT1VUPTYwCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ii9pbnN0YW5jZS1zdG9yZS9pbWFnZS1jYWNoZSIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm0oZW50cnkuYmFzZV9uYW1lKQogICAgICAgICAgICBybShlbnRyeS5iYXNlX25hbWUgKyAiLmFjY2Vzc2VkIikKICAgICAgICAgICAgcm0oZW50cnkuYmFzZV9uYW1lICsgIi5jYWNoaW5nX3N0YXJ0ZWQiKQogICAgICAgICAgICBybShlbnRyeS5iYXNlX25hbWUgKyAiLmNhY2hpbmdfY29tcGxldGVkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
