@@ -38,25 +38,12 @@
         <mark key="^" line="95" column="68" />
         <mark key="." line="95" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" timestamp="1556783660223">
-        <mark key="'" line="194" column="54" />
-        <mark key="[" line="74" column="88" />
-        <mark key="]" line="74" column="89" />
-        <mark key="." line="74" column="89" />
-        <mark key="^" line="76" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/new_study_def.cljs" timestamp="1550651330031">
-        <mark key="'" line="373" column="21" />
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="58" column="12" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="58" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" timestamp="1556886844636">
-        <mark key="[" line="233" column="8" />
-        <mark key="]" line="233" column="106" />
-        <mark key="^" line="233" column="106" />
-        <mark key="." line="233" column="106" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" timestamp="1556887840682">
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1556878556594">
         <mark key="'" line="34" column="81" />
@@ -94,18 +81,16 @@
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" timestamp="1556887824883">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="57" column="21" />
+      </file>
       <file name="/Dummy.txt" timestamp="1556874099762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" timestamp="1550650828038">
-        <mark key="'" line="320" column="1" />
-        <mark key="[" line="250" column="45" />
-        <mark key="]" line="251" column="55" />
-        <mark key="." line="251" column="55" />
-        <mark key="^" line="251" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/api/mutations.cljs" timestamp="1551652603523">
         <mark key="[" line="172" column="0" />
@@ -143,12 +128,8 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" timestamp="1551682577259">
-        <mark key="'" line="56" column="1" />
-        <mark key="[" line="616" column="0" />
-        <mark key="]" line="616" column="0" />
-        <mark key="." line="616" column="0" />
-        <mark key="^" line="643" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" timestamp="1556887816497">
+        <mark key="'" line="129" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1556808396754">
         <mark key="[" line="27" column="28" />
@@ -172,15 +153,6 @@
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/mutations.py" timestamp="1556867063119" />
     </filemarks>
     <jumps>
-      <jump line="93" column="8" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="116" column="22" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="154" column="21" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="1090" column="36" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="967" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="1052" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="20" column="14" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="95" column="27" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="87" column="22" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="223" column="8" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" />
       <jump line="140" column="32" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" />
       <jump line="96" column="36" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" />
@@ -272,55 +244,66 @@
       <jump line="168" column="75" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
       <jump line="120" column="10" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
       <jump line="3" column="1" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="240" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="4" column="1" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="8" column="27" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="34" column="24" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="146" column="46" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="129" column="35" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" />
+      <jump line="55" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
+      <jump line="235" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>q.annotated_images(annotated_image_id=image_id)</text>
+        <text>AnnotatedImageRemark</text>
       </register>
       <register name="-" type="4">
-        <text>file.</text>
+        <text>AnnotatedImageRemark</text>
       </register>
       <register name="/" type="4">
-        <text>cached_filename</text>
+        <text>Response</text>
       </register>
       <register name="0" type="4">
-        <text>q.annotated_images(annotated_image_id=image_id)</text>
+        <text>return Response(
+        response=json.dumps(kwargs),
+        status=status,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltYWdlcyBhcmUgYWx3YXlzIG9yaWdpbmFsbHkgc3RvcmVkIHdpdGhpbiBJTUFHRV9GT0xERVIKICAgICAgICAjIEZJWE1FOiB0aGlzIGlzIG5vdCBzdHJpY3RseSBzcGVha2luZyB0cnVlIG9uY2Ugd2UgaGF2ZSBtdWx0aXBsZSBTMyBidWNrZXRzCiAgICAgICAgIyBGSVhNRTogbWF5YmUgdXNlIHVuZGVybHlpbmcgRmlsZSBvYmplY3RzPwogICAgICAgICMgRklYTUU6IC0tPiBpbWFnZSBmb2xkZXIgaXMgYWx3YXlzIGEgZmxhdCBzdHJ1Y3R1cmUsIHNvIHNob3VsZCBiZSBPSyEK</text>
+        <text encoding="base64">ICAgIHN0cigpIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB7ImNhY2hlZC1maWxlbmFtZSI6IH0Kbm9fY29udGVudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5maWxlbmFtZS5zdGFydHN3aXRoKGN1cnJlbnRfYXBwLmNvbmZpZ1siSU1BR0VfRk9MREVSIl0pLCBcCiAgICAgICAgICAgICJJbWFnZSBmaWxlbmFtZSBzaG91bGQgc3RhcnQgd2l0aCBJTUFHRV9GT0xERVIiCiAgICAgICAgcmVsYXRpdmVfZmlsZW5hbWUgPSBzZWxmLmZpbGVuYW1lW2xlbihjdXJyZW50X2FwcC5jb25maWdbIklNQUdFX0ZPTERFUiJdKV0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQ0FDSEVEIEZJTEVOQU1FIHt9Ii5mb3JtYXQocS5hbm5vdGF0ZWRfaW1hZ2VzKGFubm90YXRlZF9pbWFnZV9pZD1pbWFnZV9pZCkuY2FjaGVkX2ZpbGVuYW1lKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAjIGltYWdlcyBhcmUgYWx3YXlzIG9yaWdpbmFsbHkgc3RvcmVkIHdpdGhpbiBJTUFHRV9GT0xERVIKICAgICAgICAjIEZJWE1FOiB0aGlzIGlzIG5vdCBzdHJpY3RseSBzcGVha2luZyB0cnVlIG9uY2Ugd2UgaGF2ZSBtdWx0aXBsZSBTMyBidWNrZXRzCiAgICAgICAgIyBGSVhNRTogbWF5YmUgdXNlIHVuZGVybHlpbmcgRmlsZSBvYmplY3RzPwogICAgICAgICMgRklYTUU6IC0tPiBpbWFnZSBmb2xkZXIgaXMgYWx3YXlzIGEgZmxhdCBzdHJ1Y3R1cmUsIHNvIHNob3VsZCBiZSBPSyEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZVtsZW4oY3VycmVudF9hcHAuY29uZmlnWyJJTUFHRV9GT0xERVIiXSldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBob3cgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5maWxlbmFtZS5zdGFydHN3aXRoKGN1cnJlbnRfYXBwLmNvbmZpZ1siSU1BR0VfRk9MREVSIl0pLCBcCiAgICAgICAgICAgICJJbWFnZSBmaWxlbmFtZSBzaG91bGQgc3RhcnQgd2l0aCBJTUFHRV9GT0xERVIiCiAgICAgICAgcmVsYXRpdmVfZmlsZW5hbWUgPSBzZWxmLmZpbGVuYW1lW2xlbihjdXJyZW50X2FwcC5jb25maWdbIklNQUdFX0ZPTERFUiJdKV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZJWE1FOiBob3cgdG8gaGFuZGxlPwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZVtsZW4oY3VycmVudF9hcHAuY29uZmlnWyJJTUFHRV9GT0xERVIiXSldCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBob3cgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cached_filename</last-search>
+      <last-search>Response</last-search>
       <last-offset />
-      <last-pattern>cached_filename</last-pattern>
+      <last-pattern>Response</last-pattern>
       <last-replace>this</last-replace>
       <last-substitute>reconciler</last-substitute>
       <last-dir>1</last-dir>
@@ -338,6 +321,7 @@
         <entry>Mandate</entry>
         <entry>FTP_FOLDER</entry>
         <entry>cached_filename</entry>
+        <entry>Response</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
