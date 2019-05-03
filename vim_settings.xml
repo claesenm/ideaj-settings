@@ -26,12 +26,13 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" timestamp="1556867008652">
-        <mark key="'" line="149" column="63" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="59" />
-        <mark key="." line="64" column="59" />
-        <mark key="^" line="64" column="59" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" timestamp="1556872897063">
+        <mark key="a" line="76" column="0" />
+        <mark key="'" line="168" column="75" />
+        <mark key="[" line="168" column="76" />
+        <mark key="]" line="169" column="84" />
+        <mark key="." line="169" column="84" />
+        <mark key="^" line="169" column="84" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-vsftpd-watchdog.sh" timestamp="1556806971911">
         <mark key="[" line="12" column="0" />
@@ -171,9 +172,6 @@
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/mutations.py" timestamp="1556867063119" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="199" column="44" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
-      <jump line="10" column="39" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="17" column="20" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="771" column="23" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
       <jump line="93" column="8" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/pixi.cljs" />
@@ -271,46 +269,49 @@
       <jump line="33" column="58" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
       <jump line="34" column="81" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
       <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
+      <jump line="168" column="75" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>relative_filename</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>relative_filename</text>
       </register>
       <register name="/" type="4">
         <text>FTP_FOLDER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBleHBvcnQgRlRQX0ZPTERFUj0iJFRNT19CQUNLRU5EX1JFU09VUkNFUy9mdHAiCg==</text>
+        <text encoding="base64">cHJpbnQoIlZTRlRQRCBUUkFOU0ZFUiBMT0cgRklMRTogJXMiICUgVlNGVFBEX1hGRVJfTE9HKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JElNUE9SVF9GT0xERVIK</text>
+        <text encoding="base64">IyAgIFZkIG0gPSByZS5zZWFyY2goZmlsZW5hbWVfcmVnZXgsIGZpbGVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2QgZmxhc2sK</text>
+        <text encoding="base64">ICAgIG1hdGNoZXMgPSBnbG9iLmdsb2IoJy90bXAvam9lcGxhL2ZpbGVbIF9dLnR4dCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VlNGVFBEX1hGRVJfTE9HID0gb3MuZW52aXJvblsnVlNGVFBEX1hGRVJfTE9HJ10KcHJpbnQoIlZTRlRQRCBUUkFOU0ZFUiBMT0cgRklMRTogJXMiICUgVlNGVFBEX1hGRVJfTE9HKQpGVFBfRk9MREVSID0gb3MuZW52aXJvblsnRlRQX0ZPTERFUiddCnByaW50KCJGVFAgRk9MREVSOiAlcyIgJSBGVFBfRk9MREVSKQoKCm0gPSByZS5zZWFyY2gociIoLiopLyhbXi9dKikkIiwgVlNGVFBEX1hGRVJfTE9HKQpXQVRDSF9ESVIgPSBtLmdyb3VwKDEpCnByaW50KCd3YXRjaCBkaXIgJXMnICUgV0FUQ0hfRElSKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zmxhc2sgcnEgd29ya2VyCg==</text>
+        <text encoding="base64">I0xPR19GSUxFID0gbS5ncm91cCgyKQojcHJpbnQoJ2xvZyBmaWxlICVzJyAlIExPR19GSUxFKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHl0aG9uMyBwYXJzZV92c2Z0cGRfbG9nX2VudHJ5LnB5Cg==</text>
+        <text encoding="base64">RlRQX0ZPTERFUiA9IG9zLmVudmlyb25bJ0ZUUF9GT0xERVInXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dyA9IFdhdGNoZXIoKQp3LnJ1bigpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I0xPR19GSUxFID0gbS5ncm91cCgyKQo=</text>
+        <text encoding="base64">JElNUE9SVF9GT0xERVIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2QgZmxhc2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
