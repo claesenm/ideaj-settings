@@ -52,6 +52,12 @@
         <mark key="^" line="58" column="12" />
         <mark key="." line="58" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" timestamp="1556886844636">
+        <mark key="[" line="233" column="8" />
+        <mark key="]" line="233" column="106" />
+        <mark key="^" line="233" column="106" />
+        <mark key="." line="233" column="106" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1556878556594">
         <mark key="'" line="34" column="81" />
         <mark key="[" line="160" column="0" />
@@ -63,9 +69,6 @@
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
-      </file>
-      <file name="/REPL.clj" timestamp="1550648193631">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-test.env" timestamp="1556880153468">
         <mark key="[" line="39" column="0" />
@@ -90,9 +93,6 @@
         <mark key="]" line="11" column="56" />
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
-      </file>
-      <file name="/Dummy.regexp" timestamp="1550361323761">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1556874099762">
         <mark key="[" line="0" column="0" />
@@ -131,12 +131,11 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" timestamp="1556881502155">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" timestamp="1556881653583">
         <mark key="'" line="3" column="1" />
-        <mark key="[" line="128" column="17" />
-        <mark key="]" line="128" column="17" />
-        <mark key="." line="128" column="17" />
-        <mark key="^" line="128" column="17" />
+        <mark key="[" line="121" column="33" />
+        <mark key="]" line="121" column="33" />
+        <mark key="." line="121" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/shutdown-backend.sh" timestamp="1556806771330">
         <mark key="[" line="15" column="20" />
@@ -169,9 +168,6 @@
         <mark key="]" line="29" column="54" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="29" column="1" />
-      </file>
-      <file name="/fragment.java" timestamp="1556746584046">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/mutations.py" timestamp="1556867063119" />
     </filemarks>
@@ -279,43 +275,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>q.annotated_images(annotated_image_id=image_id)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>file.</text>
       </register>
       <register name="/" type="4">
         <text>cached_filename</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAubG9nZ2VyLmluZm8oInt9IGlzIGNhY2hlZC4iLmZvcm1hdChyZWxhdGl2ZV9maWxlbmFtZSkpCg==</text>
+      <register name="0" type="4">
+        <text>q.annotated_images(annotated_image_id=image_id)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBob3cgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltYWdlcyBhcmUgYWx3YXlzIG9yaWdpbmFsbHkgc3RvcmVkIHdpdGhpbiBJTUFHRV9GT0xERVIKICAgICAgICAjIEZJWE1FOiB0aGlzIGlzIG5vdCBzdHJpY3RseSBzcGVha2luZyB0cnVlIG9uY2Ugd2UgaGF2ZSBtdWx0aXBsZSBTMyBidWNrZXRzCiAgICAgICAgIyBGSVhNRTogbWF5YmUgdXNlIHVuZGVybHlpbmcgRmlsZSBvYmplY3RzPwogICAgICAgICMgRklYTUU6IC0tPiBpbWFnZSBmb2xkZXIgaXMgYWx3YXlzIGEgZmxhdCBzdHJ1Y3R1cmUsIHNvIHNob3VsZCBiZSBPSyEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZJWE1FOiBob3cgdG8gaGFuZGxlPwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5maWxlbmFtZS5zdGFydHN3aXRoKGN1cnJlbnRfYXBwLmNvbmZpZ1siSU1BR0VfRk9MREVSIl0pLCBcCiAgICAgICAgICAgICJJbWFnZSBmaWxlbmFtZSBzaG91bGQgc3RhcnQgd2l0aCBJTUFHRV9GT0xERVIiCiAgICAgICAgcmVsYXRpdmVfZmlsZW5hbWUgPSBzZWxmLmZpbGVuYW1lW2xlbihjdXJyZW50X2FwcC5jb25maWdbIklNQUdFX0ZPTERFUiJdKV0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGUK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZVtsZW4oY3VycmVudF9hcHAuY29uZmlnWyJJTUFHRV9GT0xERVIiXSldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVsYXRpdmVfZmlsZW5hbWUgaWYgY2FjaGVkIGVsc2UgTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBob3cgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X2FwcC5sb2dnZXIuaW5mbygiQ2hlY2tpbmcgd2hldGhlciB7fSBpcyBjYWNoZWQuIi5mb3JtYXQocmVsYXRpdmVfZmlsZW5hbWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FOiBob3cgdG8gaGFuZGxlPwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X2FwcC5sb2dnZXIuaW5mbygiQ2hlY2tpbmcgd2hldGhlciB7fSBpcyBjYWNoZWQuIi5mb3JtYXQocmVsYXRpdmVfZmlsZW5hbWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjYWNoZWQ6CiAgICAgICAgICAgIHJldHVybiByZWxhdGl2ZV9maWxlbmFtZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
