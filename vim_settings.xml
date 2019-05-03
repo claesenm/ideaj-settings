@@ -38,12 +38,26 @@
         <mark key="^" line="95" column="68" />
         <mark key="." line="95" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" timestamp="1556895108740">
-        <mark key="'" line="23" column="34" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="245" column="35" />
-        <mark key="." line="246" column="3" />
-        <mark key="^" line="246" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-cantaloupe.sh" timestamp="1556896902569">
+        <mark key="'" line="20" column="41" />
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1556896158905">
+        <mark key="[" line="111" column="4" />
+        <mark key="]" line="111" column="11" />
+        <mark key="." line="111" column="11" />
+        <mark key="^" line="111" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" timestamp="1556896739750">
+        <mark key="a" line="241" column="35" />
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
+        <mark key="^" line="239" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1556878556594">
         <mark key="'" line="34" column="81" />
@@ -69,11 +83,11 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-production.env" timestamp="1556880201605">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-production.env" timestamp="1556897730503">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" timestamp="1556879547672">
         <mark key="[" line="11" column="14" />
@@ -81,18 +95,17 @@
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" timestamp="1556889264434">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="101" column="89" />
-        <mark key="^" line="91" column="47" />
-        <mark key="." line="91" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" timestamp="1556896603181">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="118" column="23" />
+        <mark key="^" line="103" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556874099762">
+      <file name="/Dummy.txt" timestamp="1556897426895">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="o" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/api/mutations.cljs" timestamp="1551652603523">
         <mark key="[" line="172" column="0" />
@@ -118,12 +131,18 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" timestamp="1556889008172">
-        <mark key="'" line="15" column="39" />
-        <mark key="[" line="115" column="24" />
-        <mark key="]" line="115" column="24" />
-        <mark key="." line="115" column="24" />
-        <mark key="^" line="115" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" timestamp="1556896262481">
+        <mark key="'" line="73" column="6" />
+        <mark key="[" line="112" column="8" />
+        <mark key="]" line="112" column="22" />
+        <mark key="." line="112" column="22" />
+        <mark key="^" line="112" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/cantaloupe/cantaloupe.properties.base" timestamp="1556897291837">
+        <mark key="[" line="142" column="59" />
+        <mark key="]" line="142" column="63" />
+        <mark key="." line="142" column="63" />
+        <mark key="^" line="142" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/shutdown-backend.sh" timestamp="1556806771330">
         <mark key="[" line="15" column="20" />
@@ -131,13 +150,13 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" timestamp="1556892182518">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" timestamp="1556896619309">
         <mark key="a" line="298" column="55" />
-        <mark key="'" line="11" column="12" />
-        <mark key="[" line="331" column="35" />
-        <mark key="]" line="332" column="28" />
-        <mark key="." line="332" column="28" />
-        <mark key="^" line="332" column="28" />
+        <mark key="'" line="313" column="14" />
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1556808396754">
         <mark key="[" line="27" column="28" />
@@ -151,7 +170,6 @@
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
-      <file name="/usr/local/lib/python3.6/dist-packages/watchdog/events.py" timestamp="1556802126056" />
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" timestamp="1556880169207">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="54" />
@@ -164,15 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/new_study_def.cljs" />
-      <jump line="383" column="4" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/new_study_def.cljs" />
-      <jump line="33" column="42" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" />
-      <jump line="295" column="46" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" />
-      <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" />
-      <jump line="57" column="4" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" />
-      <jump line="285" column="1" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_mgmt_root.cljs" />
-      <jump line="462" column="55" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
-      <jump line="133" column="54" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/annotation_root.cljs" />
       <jump line="373" column="21" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/new_study_def.cljs" />
       <jump line="3" column="4" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/role_selection_root.cljs" />
       <jump line="544" column="9" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
@@ -264,57 +273,66 @@
       <jump line="11" column="12" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" />
       <jump line="238" column="3" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
       <jump line="23" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="557" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
+      <jump line="29" column="42" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
+      <jump line="73" column="6" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
+      <jump line="242" column="35" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
+      <jump line="313" column="14" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
+      <jump line="20" column="41" filename="$USER_HOME$/IdeaProjects/nrl-backend/run-cantaloupe.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGZuYW1lIGlzIE5vbmU6CiAgICAgICAgbS5jYWNoZV9maWxlKGFubm90YXRlZF9pbWFnZS5iYXNlX2ltYWdlLmZpbGUpCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz00MDQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>FOLDER</text>
       </register>
       <register name="-" type="4">
-        <text># FIXME: return resource not found</text>
+        <text>FOLDER</text>
       </register>
       <register name="/" type="4">
-        <text>Image</text>
+        <text>FOLDER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGZuYW1lIGlzIE5vbmU6CiAgICAgICAgbS5jYWNoZV9maWxlKGFubm90YXRlZF9pbWFnZS5iYXNlX2ltYWdlLmZpbGUpCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz00MDQpCg==</text>
+        <text encoding="base64">ICAgIGZuYW1lID0gYW5ub3RhdGVkX2ltYWdlLmZpbGVuYW1lX2NhY2hlZAogICAgaWYgZm5hbWUgaXMgTm9uZToKICAgICAgICBtLmNhY2hlX2ZpbGUoYW5ub3RhdGVkX2ltYWdlLmJhc2VfaW1hZ2UuZmlsZSkKICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc3RhdHVzPTQwNCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">RmlsZXN5c3RlbVNvdXJjZS5CYXNpY0xvb2t1cFN0cmF0ZWd5LnBhdGhfcHJlZml4ID0gJHtJTUFHRV9GT0xERVJ9Lwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGSVhNRTogYWRkIGNhbmFyeSBmaWxlIHRvIHNob3cgb3BlbmluZyBvZiBnaXZlbiBpbWFnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBSZXNwb25zZShyZXNwb25zZT1qc29uLmR1bXBzKHsiY2FjaGVkLWZpbGVuYW1lIjogZm5hbWV9KSwKICAgICAgICAgICAgICAgICAgICBzdGF0dXM9MjAwKQo=</text>
+        <text encoding="base64">ZGVmIHRvdWNoKGZuYW1lOiBzdHIsIG1vZGU9MG82NjYsIGRpcl9mZD1Ob25lLCAqKmt3YXJncyk6CiAgICAiIiJFcXVpdmFsZW50IG9mIHVuaXggJ3RvdWNoJyBjb21tYW5kLgoKICAgIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8xMTYwMjI3LzIxNDg2NzIKICAgICIiIgogICAgZmxhZ3MgPSBvcy5PX0NSRUFUIHwgb3MuT19BUFBFTkQKICAgIHdpdGggb3MuZmRvcGVuKG9zLm9wZW4oZm5hbWUsIGZsYWdzPWZsYWdzLCBtb2RlPW1vZGUsIGRpcl9mZD1kaXJfZmQpKSBhcyBmOgogICAgICAgIG9zLnV0aW1lKGYuZmlsZW5vKCkgaWYgb3MudXRpbWUgaW4gb3Muc3VwcG9ydHNfZmQgZWxzZSBmbmFtZSwKICAgICAgICAgICAgICAgICBkaXJfZmQ9Tm9uZSBpZiBvcy5zdXBwb3J0c19mZCBlbHNlIGRpcl9mZCwgKiprd2FyZ3MpCgoKZGVmIHJtKGZpbGU6IHN0cikgLT4gTm9uZToKICAgICIiIlVuaXgncyBybSAtZiBmaWxlIiIiCiAgICBpZiBvcy5wYXRoLmlzZmlsZShmaWxlKToKICAgICAgICBvcy5yZW1vdmUoZmlsZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FOiBhZGQgY2FuYXJ5IGZpbGUgdG8gc2hvdyBvcGVuaW5nIG9mIGdpdmVuIGltYWdlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1bGxfY2FjaGVkX3BhdGggPSAie30ve30iLmZvcm1hdChjdXJyZW50X2FwcC5jb25maWdbIklNQUdFX0NBQ0hFIl0sIGZpbGUuZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbmFtZSA9IGFubm90YXRlZF9pbWFnZS5maWxlbmFtZV9jYWNoZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlbGF0aXZlX25hbWUgPSBmaWxlLmZpbGVuYW1lCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz00MDQpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBybShmKToKICAgICAgICBpZiBvcy5wYXRoLmlzZmlsZShmKToKICAgICAgICAgICAgb3MucmVtb3ZlKGYpCg==</text>
+        <text encoding="base64">IyAgICAgICAgcmV0dXJuIHNlbGYuZmlsZW5hbWUKICAgICAgICAjIFRFU1RbMF0gPSBURVNUWzBdICsgMQogICAgICAgICMgY3VycmVudF9hcHAubG9nZ2VyLndhcm5pbmcoZiJURVNUID4+Pj4ge1RFU1RbMF0gJSA1ID09IDB9IikKICAgICAgICAjCiAgICAgICAgIyBpZiBURVNUWzBdICUgNSA9PSAwOgogICAgICAgICMgICAgIFRFU1RbMF0gPSAtMSAgIyBBbGxvdyBvcGVuc2VhZHJhZ29uIGNvbXBvbmVudCB0byBmZXRjaCB0aGUgZmlsZW5hbWUtY2FjaGVkCiAgICAgICAgIyAgICAgcmV0dXJuIHNlbGYuZmlsZW5hbWUgICMgRklYTUUgaW1wbGVtZW50IGNhY2hlIGluc3BlY3Rpb24KICAgICAgICAjIGVsc2U6CiAgICAgICAgIyAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Image</last-search>
+      <last-search>FOLDER</last-search>
       <last-offset />
-      <last-pattern>Image</last-pattern>
-      <last-replace>this</last-replace>
-      <last-substitute>reconciler</last-substitute>
+      <last-pattern>FOLDER</last-pattern>
+      <last-replace>CACHE</last-replace>
+      <last-substitute>FOLDER</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -332,6 +350,8 @@
         <entry>cached_filename</entry>
         <entry>Response</entry>
         <entry>Image</entry>
+        <entry>cached</entry>
+        <entry>FOLDER</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
@@ -341,6 +361,7 @@
         <entry>42</entry>
         <entry>set paste</entry>
         <entry>we</entry>
+        <entry encoding="base64">JzwsJz4lcy9GT0xERVIvQ0FDSEUvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
