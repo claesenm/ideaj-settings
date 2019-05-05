@@ -54,12 +54,12 @@
         <mark key="." line="238" column="61" />
         <mark key="^" line="238" column="61" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1557009089494">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="105" column="23" />
-        <mark key="]" line="105" column="30" />
-        <mark key="^" line="105" column="30" />
-        <mark key="." line="105" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1557013571260">
+        <mark key="'" line="115" column="4" />
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="15" />
+        <mark key="^" line="53" column="15" />
+        <mark key="." line="53" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-test.env" timestamp="1556916052145">
         <mark key="[" line="16" column="28" />
@@ -83,18 +83,18 @@
         <mark key="]" line="105" column="23" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557009378051">
+      <file name="/Dummy.txt" timestamp="1557013646737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" timestamp="1557009365493">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" timestamp="1557014495071">
         <mark key="a" line="24" column="17" />
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="130" column="4" />
-        <mark key="]" line="130" column="26" />
-        <mark key="." line="130" column="26" />
-        <mark key="^" line="130" column="26" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="72" column="35" />
+        <mark key="." line="72" column="35" />
+        <mark key="^" line="72" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" timestamp="1557006566884">
         <mark key="'" line="119" column="20" />
@@ -123,13 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="30" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
-      <jump line="153" column="45" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
-      <jump line="154" column="15" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
-      <jump line="157" column="43" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
-      <jump line="158" column="15" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
-      <jump line="33" column="58" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
-      <jump line="34" column="81" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
       <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
       <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
       <jump line="4" column="10" filename="$USER_HOME$/IdeaProjects/nrl-backend/parse_vsftpd_log_entry.py" />
@@ -202,11 +195,9 @@
       <jump line="19" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
       <jump line="167" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
       <jump line="189" column="8" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
       <jump line="171" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
       <jump line="139" column="26" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
-      <jump line="128" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
       <jump line="13" column="8" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" />
       <jump line="275" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" />
       <jump line="117" column="20" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
@@ -223,55 +214,64 @@
       <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" />
       <jump line="105" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" />
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="198" column="40" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="37" column="43" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="48" column="46" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="54" column="43" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="61" column="49" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="84" column="50" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="128" column="30" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print</text>
+        <text>caching_completed</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>caching_completed</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>config.</text>
       </register>
-      <register name="0" type="4">
-        <text>MARIE KONDO\t</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJtKGZ1bGxfY2FjaGVkX3BhdGggKyAiLmNhY2hpbmdfY29tcGxldGVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SU1BR0VfQ0FDSEUgPSBjdXJyZW50X2FwcC5jb25maWdbJ0lNQUdFX0NBQ0hFJ10KTUFYX0lNQUdFX0NBQ0hFX1NJWkUgPSBjdXJyZW50X2FwcC5jb25maWdbJ01BWF9JTUFHRV9DQUNIRV9TSVpFJ10KTUFYX0NBQ0hFX1RJTUVPVVQgPSBjdXJyZW50X2FwcC5jb25maWdbJ01BWF9DQUNIRV9USU1FT1VUJ10KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdWU0ZUUERfWEZFUl9MT0cnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdJTUFHRV9DQUNIRScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuLmRvbWFpbi5tb2RlbHMgaW1wb3J0IEZpbGUK</text>
+        <text encoding="base64">SU1BR0VfQ0FDSEUgPSBjdXJyZW50X2FwcC5jb25maWdbJ0lNQUdFX0NBQ0hFJ10KTUFYX0lNQUdFX0NBQ0hFX1NJWkUgPSBjdXJyZW50X2FwcC5jb25maWdbJ01BWF9JTUFHRV9DQUNIRV9TSVpFJ10KTUFYX0NBQ0hFX1RJTUVPVVQgPSBjdXJyZW50X2FwcC5jb25maWdbJ01BWF9DQUNIRV9USU1FT1VUJ10KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuLmRvbWFpbi5tb2RlbHMgaW1wb3J0IEZpbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SU1BR0VfQ0FDSEUgPSBjdXJyZW50X2FwcC5jb25maWdbJ0lNQUdFX0NBQ0hFJ10KTUFYX0lNQUdFX0NBQ0hFX1NJWkUgPSBjdXJyZW50X2FwcC5jb25maWdbJ01BWF9JTUFHRV9DQUNIRV9TSVpFJ10KTUFYX0NBQ0hFX1RJTUVPVVQgPSBjdXJyZW50X2FwcC5jb25maWdbJ01BWF9DQUNIRV9USU1FT1VUJ10K</text>
+        <text encoding="base64">ICAgICMgVE9ETwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIG1hcmllX2tvbmRvKCk6CiAgICBwcmludCgiSW1hZ2UgY2FjaGU6IHt9XHQobWF4IHNpemU6IHt9IEdCKSIuZm9ybWF0KElNQUdFX0NBQ0hFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNQVhfSU1BR0VfQ0FDSEVfU0laRSkpCgogICAgIyBkZXRlcm1pbmUgdG90YWwgc2l6ZQogICAgdG90YWxfc2l6ZSA9IDAKICAgIGZvciBkaXJwYXRoLCBkaXJuYW1lcywgZmlsZW5hbWVzIGluIG9zLndhbGsoSU1BR0VfQ0FDSEUpOgogICAgICAgIGZvciBmIGluIGZpbGVuYW1lczoKICAgICAgICAgICAgZnAgPSBvcy5wYXRoLmpvaW4oZGlycGF0aCwgZikKICAgICAgICAgICAgdG90YWxfc2l6ZSArPSBvcy5wYXRoLmdldHNpemUoZnApCgogICAgIyBob3cgbXVjaCBuZWVkcyB0byBiZSByZW1vdmVkIGluIGJ5dGVzCiAgICBwdXJnZV9zaXplID0gdG90YWxfc2l6ZSAtIDEwMjQqKjMgKiBNQVhfSU1BR0VfQ0FDSEVfU0laRQogICAgcHJpbnQoIk5lZWQgdG8gcHVyZ2Uge30gYnl0ZXMuIExldCdzIGdldCBjcmFja2luZyEiLmZvcm1hdChtYXgoMCwgcHVyZ2Vfc2l6ZSkpKQoKICAgIGFjY2Vzc2VkX2ZpbGVzID0gZ2xvYi5nbG9iKElNQUdFX0NBQ0hFICsgIi8qLmFjY2Vzc2VkIikKICAgIGVudHJpZXMgPSBbRW50cnkoYWNjZXNzZWQ9b3MucGF0aC5nZXRtdGltZShmKSwKICAgICAgICAgICAgICAgICAgICAgc2l6ZT1nZXRfc2l6ZShzdHJpcF9lbmQoZiwgIi5hY2Nlc3NlZCIpKSwKICAgICAgICAgICAgICAgICAgICAgYmFzZV9uYW1lPXN0cmlwX2VuZChmLCAiLmFjY2Vzc2VkIikpCiAgICAgICAgICAgICAgIGZvciBmIGluIGFjY2Vzc2VkX2ZpbGVzXQoKICAgIGlmIHB1cmdlX3NpemUgPiAwOgogICAgICAgIHRvdGFsX3B1cmdlZCA9IDAKICAgICAgICBudW1fcHVyZ2VkID0gMAoKICAgICAgICAjIHB1cmdlIGZpbGVzIHRoYXQgd2VyZSBhY2Nlc3NlZCBsZWFzdCByZWNlbnQKICAgICAgICBlbnRyaWVzX2J5X2FjY2Vzc19kYXRlID0gc29ydGVkKGVudHJpZXMsIGtleT1sYW1iZGEgZTogZS5hY2Nlc3NlZCkKICAgICAgICBmb3IgZW50cnkgaW4gZW50cmllc19ieV9hY2Nlc3NfZGF0ZToKICAgICAgICAgICAgaWYgdG90YWxfcHVyZ2VkID49IHB1cmdlX3NpemU6CiAgICAgICAgICAgICAgICBicmVhawoKICAgICAgICAgICAgcm1fY2FjaGVkX2VudHJ5KGVudHJ5LmJhc2VfbmFtZSkKICAgICAgICAgICAgdG90YWxfcHVyZ2VkICs9IGVudHJ5LnNpemUKICAgICAgICAgICAgbnVtX3B1cmdlZCArPSAxCgogICAgICAgIHByaW50KCJQdXJnZWQgJWQgZmlsZShzKSwgdG90YWxsaW5nICUxLjJmIEdCLiIgJSAobnVtX3B1cmdlZCwgdG90YWxfcHVyZ2VkIC8gMTAyNCoqMykpCgogICAgIyBjbGVhbiB1cCBzdGFsZSBmaWxlcyB0aGF0IHN0YXJ0ZWQgY2FjaGluZyBidXQgYXBwZWFyIHRvIG5ldmVyIGhhdmUgZmluaXNoZWQKICAgICMgaS5lLiwgZmlsZXMgd2l0aCAuY2FjaGluZ19zdGFydGVkIG1hcmtlciBhbmQgbm8gLmNhY2hpbmdfY29tcGxldGVkIG1hcmtlcgogICAgIyB3aGVyZSAuY2FjaGluZ19zdGFydGVkIGlzIHRvbyBvbGQgKG9sZGVyIHRoZW4gTUFYX0NBQ0hFX1RJTUVPVVQpCgogICAgYWNjZXNzZWRfYmFzZV9uYW1lcyA9IHNldChtYXAobGFtYmRhIGU6IGUuYmFzZV9uYW1lLCBlbnRyaWVzKSkKICAgIHN0YXJ0ZWRfZmlsZXMgPSBnbG9iLmdsb2IoSU1BR0VfQ0FDSEUgKyAiLyouY2FjaGluZ19zdGFydGVkIikKCiAgICAjIGJhc2UgbmFtZXMgb2YgZmlsZXMgdGhhdCBoYXZlIGEgc3RhcnRlZCBtYXJrZXIgYnV0IG5vIGFjY2Vzc2VkIG1hcmtlcgogICAgb25seV9zdGFydGVkID0gc2V0KG1hcChsYW1iZGEgZm5hbWU6IHN0cmlwX2VuZChmbmFtZSwgIi5jYWNoaW5nX3N0YXJ0ZWQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRlZF9maWxlcykpIC0gYWNjZXNzZWRfYmFzZV9uYW1lcwoKICAgIG51bV9wdXJnZWRfb25seV9zdGFydGVkID0gMAogICAgcHJpbnQoIlB1cmdpbmcgZmlsZXMgd2l0aCBzdGFsbGVkIGNhY2hpbmcgcHJvY2Vzcy4iKQogICAgZm9yIGJhc2VfbmFtZSBpbiBvbmx5X3N0YXJ0ZWQ6CiAgICAgICAgIyB3aGVuIGRpZCB0aGlzIGNhY2hpbmcgc3RhcnQ/CiAgICAgICAgY2FjaGluZ19zdGFydGVkX2RhdGUgPSBvcy5wYXRoLmdldGN0aW1lKGJhc2VfbmFtZSArICIuY2FjaGluZ19zdGFydGVkIikKICAgICAgICBpZiB0aW1lLnRpbWUoKSAtIGNhY2hpbmdfc3RhcnRlZF9kYXRlID4gTUFYX0NBQ0hFX1RJTUVPVVQ6CiAgICAgICAgICAgIHJtX2NhY2hlZF9lbnRyeShiYXNlX25hbWUpCiAgICAgICAgICAgIG51bV9wdXJnZWRfb25seV9zdGFydGVkICs9IDEKCiAgICBpZiBudW1fcHVyZ2VkX29ubHlfc3RhcnRlZDoKICAgICAgICBwcmludCgnUHVyZ2VkIHt9IGFkZGl0aW9uYWwgZmlsZShzKSB0aGF0IGFwcGVhcmVkIHRvIGhhdmUgc3RhbGxlZCBjYWNoaW5nLicuZm9ybWF0KG51bV9wdXJnZWRfb25seV9zdGFydGVkKSkK</text>
+        <text encoding="base64">SU1BR0VfQ0FDSEUgPSBjdXJyZW50X2FwcC5jb25maWdbJ0lNQUdFX0NBQ0hFJ10KTUFYX0lNQUdFX0NBQ0hFX1NJWkUgPSBjdXJyZW50X2FwcC5jb25maWdbJ01BWF9JTUFHRV9DQUNIRV9TSVpFJ10KTUFYX0NBQ0hFX1RJTUVPVVQgPSBjdXJyZW50X2FwcC5jb25maWdbJ01BWF9DQUNIRV9USU1FT1VUJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBGSVhNRTogbWFrZSBhc3luYwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>config.</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>config.</last-pattern>
       <last-replace />
       <last-substitute>MARIE KONDO\\t</last-substitute>
       <last-dir>1</last-dir>
@@ -279,7 +279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dommy</entry>
         <entry>active?</entry>
         <entry>app</entry>
         <entry>load-data</entry>
@@ -298,6 +297,8 @@
         <entry>MARIE KONDO\\t</entry>
         <entry encoding="base64">XDxFWFBPUlRfTU9DS1w+</entry>
         <entry>print</entry>
+        <entry>config</entry>
+        <entry>config.</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
