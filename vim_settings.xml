@@ -34,6 +34,12 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch.sh" timestamp="1557329142249">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-cantaloupe.sh" timestamp="1556917543121">
         <mark key="'" line="20" column="41" />
         <mark key="[" line="12" column="41" />
@@ -53,6 +59,12 @@
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1557131422681">
         <mark key="'" line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="20" />
+        <mark key="^" line="37" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-test.env" timestamp="1556916052145">
         <mark key="[" line="16" column="28" />
         <mark key="]" line="16" column="28" />
@@ -70,7 +82,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" timestamp="1557130346478">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" timestamp="1557329067395">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="56" column="39" />
         <mark key="]" line="56" column="46" />
@@ -83,16 +95,22 @@
         <mark key="^" line="225" column="7" />
         <mark key="." line="226" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/setup.sh" timestamp="1557324317177">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/setup.sh" timestamp="1557328928932">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1557131930882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch-apache.sh" timestamp="1557327130420">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" timestamp="1557014495071">
         <mark key="a" line="24" column="17" />
@@ -118,12 +136,6 @@
         <mark key="." line="249" column="85" />
         <mark key="^" line="249" column="85" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/mutations.py" timestamp="1557006343262">
-        <mark key="'" line="275" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/apache.conf" timestamp="1557324946491">
         <mark key="'" line="19" column="42" />
         <mark key="[" line="7" column="27" />
@@ -131,11 +143,17 @@
         <mark key="." line="1" column="52" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" timestamp="1556917359402">
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.conf" timestamp="1557328740492">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" timestamp="1557325779864">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/backend.py" timestamp="1557323647839">
         <mark key="[" line="4" column="0" />
@@ -247,44 +265,46 @@
       <jump line="18" column="42" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/apache.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>ID</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHdhcm5pbmdzCgpmcm9tIGFwcC5hcHBfZmFjdG9yeSBpbXBvcnQgY3JlYXRlX2FwcApmcm9tIGFwcC5zZXR0aW5ncyBpbXBvcnQgUHJvZENvbmZpZywgU3RhZ2luZ0NvbmZpZywgTG9jYWxEZXZDb25maWcsIExvY2FsVGVzdENvbmZpZwoKcHJvZmlsZSA9IG9zLmVudmlyb24uZ2V0KCJQUk9GSUxFIikKCmlmIG5vdCBwcm9maWxlOgogICAgd2FybmluZ3Mud2FybignTm8gIiRQUk9GSUxFIiBlbnZpcm9ubWVudCB2YXJpYWJsZSBmb3VuZCwgcHJvY2VlZGluZyB3aXRoIGRlZmF1bHQgY29uZmlnLicpCgp2YWxpZF9wcm9maWxlcyA9IHsncHJvZHVjdGlvbicsICdzdGFnaW5nJywgJ2xvY2FsLWRldicsICdsb2NhbC10ZXN0J30KaWYgcHJvZmlsZSBhbmQgcHJvZmlsZSBub3QgaW4gdmFsaWRfcHJvZmlsZXM6CiAgICByYWlzZSBWYWx1ZUVycm9yKGYnSW52YWxpZCBwcm9maWxlICJ7cHJvZmlsZX0iLCBtdXN0IGJlIG9uZSBvZiB7dmFsaWRfcHJvZmlsZXN9JykKCnByb2ZpbGVfY29uZmlncyA9IHsncHJvZHVjdGlvbic6IFByb2RDb25maWcoKSwKICAgICAgICAgICAgICAgICAgICdzdGFnaW5nJzogU3RhZ2luZ0NvbmZpZygpLAogICAgICAgICAgICAgICAgICAgJ2xvY2FsLWRldic6IExvY2FsRGV2Q29uZmlnKCksCiAgICAgICAgICAgICAgICAgICAnbG9jYWwtdGVzdCc6IExvY2FsVGVzdENvbmZpZygpfQoKY29uZmlnID0gcHJvZmlsZV9jb25maWdzLmdldChzdHIocHJvZmlsZSksIExvY2FsVGVzdENvbmZpZygpKQoKYXBwID0gY3JlYXRlX2FwcChjb25maWcpCg==</text>
+        <text encoding="base64">PFZpcnR1YWxIb3N0ICo6NTAwMD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z1ZkCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckxvZyAke0FQQUNIRV9MT0dfRElSfS9lcnJvci5sb2cKICAgICAgICBMb2dMZXZlbCB3YXJuCiAgICAgICAgQ3VzdG9tTG9nICR7QVBBQ0hFX0xPR19ESVJ9L2FjY2Vzcy5sb2cgY29tYmluZWQK</text>
+      <register name="2" type="8">
+        <text>#
+#
+#</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VkbyBhMmVuc2l0ZSBucmwtZmxhc2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VkbyBzZXJ2aWNlIGFwYWNoZTIgc3RvcApzdWRvIHNlcnZpY2UgYXBhY2hlMiBzdGFydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvZmlsZV9jb25maWdzID0geydwcm9kdWN0aW9uJzogUHJvZENvbmZpZygpLAogICAgICAgICAgICAgICAgICAgJ3N0YWdpbmcnOiBTdGFnaW5nQ29uZmlnKCksCiAgICAgICAgICAgICAgICAgICAnbG9jYWwtZGV2JzogTG9jYWxEZXZDb25maWcoKSwKICAgICAgICAgICAgICAgICAgICdsb2NhbC10ZXN0JzogTG9jYWxUZXN0Q29uZmlnKCl9Cgpjb25maWcgPSBwcm9maWxlX2NvbmZpZ3MuZ2V0KHN0cihwcm9maWxlKSwgTG9jYWxUZXN0Q29uZmlnKCkpCg==</text>
+        <text encoding="base64">c3VkbyBsbiAtcyBucmwtZmxhc2suY29uZiAvZXRjL2FwYWNoZTIvc2l0ZXMtYXZhaWxhYmxlL25ybC1mbGFzay5jb25mCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwID0gY3JlYXRlX2FwcChjb25maWcpCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c3VkbyBzZXJ2aWNlIGFwYWNoZTIgc3RhcnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gZmxhc2sgaW1wb3J0IGFwcCBhcyBhcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuYXBwX2ZhY3RvcnkgaW1wb3J0IGNyZWF0ZV9hcHAKZnJvbSBhcHAuc2V0dGluZ3MgaW1wb3J0IFByb2RDb25maWcsIFN0YWdpbmdDb25maWcsIExvY2FsRGV2Q29uZmlnLCBMb2NhbFRlc3RDb25maWcK</text>
+        <text encoding="base64">ICAgICAgICBFcnJvckxvZyAke0FQQUNIRV9MT0dfRElSfS9lcnJvci5sb2cKICAgICAgICBMb2dMZXZlbCB3YXJuCiAgICAgICAgQ3VzdG9tTG9nICR7QVBBQ0hFX0xPR19ESVJ9L2FjY2Vzcy5sb2cgY29tYmluZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -330,8 +350,10 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz4lcy9GT0xERVIvQ0FDSEUvZw==</entry>
         <entry>set paste</entry>
-        <entry>W</entry>
         <entry>%s/MARIE KONDO\\t//g</entry>
+        <entry>53</entry>
+        <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -361,6 +383,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
