@@ -70,12 +70,12 @@
         <mark key="." line="505" column="0" />
         <mark key="^" line="505" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" timestamp="1558001074101">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" timestamp="1558008617971">
         <mark key="'" line="18" column="60" />
-        <mark key="[" line="309" column="75" />
-        <mark key="]" line="309" column="75" />
-        <mark key="." line="309" column="75" />
-        <mark key="^" line="309" column="75" />
+        <mark key="[" line="309" column="43" />
+        <mark key="]" line="309" column="48" />
+        <mark key="." line="309" column="48" />
+        <mark key="^" line="309" column="48" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1557998695180" />
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
@@ -276,11 +276,11 @@
       <jump line="18" column="60" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>reset</text>
       </register>
       <register name="-" type="4">
-        <text># sending the email failed</text>
+        <text>reset</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
