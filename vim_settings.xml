@@ -46,13 +46,13 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" timestamp="1558099226397">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" timestamp="1558100699471">
         <mark key="a" line="255" column="12" />
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="251" column="92" />
-        <mark key="]" line="252" column="61" />
-        <mark key="^" line="252" column="61" />
-        <mark key="." line="252" column="61" />
+        <mark key="[" line="223" column="54" />
+        <mark key="]" line="223" column="54" />
+        <mark key="^" line="220" column="53" />
+        <mark key="." line="223" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1558094880746">
         <mark key="[" line="35" column="13" />
@@ -131,11 +131,11 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" timestamp="1558097723329">
-        <mark key="[" line="19" column="57" />
-        <mark key="]" line="19" column="65" />
-        <mark key="." line="19" column="65" />
-        <mark key="^" line="19" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" timestamp="1558100856436">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" timestamp="1558029142956">
         <mark key="[" line="91" column="59" />
@@ -299,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>new_password</text>
@@ -311,18 +311,21 @@
         <text>{creator_first_name} {creator_last_name}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX2VtYWlsX2FzeW5jKG1zZykK</text>
+        <text encoding="base64">ICAgICAgICAjIEZJWE1FOiBtYWlsaW5nIQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuLm1haWxpbmcgaW1wb3J0IHNlbmRfZW1haWxfYXN5bmMK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kX2VtYWlsX2FzeW5jKG1zZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuLm1haWxpbmcgaW1wb3J0IHNlbmRfZW1haWxfYXN5bmMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>&quot;\n&quot;.join([&quot;A password reset has been requested for this email address.&quot;,
                                   &quot;&quot;,
                                   f&quot;Your new password is {new_password}.&quot;,
@@ -330,17 +333,14 @@
                                   &quot;&quot;,
                                   &quot;If you did not initiate this reset, please contact the site administrators.&quot;])</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVgogICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bWFpbCAtcyAiJHtzdWJqZWN0fSIgJHtURVNUX0VNQUlMX0FERFJFU1N9Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">bWFpbCAtcyAiJHtzdWJqZWN0fSIgJHtURVNUX0VNQUlMX0FERFJFU1N9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFpbCAtcyAiJHtzdWJqZWN0fSIgJHtURVNUX0VNQUlMX0FERFJFU1N9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
