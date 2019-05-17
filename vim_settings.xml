@@ -46,13 +46,13 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" timestamp="1558106961588">
-        <mark key="a" line="256" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" timestamp="1558107949239">
+        <mark key="a" line="251" column="12" />
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="250" column="18" />
-        <mark key="]" line="250" column="90" />
-        <mark key="^" line="250" column="17" />
-        <mark key="." line="250" column="18" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="^" line="214" column="53" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1558106345510">
         <mark key="[" line="35" column="0" />
@@ -114,10 +114,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558079112301">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1558108440703">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/tos/api.py" timestamp="1558071579958">
         <mark key="[" line="20" column="23" />
@@ -131,12 +131,12 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" timestamp="1558106676860">
-        <mark key="'" line="35" column="8" />
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="69" />
-        <mark key="." line="31" column="69" />
-        <mark key="^" line="31" column="69" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" timestamp="1558107863289">
+        <mark key="'" line="31" column="34" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" timestamp="1558029142956">
         <mark key="[" line="91" column="59" />
@@ -176,12 +176,12 @@
         <mark key="^" line="3" column="130" />
         <mark key="." line="3" column="130" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" timestamp="1558106875530">
-        <mark key="'" line="181" column="4" />
-        <mark key="[" line="197" column="19" />
-        <mark key="]" line="197" column="21" />
-        <mark key="." line="197" column="21" />
-        <mark key="^" line="197" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" timestamp="1558108429052">
+        <mark key="'" line="179" column="4" />
+        <mark key="[" line="166" column="70" />
+        <mark key="]" line="166" column="70" />
+        <mark key="." line="166" column="70" />
+        <mark key="^" line="166" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" timestamp="1558106382686">
         <mark key="[" line="8" column="0" />
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/export/api.py" />
       <jump line="36" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" />
       <jump line="176" column="6" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
       <jump line="4" column="11" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/export/mutations.py" />
@@ -297,10 +296,11 @@
       <jump line="181" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
       <jump line="25" column="85" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" />
       <jump line="35" column="8" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" />
+      <jump line="32" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f&quot;An account has been created for you at {current_app.config['DOMAIN']}&quot;</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -312,36 +312,31 @@
         <text>f&quot;An account has been created for you at {current_app.config['DOMAIN']}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X2FwcC5sb2dnZXIuaW5mbygiU2VuZGluZyBlbWFpbCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdmcm9tX2VtYWlsQGV4YW1wbGUuY29tJywKICAgIHRvX2VtYWlscz0ndG9AZXhhbXBsZS5jb20nLAogICAgc3ViamVjdD0nU2VuZGluZyB3aXRoIFR3aWxpbyBTZW5kR3JpZCBpcyBGdW4nLAogICAgaHRtbF9jb250ZW50PSc8c3Ryb25nPmFuZCBlYXN5IHRvIGRvIGFueXdoZXJlLCBldmVuIHdpdGggUHl0aG9uPC9zdHJvbmc+JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIEZJWE1FOiBtYWlsaW5nIQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX2VtYWlsX2FzeW5jKG1zZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuLm1haWxpbmcgaW1wb3J0IHNlbmRfZW1haWxfYXN5bmMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;\n&quot;.join([&quot;A password reset has been requested for this email address.&quot;,
-                                  &quot;&quot;,
-                                  f&quot;Your new password is {new_password}.&quot;,
-                                  &quot;Please login and change your password.&quot;,
-                                  &quot;&quot;,
-                                  &quot;If you did not initiate this reset, please contact the site administrators.&quot;])</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
