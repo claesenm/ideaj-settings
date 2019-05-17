@@ -80,11 +80,11 @@
         <mark key="." line="73" column="31" />
         <mark key="^" line="73" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1558088548302">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="60" />
-        <mark key="^" line="33" column="60" />
-        <mark key="." line="33" column="60" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1558093980668">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="15" />
+        <mark key="^" line="35" column="15" />
+        <mark key="." line="35" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
         <mark key="[" line="35" column="0" />
@@ -164,11 +164,11 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" timestamp="1558088799277">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" timestamp="1558094160162">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+        <mark key="^" line="6" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/tos/models.py" timestamp="1558078462662">
         <mark key="'" line="16" column="0" />
@@ -224,7 +224,7 @@
         <mark key="." line="1" column="52" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558086195430">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558093556205">
         <mark key="[" line="72" column="9" />
         <mark key="]" line="72" column="13" />
         <mark key="." line="72" column="13" />
@@ -236,11 +236,11 @@
         <mark key="^" line="3" column="130" />
         <mark key="." line="3" column="130" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" timestamp="1558088590951">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" timestamp="1558094057903">
         <mark key="a" line="179" column="0" />
-        <mark key="'" line="12" column="56" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="12" />
+        <mark key="'" line="173" column="26" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="29" />
         <mark key="." line="184" column="12" />
         <mark key="^" line="186" column="0" />
       </file>
@@ -258,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="30" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/caching/mutations.py" />
       <jump line="229" column="62" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/export/mutations.py" />
       <jump line="55" column="20" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/export/mutations.py" />
@@ -358,46 +357,47 @@
       <jump line="12" column="56" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
       <jump line="124" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
       <jump line="116" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
+      <jump line="173" column="26" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
+      <register name="&quot;" type="4">
+        <text>mail</text>
       </register>
       <register name="-" type="4">
-        <text>current_app.</text>
+        <text>mail</text>
       </register>
       <register name="/" type="4">
         <text>AnnotationClass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuLnV0aWwgaW1wb3J0IHBhc3N3b3JkX2luc3BlY3Rpb25zLCBzZW5kX2VtYWlsX2FzeW5jCg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfYXBwLmxvZ2dlci5pbmZvKGYibWFpbCBzZW50IHN1Y2Nlc3NmdWxseSB0byB7bXNnLnJlY2lwaWVudHN9LiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
+        <text encoding="base64">Vgo+Pj4gZnJvbSBmbGFza19tYWlsIGltcG9ydCBNZXNzYWdlCj4+PiBmcm9tIGFwcCBpbXBvcnQgbWFpbAptc2cgPSBNZXNzYWdlKCd0ZXN0IHN1YmplY3QnLCBzZW5kZXI9J2luZm9AYnJvbC5jb20nLCByZWNpcGllbnRzPVsnbWFyYy5jbGFlc2VuQGFzcGVjdC1hbmFseXRpY3MuY29tJ10pCm1zZy5ib2R5ID0gJ3RleHQgYm9keScKbXNnLmh0bWwgPSAnPGgxPkhUTUwgYm9keTwvaDE+JwptYWlsLnNlbmQobXNnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuZXh0ZW5zaW9ucyBpbXBvcnQgcnEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHJxLmpvYgpkZWYgX3NlbmRfZW1haWxfYXN5bmNfam9iKG1zZyk6CiAgICBjdXJyZW50X2FwcC5tYWlsLnNlbmQobXNnKQoKCmRlZiBzZW5kX2VtYWlsX2FzeW5jKG1zZyk6CiAgICBfc2VuZF9lbWFpbF9hc3luY19qb2IucXVldWUobXNnKQo=</text>
+        <text encoding="base64">ZnJvbSAuZXh0ZW5zaW9ucyBpbXBvcnQgcnEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBzZW5kIG1haWwKICAgICAgICAgICAgIyAgICAgICAgbWFpbCA9IG1haWxlci5kcmFmdF9wYXNzd29yZF9tYWlsKHVzZXIudXNlcm5hbWUsIG5ld19wYXNzd29yZCkKICAgICAgICAgICAgIyAgICAgICAgbWFpbGVyLnNlbmQodXNlci5lbWFpbCwgbWFpbCkK</text>
+        <text encoding="base64">QHJxLmpvYgpkZWYgX3NlbmRfZW1haWxfYXN5bmNfam9iKG1zZyk6CiAgICBjdXJyZW50X2FwcC5tYWlsLnNlbmQobXNnKQoKCmRlZiBzZW5kX2VtYWlsX2FzeW5jKG1zZyk6CiAgICBfc2VuZF9lbWFpbF9hc3luY19qb2IucXVldWUobXNnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICBfc2VuZF9lbWFpbF9hc3luYyhtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBzZW5kIG1haWwKICAgICAgICAgICAgIyAgICAgICAgbWFpbCA9IG1haWxlci5kcmFmdF9wYXNzd29yZF9tYWlsKHVzZXIudXNlcm5hbWUsIG5ld19wYXNzd29yZCkKICAgICAgICAgICAgIyAgICAgICAgbWFpbGVyLnNlbmQodXNlci5lbWFpbCwgbWFpbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIF9zZW5kX2VtYWlsX2FzeW5jKG1zZyk6CiAgICBjdXJyZW50X2FwcC5tYWlsLnNlbmQobXNnKQoKCg==</text>
+        <text encoding="base64">IyAgICBfc2VuZF9lbWFpbF9hc3luYyhtc2cpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRocmVhZCh0YXJnZXQ9X3NlbmRfZW1haWxfYXN5bmMsIGFyZ3M9KGFwcCwgbXNnKSkuc3RhcnQoKQo=</text>
+        <text encoding="base64">ZGVmIF9zZW5kX2VtYWlsX2FzeW5jKG1zZyk6CiAgICBjdXJyZW50X2FwcC5tYWlsLnNlbmQobXNnKQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggYXBwLmFwcF9jb250ZXh0KCk6CiAgICAgICAgbWFpbC5zZW5kKG1zZykK</text>
+        <text encoding="base64">ICAgIFRocmVhZCh0YXJnZXQ9X3NlbmRfZW1haWxfYXN5bmMsIGFyZ3M9KGFwcCwgbXNnKSkuc3RhcnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
