@@ -92,11 +92,11 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/setup.sh" timestamp="1558338230790">
-        <mark key="[" line="29" column="60" />
-        <mark key="]" line="30" column="27" />
-        <mark key="." line="30" column="27" />
-        <mark key="^" line="30" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/setup.sh" timestamp="1558339372543">
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/defaults.py" timestamp="1558029175341">
         <mark key="[" line="222" column="39" />
@@ -314,8 +314,8 @@
       <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/backend-production.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwb3J0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JHtQT1NUR1JFU19QQVNTV09SRH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZXhwb3J0IA==</text>
@@ -327,31 +327,31 @@
         <text>${POSTGRES_USER}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IFBPU1RHUkVTX1BBU1NXT1JEPSQK</text>
+        <text encoding="base64">JHtQT1NUR1JFU19QQVNTV09SRH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dW5zZXQgUEFTU1dPUkQK</text>
+        <text encoding="base64">ZXhwb3J0IFBPU1RHUkVTX1BBU1NXT1JEPSQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFBPU1RHUkVTX1VTRVIgPSBvcy5lbnZpcm9uKCdQT1NUR1JFU19VU0VSJykKICAgIFBPU1RHUkVTX1BBU1NXT1JEID0gb3MuZW52aXJvbignUE9TVEdSRVNfUEFTU1dPUkQnKQogICAgU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSBmJ3Bvc3RncmVzcWwrcHN5Y29wZzI6Ly97UE9TVEdSRVNfVVNFUn06e1BPU1RHUkVTX1BBU1NXT1JEfUBsb2NhbGhvc3Qve1BPU1RHUkVTX1VTRVJ9Jwo=</text>
+        <text encoding="base64">dW5zZXQgUEFTU1dPUkQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHN5Y29wZzIgIyBwb3N0Z3Jlcwo=</text>
+        <text encoding="base64">ICAgIFBPU1RHUkVTX1VTRVIgPSBvcy5lbnZpcm9uKCdQT1NUR1JFU19VU0VSJykKICAgIFBPU1RHUkVTX1BBU1NXT1JEID0gb3MuZW52aXJvbignUE9TVEdSRVNfUEFTU1dPUkQnKQogICAgU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSBmJ3Bvc3RncmVzcWwrcHN5Y29wZzI6Ly97UE9TVEdSRVNfVVNFUn06e1BPU1RHUkVTX1BBU1NXT1JEfUBsb2NhbGhvc3Qve1BPU1RHUkVTX1VTRVJ9Jwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">cHN5Y29wZzIgIyBwb3N0Z3Jlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAtZCAtUCAke1BPU1RHUkVTX1BBU1NXT1JEfQo=</text>
+        <text encoding="base64">cHN5Y29wZzIgIyBwb3N0Z3Jlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2VudnN1YnN0ICcke1BPU1RHUkVTX1BBU1NXT1JEfScgPCBwb3N0Z3Jlcy1wYXNzd29yZC1iYXNlLmVudiA+IHBvc3RncmVzLXBhc3N3b3JkLmVudgo=</text>
+        <text encoding="base64">ICAgICAtZCAtUCAke1BPU1RHUkVTX1BBU1NXT1JEfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAkUE9TVEdSRVNfUEFTU1dPUkQK</text>
+        <text encoding="base64">I2VudnN1YnN0ICcke1BPU1RHUkVTX1BBU1NXT1JEfScgPCBwb3N0Z3Jlcy1wYXNzd29yZC1iYXNlLmVudiA+IHBvc3RncmVzLXBhc3N3b3JkLmVudgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IFBPU1RHUkVTX1BBU1NXT1JECg==</text>
+        <text encoding="base64">ZWNobyAkUE9TVEdSRVNfUEFTU1dPUkQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
