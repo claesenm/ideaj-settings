@@ -72,6 +72,13 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1558356729823">
+        <mark key="'" line="51" column="60" />
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="60" />
+        <mark key="." line="51" column="60" />
+        <mark key="^" line="51" column="60" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="20" />
@@ -213,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="12" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="79" column="20" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="11" column="38" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="33" column="26" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" />
@@ -313,13 +319,14 @@
       <jump line="14" column="1" filename="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" />
       <jump line="68" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" />
       <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/backend-production.env" />
+      <jump line="51" column="60" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNEQl9OQU1FID0gb3MuZW52aXJvbi5nZXQoJ0RCX05BTUUnLCBkZWZhdWx0PSdwcm9kdWN0aW9uLmRiJykKICAgICNEQl9QQVRIID0gb3MucGF0aC5qb2luKENvbmZpZy5QUk9KRUNUX1JPT1QsIERCX05BTUUpCiAgICAjU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSBmJ3NxbGl0ZTovLy97REJfUEFUSH0nCgo=</text>
+      <register name="&quot;" type="4">
+        <text>jim_kirk</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>jim_kirk</text>
       </register>
       <register name="/" type="4">
         <text>70</text>
