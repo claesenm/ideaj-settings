@@ -54,10 +54,9 @@
         <mark key="^" line="214" column="53" />
         <mark key="." line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1558106345510">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1558331943161">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
@@ -101,11 +100,10 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/setup.sh" timestamp="1558085537965">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/setup.sh" timestamp="1558331909607">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" timestamp="1558088268562">
         <mark key="'" line="115" column="0" />
@@ -164,11 +162,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558096561416">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="54" />
-        <mark key="." line="74" column="54" />
-        <mark key="^" line="74" column="54" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558331996183">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/postfix-conf-base.cf" timestamp="1558085487655">
         <mark key="[" line="1" column="20" />
@@ -299,11 +297,11 @@
       <jump line="32" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -312,31 +310,31 @@
         <text>f&quot;An account has been created for you at {current_app.config['DOMAIN']}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
+        <text encoding="base64">CmlmIFsgJFBST0ZJTEUgPT0gInByb2R1Y3Rpb24iIF07CnRoZW4KCSMgY29uZmlndXJlIHNlY3VyaXR5IHNldHRpbmdzIGZvciBwb3N0Zml4IG1haWwgc2VydmVyCgkjIGh0dHA6Ly93d3cucG9zdGZpeC5vcmcvVExTX1JFQURNRS5odG1sI3NlcnZlcl90bHMKCXN1ZG8gcG9zdGNvbmYgLWUgInNtdHBkX3Rsc19jZXJ0X2ZpbGUgPSAvZXRjL2xldHNlbmNyeXB0L2xpdmUvJHtET01BSU59L2Z1bGxjaGFpbi5wZW0iCglzdWRvIHBvc3Rjb25mIC1lICJzbXRwZF90bHNfY2VydF9maWxlID0gL2V0Yy9sZXRzZW5jcnlwdC9saXZlLyR7RE9NQUlOfS9mdWxsY2hhaW4ucGVtIgoJc3VkbyBwb3N0Y29uZiAtZSAic210cGRfdGxzX3NlY3VyaXR5X2xldmVsID0gbWF5IgpmaQoKc3VkbyBzZXJ2aWNlIHBvc3RmaXggLS1mdWxsLXJlc3RhcnQKc3VkbyBzZXJ2aWNlIHBvc3RmaXggc3RhdHVzICN8IGhlYWQgLW4gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
+        <text encoding="base64">ZWNobyAiIgplY2hvICJSZWNvbmZpZ3VyaW5nIHBvc3RmaXguIgouL2NvbmZpZ3VyZS1wb3N0Zml4LnNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
+        <text encoding="base64">IyAgICBNQUlMX1NFUlZFUiA9ICJsb2NhbGhvc3QiCiMgICAgTUFJTF9QT1JUID0gMjUKIyAgICBNQUlMX1VTRV9UTFMgPSBUcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
+        <text encoding="base64">aW5zdGFsbCBtYWlsdXRpbHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
+        <text encoding="base64">IyBTTVRQIG1haWwgc2VydmVyIChwb3N0Zml4KQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICIiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
