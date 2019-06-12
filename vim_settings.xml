@@ -41,6 +41,12 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/aspect/error_handling.cljs" timestamp="1560375680548">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="43" />
+        <mark key="^" line="27" column="43" />
+        <mark key="." line="27" column="43" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-cantaloupe.sh" timestamp="1558333945305">
         <mark key="'" line="20" column="41" />
         <mark key="[" line="18" column="0" />
@@ -178,12 +184,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" timestamp="1560353072249">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="446" column="86" />
-        <mark key="]" line="446" column="114" />
-        <mark key="." line="446" column="114" />
-        <mark key="^" line="446" column="114" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" timestamp="1560376854934">
+        <mark key="'" line="447" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-nginx.sh" timestamp="1558085038191">
         <mark key="[" line="14" column="26" />
@@ -210,7 +216,8 @@
         <mark key="." line="198" column="49" />
         <mark key="^" line="198" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/util.cljs" timestamp="1560350534260">
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/util.cljs" timestamp="1560374447848">
+        <mark key="'" line="417" column="4" />
         <mark key="[" line="468" column="0" />
         <mark key="]" line="468" column="42" />
         <mark key="^" line="468" column="42" />
@@ -231,8 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="24" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" />
       <jump line="90" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
       <jump line="61" column="25" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
@@ -331,55 +336,58 @@
       <jump line="118" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/header.cljs" />
       <jump line="441" column="101" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
       <jump line="17" column="27" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="417" column="4" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/util.cljs" />
+      <jump line="448" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRpb24tZGF0ZSAgICgtPiBsYXRlc3QtYW5ub3RhdGlvbiA6Y3JlYXRlZCB1aS11dGlsL2RlY29kZS1pc28tZGF0ZSkK</text>
+        <text encoding="base64">OyAgICAgICAgezprZXlzIFthbm5vdGF0aW9uLWxvY2tvdXQ/IGxvY2tvdXQtZXJyb3ItZGlhbG9nIV19IChwcmltL2dldC1jb21wdXRlZCB0aGlzKV0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KC0+IGxhdGVzdC1hbm5vdGF0aW9uIDpjcmVhdGVkKQ==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>storage</text>
+        <text>query-server</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFthc3BlY3QudWkuc3RvcmFnZSA6YXMgc3RvcmFnZV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRpb24tZGF0ZSAgICgtPiBsYXRlc3QtYW5ub3RhdGlvbiA6Y3JlYXRlZCB1aS11dGlsL2RlY29kZS1pc28tZGF0ZSkK</text>
+        <text encoding="base64">OyAgICAgICAgezprZXlzIFthbm5vdGF0aW9uLWxvY2tvdXQ/IGxvY2tvdXQtZXJyb3ItZGlhbG9nIV19IChwcmltL2dldC1jb21wdXRlZCB0aGlzKV0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cgIkxBVEVTVCBBTk5PVEFUSU9OIElORk86ICIgbGF0ZXN0LWFubm90YXRpb24gY3VycmVudC11c2VyLWlkICh1aS11dGlsL25vdykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgtICh1aS11dGlsL25vdykgY3JlYXRpb24tZGF0ZSkpCgo=</text>
+      <register name="2" type="4">
+        <text>#(prim/computed % {:annotation-lockout? (annotation-lockout? latest-annotation)
+                                                                     :lockout-error-dialog! lockout-error-dialog!})</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGFubm90YXRpb24gbG9ja291dCBpZiB0aW1lIHNpbmNlIGxhc3QgYW5ub3RhdGlvbiA8IGFubm90YXRpb24tbG9ja291dC1wZXJpb2QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGFuZCBsYXN0IGFubm90YXRpb24gd2FzIHBsYWNlZCBieSBhIGRpZmZlcmVudCB1c2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZGlzYWJsZWQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uLWxvY2tvdXQtcGVyaW9kICAoKiAxNSA2MCAxMDAwKSA7IDE1IG1pbiBsb2Nrb3V0IHBlcmlvZAo=</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uLWxvY2tvdXQ/IChmbiBbbGF0ZXN0LWFubm90YXRpb25dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgYW5ub3RhdGlvbiBsb2Nrb3V0IGlmIHRpbWUgc2luY2UgbGFzdCBhbm5vdGF0aW9uIDwgYW5ub3RhdGlvbi1sb2Nrb3V0LXBlcmlvZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGFuZCBsYXN0IGFubm90YXRpb24gd2FzIHBsYWNlZCBieSBhIGRpZmZlcmVudCB1c2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChsZXQgW2N1cnJlbnQtdXNlci1pZCAoOmRiL2lkIChzdG9yYWdlL2dldC1mcm9tLXN0b3JhZ2UgOmN1cnJlbnQtdXNlcikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFOTk9UQVRJT05fTE9DS09VVF9QRVJJT0QgKCogMTUgNjAgMTAwMCldIDsgMTUgbWluIGxvY2tvdXQgcGVyaW9kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGFuZCAoLT4+IGxhdGVzdC1hbm5vdGF0aW9uIDpjcmVhdGVkIHVpLXV0aWwvZGVjb2RlLWlzby1kYXRlIDsgY3JlYXRpb24gZGF0ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoLSAodWktdXRpbC9ub3cpKSAoPiBBTk5PVEFUSU9OX0xPQ0tPVVRfUEVSSU9EKSkgOyB0aW1lIHNwZW50IHNpbmNlIGNyZWF0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoLT4+IGxhdGVzdC1hbm5vdGF0aW9uIDpjcmVhdGluZy11c2VyLWlkIChub3Q9IGN1cnJlbnQtdXNlci1pZCkpKSkpCiAgICAgICAgbG9ja291dC1lcnJvci1kaWFsb2chIChmbiBbXSAoZXJyb3IvZGlhbG9nISB0aGlzICJJbWFnZSBsb2NrZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsiVGhpcyBpbWFnZSBpcyBjdXJyZW50bHkgYmVpbmcgYW5ub3RhdGVkIGJ5IHNvbWVvbmUgZWxzZS4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiWW91IGNhbm5vdCBhZGQgb3IgZGVsZXRlIGFubm90YXRpb25zIHdoaWxlIHRoaXMgaXMgb25nb2luZy4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlBsZWFzZSByZWZyZXNoIHRoaXMgcGFnZSBsYXRlciBpZiB5b3Ugd2FudCB0byBjb250aW51ZS4iXSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRpb24tZGF0ZSAgICgtPiBsYXRlc3QtYW5ub3RhdGlvbiA6Y3JlYXRlZCB1aS11dGlsL2RlY29kZS1pc28tZGF0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50LXVzZXItaWQgKDpkYi9pZCAoc3RvcmFnZS9nZXQtZnJvbS1zdG9yYWdlIDpjdXJyZW50LXVzZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cgIkxBVEVTVCBBTk5PVEFUSU9OIElORk86ICIgbGF0ZXN0LWFubm90YXRpb24gY3VycmVudC11c2VyLWlkICh1aS11dGlsL25vdykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgtICh1aS11dGlsL25vdykgY3JlYXRpb24tZGF0ZSkpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAob3IgKC0+PiBsYXRlc3QtYW5ub3RhdGlvbiA6Y3JlYXRlZCAoLSAodWktdXRpbC9ub3cpKSAoPCBhbm5vdGF0aW9uLWxvY2tvdXQtcGVyaW9kKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGFubm90YXRpb24gbG9ja291dCBpZiB0aW1lIHNpbmNlIGxhc3QgYW5ub3RhdGlvbiA8IGFubm90YXRpb24tbG9ja291dC1wZXJpb2QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGFuZCBsYXN0IGFubm90YXRpb24gd2FzIHBsYWNlZCBieSBhIGRpZmZlcmVudCB1c2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGRlZm4gdGltZS1kaWZmLW1zIFthIGJdICgtICkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uLWxvY2tvdXQtcGVyaW9kICAoKiAxNSA2MCAxMDAwKSA7IDE1IG1pbiBsb2Nrb3V0IHBlcmlvZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNEQl9OQU1FID0gb3MuZW52aXJvbi5nZXQoJ0RCX05BTUUnLCBkZWZhdWx0PSdwcm9kdWN0aW9uLmRiJykKICAgICNEQl9QQVRIID0gb3MucGF0aC5qb2luKENvbmZpZy5QUk9KRUNUX1JPT1QsIERCX05BTUUpCiAgICAjU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSBmJ3NxbGl0ZTovLy97REJfUEFUSH0nCgo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>storage</last-search>
+      <last-search>query-server</last-search>
       <last-offset />
-      <last-pattern>storage</last-pattern>
+      <last-pattern>query-server</last-pattern>
       <last-replace>current_app.logger.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -387,7 +395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>VIEW_STUDY_LIST</entry>
         <entry>logging</entry>
         <entry>logger</entry>
         <entry>no_content</entry>
@@ -407,6 +414,7 @@
         <entry>70</entry>
         <entry>add-annotation</entry>
         <entry>storage</entry>
+        <entry>query-server</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
