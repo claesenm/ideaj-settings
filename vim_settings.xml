@@ -180,6 +180,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/client.cljs" timestamp="1560324098387">
+        <mark key="[" line="15" column="67" />
+        <mark key="]" line="15" column="66" />
+        <mark key="^" line="15" column="66" />
+        <mark key="." line="15" column="66" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-nginx.sh" timestamp="1558085038191">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
@@ -375,43 +381,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>STAGING</entry>
-        <entry>VIEW_STUDY_KIST</entry>
-        <entry>VIEW_STUDY_LIST</entry>
-        <entry>logging</entry>
-        <entry>logger</entry>
-        <entry>no_content</entry>
-        <entry>staging-ima</entry>
-        <entry>DELETE_STAGING_IMAGE</entry>
-        <entry>File</entry>
-        <entry>staging</entry>
-        <entry>DELETE</entry>
-        <entry>ID</entry>
-        <entry>user</entry>
-        <entry>\/user</entry>
-        <entry>'\/users</entry>
-        <entry>'</entry>
-        <entry>AnnotationClass</entry>
-        <entry>new_password</entry>
-        <entry>print</entry>
-        <entry>70</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
-        <entry>498</entry>
-        <entry>198</entry>
-        <entry>42</entry>
-        <entry>we</entry>
-        <entry encoding="base64">JzwsJz4lcy9GT0xERVIvQ0FDSEUvZw==</entry>
-        <entry>%s/MARIE KONDO\\t//g</entry>
-        <entry>53</entry>
-        <entry>set paste</entry>
-        <entry>319</entry>
-        <entry encoding="base64">JzwsJz5zL3ByaW50L2N1cnJlbnRfYXBwLmxvZ2dlci5pbmZvL2c=</entry>
-        <entry>q</entry>
-        <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
