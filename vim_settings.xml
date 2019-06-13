@@ -22,13 +22,13 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" timestamp="1560423580470">
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" timestamp="1560434460732">
         <mark key="a" line="961" column="29" />
         <mark key="'" line="966" column="52" />
-        <mark key="[" line="1183" column="59" />
-        <mark key="]" line="1183" column="66" />
-        <mark key="." line="1183" column="66" />
-        <mark key="^" line="1183" column="66" />
+        <mark key="[" line="1161" column="27" />
+        <mark key="]" line="1161" column="27" />
+        <mark key="." line="1161" column="27" />
+        <mark key="^" line="1153" column="96" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/openseadragon.cljs" timestamp="1560342122622" />
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" timestamp="1557323863225">
@@ -209,6 +209,11 @@
         <mark key="^" line="91" column="63" />
         <mark key="." line="91" column="63" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/dialogs.cljs" timestamp="1560433716723">
+        <mark key="'" line="184" column="97" />
+        <mark key="[" line="294" column="95" />
+        <mark key="]" line="294" column="118" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/configure-postfix.sh" timestamp="1558084402305">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -226,6 +231,9 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/role_selection_root.cljs" timestamp="1560432964143">
+        <mark key="'" line="37" column="102" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558342246613">
         <mark key="[" line="64" column="0" />
@@ -268,12 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="69" column="49" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
-      <jump line="298" column="8" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="13" column="47" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
       <jump line="6" column="26" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
       <jump line="165" column="7" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
       <jump line="243" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
@@ -368,59 +370,61 @@
       <jump line="961" column="29" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
       <jump line="338" column="4" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
       <jump line="966" column="52" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
+      <jump line="0" column="16" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/role_selection_root.cljs" />
+      <jump line="37" column="102" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/role_selection_root.cljs" />
+      <jump line="0" column="4" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/dialogs.cljs" />
+      <jump line="182" column="59" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/dialogs.cljs" />
+      <jump line="183" column="78" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/dialogs.cljs" />
+      <jump line="184" column="97" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/dialogs.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>initLocal</text>
+        <text>select</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldmVyc2UtY2IgIChmbiBbXSAocHJpbS9zZXQtc3RhdGUhIHRoaXMgezpmaW5hbGl6ZWQvc29ydC1yZXZlcnNlZD8gKG5vdCBzb3J0LXJldmVyc2VkPyl9KSkK</text>
+      <register name="0" type="4">
+        <text>{:htmlFor &quot;role-select&quot;}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZnVsbFdpZHRoIHRydWV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIHs6aW5wdXQgICAgKG11aS9vdXRsaW5lZC1pbnB1dCB7OmxhYmVsV2lkdGggNzUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bmFtZSAgICAgICAiUm9sZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6aWQgICAgICAgICAicm9sZS1zZWxlY3QifSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp2YWx1ZSAgICBmb3JtLXJvbGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpvbkNoYW5nZSB1cGRhdGUtZm9ybS1yb2xlIX0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwYWRkaW5nLWxlZnQgKHNwYWNpbmcqIDQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAobXVpL2dyaWQgezpjb250YWluZXIgdHJ1ZSA6c3R5bGUgezptYXJnaW4gKHNwYWNpbmcqIDIpfX0K</text>
       </register>
-      <register name="6" type="8">
-        <text>;
-;
-;
-;
-;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWUgKGdldCBzb3J0LWtleSBzb3J0LXZhbHVlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZGlzYWJsZWQgKG5vdCBzdHVkeS1oYXMtZmluYWxpemVkLWltYWdlcyl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJzb3J0IGtleSIgc29ydC1rZXkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJwcm9ncmVzcyBpbWFnZXMiIHByb2dyZXNzLWltYWdlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lbnUtaXRlbXMgIChjb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsgZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChtdWkvZm9ybS1oZWxwZXItdGV4dCAiU29ydGluZyBjcml0ZXJpb24iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>initLocal</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>initLocal</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>current_app.logger.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -428,7 +432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AnnotationClass</entry>
         <entry>new_password</entry>
         <entry>print</entry>
         <entry>70</entry>
@@ -448,6 +451,7 @@
         <entry>phase</entry>
         <entry>sort-by</entry>
         <entry>initLocal</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
