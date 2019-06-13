@@ -3,7 +3,7 @@
     <property name="created">2019-02-16T23:48:14</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-06-12T10:01:57</property>
+    <property name="modified">2019-06-13T08:24:31</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <colors>
@@ -2644,8 +2644,10 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffeb95" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ff0c18" />
+        <option name="BACKGROUND" value="393f4c" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">

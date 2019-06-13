@@ -184,12 +184,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" timestamp="1560376854934">
-        <mark key="'" line="447" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" timestamp="1560406949140">
+        <mark key="'" line="449" column="0" />
+        <mark key="[" line="183" column="6" />
+        <mark key="]" line="183" column="10" />
+        <mark key="." line="183" column="10" />
+        <mark key="^" line="183" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-nginx.sh" timestamp="1558085038191">
         <mark key="[" line="14" column="26" />
@@ -340,11 +340,11 @@
       <jump line="448" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">OyAgICAgICAgezprZXlzIFthbm5vdGF0aW9uLWxvY2tvdXQ/IGxvY2tvdXQtZXJyb3ItZGlhbG9nIV19IChwcmltL2dldC1jb21wdXRlZCB0aGlzKV0K</text>
+      <register name="&quot;" type="4">
+        <text>fixme</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>fixme</text>
       </register>
       <register name="/" type="4">
         <text>query-server</text>
