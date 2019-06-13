@@ -72,17 +72,23 @@
         <mark key="." line="139" column="111" />
         <mark key="^" line="139" column="111" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" timestamp="1560412431358">
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="." line="402" column="0" />
+        <mark key="^" line="384" column="17" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1560348907559">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
         <mark key="^" line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1560349068932">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1560412967626">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+        <mark key="[" line="165" column="38" />
+        <mark key="]" line="165" column="39" />
+        <mark key="." line="165" column="39" />
         <mark key="^" line="178" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
@@ -146,8 +152,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558108440703">
-        <mark key="[" line="0" column="31" />
+      <file name="/Dummy.txt" timestamp="1560412495544">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
@@ -195,12 +201,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" timestamp="1560348180761">
-        <mark key="'" line="743" column="33" />
-        <mark key="[" line="737" column="55" />
-        <mark key="]" line="737" column="55" />
-        <mark key="^" line="737" column="55" />
-        <mark key="." line="737" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" timestamp="1560412266669">
+        <mark key="'" line="753" column="33" />
+        <mark key="[" line="739" column="15" />
+        <mark key="]" line="739" column="18" />
+        <mark key="^" line="739" column="18" />
+        <mark key="." line="739" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558342246613">
         <mark key="[" line="64" column="0" />
@@ -338,148 +344,137 @@
       <jump line="60" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>Annotation.load(annotation_id)</text>
       </register>
       <register name="/" type="4">
         <text>pluck</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNyZWF0aW5nX3VzZXJfaWQgPSBmaWVsZHMuTmVzdGVkKFVzZXJTY2hlbWEob25seT1bJ2lkJ10pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YV9rZXk9J2NyZWF0aW5nLXVzZXItaWQnLCBhdHRyaWJ1dGU9J2NyZWF0aW5nX3VzZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpbWFnZS5pc19sb2NrZWQoY3JlYXRvci51c2VyKToKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz00MDUpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>#
-#
-#</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="8">
         <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #
 #</text>
       </register>
       <register name="7" type="8">
         <text>#
 #
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="8">
+        <text>#
+#
+#</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgTGFzdEFubm90YXRpb25TY2hlbWEoU2NoZW1hKToKICAgIGNyZWF0ZWQ9IGZpZWxkcy5EYXRlKCkK</text>
+      <register name="9" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
