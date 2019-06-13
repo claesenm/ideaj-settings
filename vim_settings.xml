@@ -193,12 +193,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" timestamp="1560410138537">
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" timestamp="1560412183268">
         <mark key="'" line="458" column="64" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="574" column="0" />
-        <mark key="^" line="549" column="19" />
+        <mark key="[" line="548" column="22" />
+        <mark key="]" line="548" column="28" />
+        <mark key="." line="548" column="28" />
+        <mark key="^" line="548" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-nginx.sh" timestamp="1558085038191">
         <mark key="[" line="14" column="26" />
