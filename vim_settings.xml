@@ -22,6 +22,12 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" timestamp="1560410914118">
+        <mark key="'" line="424" column="90" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/openseadragon.cljs" timestamp="1560342122622" />
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" timestamp="1557323863225">
         <mark key="[" line="28" column="77" />
@@ -120,6 +126,9 @@
         <mark key="^" line="222" column="43" />
         <mark key="." line="222" column="43" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/login_root.cljs" timestamp="1560410484585">
+        <mark key="'" line="283" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.py" timestamp="1558030672613">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -144,8 +153,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558108440703">
-        <mark key="[" line="0" column="31" />
+      <file name="/Dummy.txt" timestamp="1560410915958">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
@@ -184,12 +193,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" timestamp="1560406949140">
-        <mark key="'" line="449" column="0" />
-        <mark key="[" line="183" column="6" />
-        <mark key="]" line="183" column="10" />
-        <mark key="." line="183" column="10" />
-        <mark key="^" line="183" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" timestamp="1560410138537">
+        <mark key="'" line="458" column="64" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="574" column="0" />
+        <mark key="^" line="549" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-nginx.sh" timestamp="1558085038191">
         <mark key="[" line="14" column="26" />
@@ -238,21 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="4" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
-      <jump line="61" column="25" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
-      <jump line="238" column="62" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="271" column="21" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="281" column="35" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="367" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="390" column="75" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="423" column="55" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="427" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="323" column="65" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="327" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="59" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
-      <jump line="363" column="63" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
       <jump line="14" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="66" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
@@ -335,59 +329,73 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
       <jump line="118" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/header.cljs" />
       <jump line="441" column="101" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
-      <jump line="17" column="27" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
       <jump line="417" column="4" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/util.cljs" />
       <jump line="448" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="180" column="85" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="556" column="43" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="550" column="45" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="484" column="21" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="492" column="21" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="449" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="271" column="146" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
+      <jump line="11" column="4" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="132" column="20" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="458" column="64" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/gui/rightpane.cljs" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/login_root.cljs" />
+      <jump line="169" column="34" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/login_root.cljs" />
+      <jump line="283" column="32" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/login_root.cljs" />
+      <jump line="275" column="83" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
+      <jump line="432" column="90" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fixme</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2Nrb3V0LWVycm9yLWRpYWxvZyEgKGZuIFtdIChlcnJvci9kaWFsb2chIHRoaXMgIkltYWdlIGxvY2tlZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJUaGlzIGltYWdlIGlzIGN1cnJlbnRseSBiZWluZyBhbm5vdGF0ZWQgYnkgc29tZW9uZSBlbHNlLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJZb3UgY2Fubm90IGFkZCBvciBkZWxldGUgYW5ub3RhdGlvbnMgd2hpbGUgdGhpcyBpcyBvbmdvaW5nLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUGxlYXNlIHJlZnJlc2ggdGhpcyBwYWdlIGxhdGVyIGlmIHlvdSB3YW50IHRvIGNvbnRpbnVlLiJdKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>fixme</text>
+        <text>:color :secondary}</text>
       </register>
       <register name="/" type="4">
-        <text>query-server</text>
+        <text>secondary</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFthc3BlY3QudWkuc3RvcmFnZSA6YXMgc3RvcmFnZV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OyAgICAgICAgezprZXlzIFthbm5vdGF0aW9uLWxvY2tvdXQ/IGxvY2tvdXQtZXJyb3ItZGlhbG9nIV19IChwcmltL2dldC1jb21wdXRlZCB0aGlzKV0K</text>
+        <text encoding="base64">ICAgICAgICBsb2Nrb3V0LWVycm9yLWRpYWxvZyEgKGZuIFtdIChlcnJvci9kaWFsb2chIHRoaXMgIkltYWdlIGxvY2tlZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJUaGlzIGltYWdlIGlzIGN1cnJlbnRseSBiZWluZyBhbm5vdGF0ZWQgYnkgc29tZW9uZSBlbHNlLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJZb3UgY2Fubm90IGFkZCBvciBkZWxldGUgYW5ub3RhdGlvbnMgd2hpbGUgdGhpcyBpcyBvbmdvaW5nLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUGxlYXNlIHJlZnJlc2ggdGhpcyBwYWdlIGxhdGVyIGlmIHlvdSB3YW50IHRvIGNvbnRpbnVlLiJdKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>#(prim/computed % {:annotation-lockout? (annotation-lockout? latest-annotation)
-                                                                     :lockout-error-dialog! lockout-error-dialog!})</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3R5bGUgezp6LWluZGV4IDF9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IDpzdHlsZSB7OnBvc2l0aW9uIDphYnNvbHV0ZSA6dG9wIDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgICAgICAgICA6ei1pbmRleCAxfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZGlzYWJsZWQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvbG9jay1pY29uIHs6d2lkdGggIjMwcHgiIDpjb2xvciA6c2Vjb25kYXJ5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnN0eWxlIHs6cG9zaXRpb24gOnJlbGF0aXZlIDpsZWZ0ICItMzVweCIgOnRvcCAiLTExNXB4IiA6d2lkdGggIjMwcHgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ei1pbmRleCAyfX0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uLWxvY2tvdXQ/IChmbiBbbGF0ZXN0LWFubm90YXRpb25dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgYW5ub3RhdGlvbiBsb2Nrb3V0IGlmIHRpbWUgc2luY2UgbGFzdCBhbm5vdGF0aW9uIDwgYW5ub3RhdGlvbi1sb2Nrb3V0LXBlcmlvZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGFuZCBsYXN0IGFubm90YXRpb24gd2FzIHBsYWNlZCBieSBhIGRpZmZlcmVudCB1c2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChsZXQgW2N1cnJlbnQtdXNlci1pZCAoOmRiL2lkIChzdG9yYWdlL2dldC1mcm9tLXN0b3JhZ2UgOmN1cnJlbnQtdXNlcikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFOTk9UQVRJT05fTE9DS09VVF9QRVJJT0QgKCogMTUgNjAgMTAwMCldIDsgMTUgbWluIGxvY2tvdXQgcGVyaW9kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGFuZCAoLT4+IGxhdGVzdC1hbm5vdGF0aW9uIDpjcmVhdGVkIHVpLXV0aWwvZGVjb2RlLWlzby1kYXRlIDsgY3JlYXRpb24gZGF0ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoLSAodWktdXRpbC9ub3cpKSAoPiBBTk5PVEFUSU9OX0xPQ0tPVVRfUEVSSU9EKSkgOyB0aW1lIHNwZW50IHNpbmNlIGNyZWF0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoLT4+IGxhdGVzdC1hbm5vdGF0aW9uIDpjcmVhdGluZy11c2VyLWlkIChub3Q9IGN1cnJlbnQtdXNlci1pZCkpKSkpCiAgICAgICAgbG9ja291dC1lcnJvci1kaWFsb2chIChmbiBbXSAoZXJyb3IvZGlhbG9nISB0aGlzICJJbWFnZSBsb2NrZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsiVGhpcyBpbWFnZSBpcyBjdXJyZW50bHkgYmVpbmcgYW5ub3RhdGVkIGJ5IHNvbWVvbmUgZWxzZS4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiWW91IGNhbm5vdCBhZGQgb3IgZGVsZXRlIGFubm90YXRpb25zIHdoaWxlIHRoaXMgaXMgb25nb2luZy4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlBsZWFzZSByZWZyZXNoIHRoaXMgcGFnZSBsYXRlciBpZiB5b3Ugd2FudCB0byBjb250aW51ZS4iXSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRpb24tZGF0ZSAgICgtPiBsYXRlc3QtYW5ub3RhdGlvbiA6Y3JlYXRlZCB1aS11dGlsL2RlY29kZS1pc28tZGF0ZSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">KGZuIFtsYXRlc3QtYW5ub3RhdGlvbl0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBhbm5vdGF0aW9uIGxvY2tvdXQgaWYgdGltZSBzaW5jZSBsYXN0IGFubm90YXRpb24gPCBhbm5vdGF0aW9uLWxvY2tvdXQtcGVyaW9kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgYW5kIGxhc3QgYW5ub3RhdGlvbiB3YXMgcGxhY2VkIGJ5IGEgZGlmZmVyZW50IHVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxldCBbY3VycmVudC11c2VyLWlkICg6ZGIvaWQgKHN0b3JhZ2UvZ2V0LWZyb20tc3RvcmFnZSA6Y3VycmVudC11c2VyKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cgIkxBVEVTVCBBTk5PVEFUSU9OIElORk86ICIgbGF0ZXN0LWFubm90YXRpb24gY3VycmVudC11c2VyLWlkICh1aS11dGlsL25vdykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgtICh1aS11dGlsL25vdykgY3JlYXRpb24tZGF0ZSkpCgo=</text>
+        <text encoding="base64">ICAgICAgICBsYXRlc3QtYW5ub3RhdGlvbiAgICg6bGF0ZXN0LWFubm90YXRpb24gaW1hZ2UtaW5mbykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGFubm90YXRpb24gbG9ja291dCBpZiB0aW1lIHNpbmNlIGxhc3QgYW5ub3RhdGlvbiA8IGFubm90YXRpb24tbG9ja291dC1wZXJpb2QKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGFuZCBsYXN0IGFubm90YXRpb24gd2FzIHBsYWNlZCBieSBhIGRpZmZlcmVudCB1c2VyCg==</text>
+        <text encoding="base64">OyAgICAgICkpKQoKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vdGF0aW9uLWxvY2tvdXQtcGVyaW9kICAoKiAxNSA2MCAxMDAwKSA7IDE1IG1pbiBsb2Nrb3V0IHBlcmlvZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgICAgI18oZGlhbG9ncy91aS1jb25maXJtYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICB7OnRpdGxlICAgICAgICAgICAiQ2xlYXIgYWxsIGFubm90YXRpb25zIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRleHQgICAgICAgICAgICAiQXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIGRlbGV0ZSBhbGwgYW5ub3RhdGlvbnM/IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgOmJ1dHRvbi9wcm9wcyAgICB7OmRpc2FibGVkIHRydWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YnV0dG9uL3RleHQgICAgICJDbGVhciBhbGwgYW5ub3RhdGlvbnMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YnV0dG9uL3N0eWxlICAgIHs6Ym9yZGVyQ29sb3IgIiNmNTAwNTciCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29sb3IgIiNmZmZmZmYiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YmFja2dyb3VuZCAiI2FhYWFhYSJ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YnV0dG9uL2ljb24gICAgIChtdWkvZGVsZXRlLWljb24gezpjb2xvciA6d2hpdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmZvbnRTaXplIDpzbWFsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3R5bGUgezptYXJnaW5SaWdodCA4fX0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YWNjZXB0LWNhbGxiYWNrIChmbiBbXSAoY2xlYXItYWxsLWFubm90YXRpb25zIHRoaXMpKX0p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>query-server</last-search>
+      <last-search>secondary</last-search>
       <last-offset />
-      <last-pattern>query-server</last-pattern>
+      <last-pattern>secondary</last-pattern>
       <last-replace>current_app.logger.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -395,14 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logging</entry>
-        <entry>logger</entry>
-        <entry>no_content</entry>
-        <entry>staging-ima</entry>
-        <entry>DELETE_STAGING_IMAGE</entry>
-        <entry>File</entry>
-        <entry>staging</entry>
-        <entry>DELETE</entry>
         <entry>ID</entry>
         <entry>user</entry>
         <entry>\/user</entry>
@@ -415,6 +415,14 @@
         <entry>add-annotation</entry>
         <entry>storage</entry>
         <entry>query-server</entry>
+        <entry>clear all annotatoins</entry>
+        <entry>Clear all annotation</entry>
+        <entry>export tissue</entry>
+        <entry>Export tissue</entry>
+        <entry>tooltip</entry>
+        <entry>locked</entry>
+        <entry>lock-icon</entry>
+        <entry>secondary</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
@@ -463,6 +471,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
