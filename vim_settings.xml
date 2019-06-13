@@ -122,9 +122,9 @@
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/defaults.py" timestamp="1558029175341">
-        <mark key="[" line="222" column="39" />
-        <mark key="]" line="222" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/defaults.py" timestamp="1560456147639">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="56" />
         <mark key="^" line="222" column="43" />
         <mark key="." line="222" column="43" />
       </file>
@@ -345,7 +345,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBQ1RJT04uVklFV19SRU1BUks6IFtDT05TVFJBSU5ULklNQUdFX1VOTE9DS0VEXSwK</text>
       </register>
       <register name="-" type="4">
         <text>Annotation.load(annotation_id)</text>
@@ -354,7 +354,7 @@
         <text>pluck</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbWFnZS5pc19sb2NrZWQoY3JlYXRvci51c2VyKToKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz00MDUpCg==</text>
+        <text encoding="base64">ICAgICAgICBBQ1RJT04uVklFV19SRU1BUks6IFtDT05TVFJBSU5ULklNQUdFX1VOTE9DS0VEXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
