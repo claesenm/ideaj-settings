@@ -22,11 +22,12 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" timestamp="1560410914118">
-        <mark key="'" line="424" column="90" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" timestamp="1560414386517">
+        <mark key="'" line="867" column="0" />
+        <mark key="[" line="1031" column="21" />
+        <mark key="]" line="1036" column="74" />
+        <mark key="." line="1033" column="82" />
+        <mark key="^" line="1033" column="82" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/openseadragon.cljs" timestamp="1560342122622" />
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" timestamp="1557323863225">
@@ -153,10 +154,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560410915958">
+      <file name="/Dummy.txt" timestamp="1560414241941">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/tos/api.py" timestamp="1558071579958">
         <mark key="[" line="20" column="23" />
@@ -181,6 +182,19 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/new_study_def.cljs" timestamp="1560414001265">
+        <mark key="[" line="477" column="45" />
+        <mark key="]" line="477" column="68" />
+        <mark key="^" line="477" column="68" />
+        <mark key="." line="477" column="68" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/api/mutations.cljs" timestamp="1560413854979">
+        <mark key="'" line="35" column="20" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="^" line="279" column="0" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" timestamp="1558029142956">
         <mark key="[" line="91" column="59" />
@@ -247,9 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
-      <jump line="66" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="13" column="42" filename="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" />
       <jump line="22" column="60" filename="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" />
@@ -347,55 +358,63 @@
       <jump line="283" column="32" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/login_root.cljs" />
       <jump line="275" column="83" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
       <jump line="432" column="90" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
+      <jump line="279" column="36" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
+      <jump line="35" column="20" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/api/mutations.cljs" />
+      <jump line="867" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2Nrb3V0LWVycm9yLWRpYWxvZyEgKGZuIFtdIChlcnJvci9kaWFsb2chIHRoaXMgIkltYWdlIGxvY2tlZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJUaGlzIGltYWdlIGlzIGN1cnJlbnRseSBiZWluZyBhbm5vdGF0ZWQgYnkgc29tZW9uZSBlbHNlLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJZb3UgY2Fubm90IGFkZCBvciBkZWxldGUgYW5ub3RhdGlvbnMgd2hpbGUgdGhpcyBpcyBvbmdvaW5nLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUGxlYXNlIHJlZnJlc2ggdGhpcyBwYWdlIGxhdGVyIGlmIHlvdSB3YW50IHRvIGNvbnRpbnVlLiJdKSkK</text>
+      <register name="&quot;" type="4">
+        <text>ix</text>
       </register>
       <register name="-" type="4">
-        <text>:color :secondary}</text>
+        <text>ix</text>
       </register>
       <register name="/" type="4">
-        <text>secondary</text>
+        <text>select-all</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFthc3BlY3QudWkuc3RvcmFnZSA6YXMgc3RvcmFnZV0K</text>
+      <register name="0" type="4">
+        <text>(mui/button {:variant  &quot;outlined&quot;
+                                  :color    &quot;primary&quot;
+                                  :onClick  (fn [] (prim/transact! this `[(staging/select-all-images! {})]))
+                                  :style    {:margin (spacing*)}}
+                       (mui/add-icon {:style {:marginRight (spacing*)}})
+                       (str &quot;Select all staging images (&quot; num-staging &quot;)&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2Nrb3V0LWVycm9yLWRpYWxvZyEgKGZuIFtdIChlcnJvci9kaWFsb2chIHRoaXMgIkltYWdlIGxvY2tlZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJUaGlzIGltYWdlIGlzIGN1cnJlbnRseSBiZWluZyBhbm5vdGF0ZWQgYnkgc29tZW9uZSBlbHNlLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJZb3UgY2Fubm90IGFkZCBvciBkZWxldGUgYW5ub3RhdGlvbnMgd2hpbGUgdGhpcyBpcyBvbmdvaW5nLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUGxlYXNlIHJlZnJlc2ggdGhpcyBwYWdlIGxhdGVyIGlmIHlvdSB3YW50IHRvIGNvbnRpbnVlLiJdKSkK</text>
+        <text encoding="base64">KG0vZGVmbXV0YXRpb24gc3RhZ2luZy9zZWxlY3QtYWxsLWltYWdlcyEKICBbX10KICAoYWN0aW9uIFt7OmtleXMgW3N0YXRlXX1dCiAgICAobGV0IFtpZHMgKC0+IEBzdGF0ZSA6c3RhZ2luZy1pbWFnZXMvYnktaWQga2V5cyldCiAgICAgIChqcy9jb25zb2xlLmxvZyAiYWRkaW5nICIgaWRzKQogICAgICAoc3dhcCEgc3RhdGUgYXNzb2MgOmltYWdlcy1pbi1zdHVkeSAoc2V0IGlkcykpKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3R5bGUgezp6LWluZGV4IDF9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IDpzdHlsZSB7OnBvc2l0aW9uIDphYnNvbHV0ZSA6dG9wIDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgICAgICAgICA6ei1pbmRleCAxfQo=</text>
+        <text encoding="base64">ICAgICAgKC0+IEBzdGF0ZSA6c3RhZ2luZy1pbWFnZXMvYnktaWQga2V5cykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvbG9jay1pY29uIHs6d2lkdGggIjMwcHgiIDpjb2xvciA6c2Vjb25kYXJ5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnN0eWxlIHs6cG9zaXRpb24gOnJlbGF0aXZlIDpsZWZ0ICItMzVweCIgOnRvcCAiLTExNXB4IiA6d2lkdGggIjMwcHgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ei1pbmRleCAyfX0pCg==</text>
+        <text encoding="base64">ICAgIChkb3NlcSBbaW1nLWlkIChrZXlzICg6YW5ub3RhdGVkLWltYWdlcy9ieS1pZCBAc3RhdGUpKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpkaXNhYmxlZCAoZW1wdHk/IGltYWdlcy1pbi1zdHVkeSkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KGZuIFtsYXRlc3QtYW5ub3RhdGlvbl0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBhbm5vdGF0aW9uIGxvY2tvdXQgaWYgdGltZSBzaW5jZSBsYXN0IGFubm90YXRpb24gPCBhbm5vdGF0aW9uLWxvY2tvdXQtcGVyaW9kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgYW5kIGxhc3QgYW5ub3RhdGlvbiB3YXMgcGxhY2VkIGJ5IGEgZGlmZmVyZW50IHVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxldCBbY3VycmVudC11c2VyLWlkICg6ZGIvaWQgKHN0b3JhZ2UvZ2V0LWZyb20tc3RvcmFnZSA6Y3VycmVudC11c2VyKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2Nrb3V0LWVycm9yLWRpYWxvZyEgKGZuIFtdIChlcnJvci9kaWFsb2chIHRoaXMgIkltYWdlIGxvY2tlZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJUaGlzIGltYWdlIGlzIGN1cnJlbnRseSBiZWluZyBhbm5vdGF0ZWQgYnkgc29tZW9uZSBlbHNlLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJZb3UgY2Fubm90IGFkZCBvciBkZWxldGUgYW5ub3RhdGlvbnMgd2hpbGUgdGhpcyBpcyBvbmdvaW5nLiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUGxlYXNlIHJlZnJlc2ggdGhpcyBwYWdlIGxhdGVyIGlmIHlvdSB3YW50IHRvIGNvbnRpbnVlLiJdKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlc3QtYW5ub3RhdGlvbiAgICg6bGF0ZXN0LWFubm90YXRpb24gaW1hZ2UtaW5mbykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3R5bGUgezp6LWluZGV4IDF9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IDpzdHlsZSB7OnBvc2l0aW9uIDphYnNvbHV0ZSA6dG9wIDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgICAgICAgICA6ei1pbmRleCAxfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OyAgICAgICkpKQoKCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvbG9jay1pY29uIHs6d2lkdGggIjMwcHgiIDpjb2xvciA6c2Vjb25kYXJ5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnN0eWxlIHs6cG9zaXRpb24gOnJlbGF0aXZlIDpsZWZ0ICItMzVweCIgOnRvcCAiLTExNXB4IiA6d2lkdGggIjMwcHgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ei1pbmRleCAyfX0pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgICAgI18oZGlhbG9ncy91aS1jb25maXJtYXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICB7OnRpdGxlICAgICAgICAgICAiQ2xlYXIgYWxsIGFubm90YXRpb25zIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRleHQgICAgICAgICAgICAiQXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIGRlbGV0ZSBhbGwgYW5ub3RhdGlvbnM/IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgOmJ1dHRvbi9wcm9wcyAgICB7OmRpc2FibGVkIHRydWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YnV0dG9uL3RleHQgICAgICJDbGVhciBhbGwgYW5ub3RhdGlvbnMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YnV0dG9uL3N0eWxlICAgIHs6Ym9yZGVyQ29sb3IgIiNmNTAwNTciCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29sb3IgIiNmZmZmZmYiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YmFja2dyb3VuZCAiI2FhYWFhYSJ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YnV0dG9uL2ljb24gICAgIChtdWkvZGVsZXRlLWljb24gezpjb2xvciA6d2hpdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmZvbnRTaXplIDpzbWFsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3R5bGUgezptYXJnaW5SaWdodCA4fX0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6YWNjZXB0LWNhbGxiYWNrIChmbiBbXSAoY2xlYXItYWxsLWFubm90YXRpb25zIHRoaXMpKX0p</text>
+        <text encoding="base64">KGZuIFtsYXRlc3QtYW5ub3RhdGlvbl0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBhbm5vdGF0aW9uIGxvY2tvdXQgaWYgdGltZSBzaW5jZSBsYXN0IGFubm90YXRpb24gPCBhbm5vdGF0aW9uLWxvY2tvdXQtcGVyaW9kCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgYW5kIGxhc3QgYW5ub3RhdGlvbiB3YXMgcGxhY2VkIGJ5IGEgZGlmZmVyZW50IHVzZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxldCBbY3VycmVudC11c2VyLWlkICg6ZGIvaWQgKHN0b3JhZ2UvZ2V0LWZyb20tc3RvcmFnZSA6Y3VycmVudC11c2VyKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>secondary</last-search>
+      <last-search>select-all</last-search>
       <last-offset />
-      <last-pattern>secondary</last-pattern>
+      <last-pattern>select-all</last-pattern>
       <last-replace>current_app.logger.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -403,8 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ID</entry>
-        <entry>user</entry>
         <entry>\/user</entry>
         <entry>'\/users</entry>
         <entry>'</entry>
@@ -423,6 +440,8 @@
         <entry>locked</entry>
         <entry>lock-icon</entry>
         <entry>secondary</entry>
+        <entry>staging</entry>
+        <entry>select-all</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
@@ -439,6 +458,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>ws</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
