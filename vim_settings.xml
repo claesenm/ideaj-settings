@@ -22,13 +22,13 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" timestamp="1560434460732">
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/study_overview_root.cljs" timestamp="1560440630032">
         <mark key="a" line="961" column="29" />
         <mark key="'" line="966" column="52" />
-        <mark key="[" line="1161" column="27" />
-        <mark key="]" line="1161" column="27" />
-        <mark key="." line="1161" column="27" />
-        <mark key="^" line="1153" column="96" />
+        <mark key="[" line="1160" column="39" />
+        <mark key="]" line="1160" column="39" />
+        <mark key="." line="1160" column="39" />
+        <mark key="^" line="1157" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/main/nrl/ui/openseadragon.cljs" timestamp="1560342122622" />
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" timestamp="1557323863225">
@@ -379,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
