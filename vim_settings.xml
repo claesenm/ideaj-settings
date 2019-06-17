@@ -232,6 +232,12 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker-compose.yml" timestamp="1560752488254">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="271" column="21" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
