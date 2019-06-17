@@ -71,7 +71,7 @@
         <mark key="." line="145" column="111" />
         <mark key="^" line="145" column="111" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1560493210406">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1560750319423">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="^" line="118" column="0" />
@@ -530,6 +530,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
