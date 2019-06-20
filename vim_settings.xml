@@ -65,24 +65,31 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-deactivate-user.py" timestamp="1561017662111">
+        <mark key="'" line="28" column="21" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="41" column="82" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1560348802329">
         <mark key="[" line="145" column="106" />
         <mark key="]" line="145" column="111" />
         <mark key="." line="145" column="111" />
         <mark key="^" line="145" column="111" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1560750319423">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1561015446401">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1560412967626">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="165" column="38" />
-        <mark key="]" line="165" column="39" />
-        <mark key="." line="165" column="39" />
-        <mark key="^" line="178" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1561017078919">
+        <mark key="'" line="90" column="25" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
         <mark key="[" line="35" column="0" />
@@ -191,6 +198,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-remove-constraint.py" timestamp="1561015799368">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="colors/_@user_Arc Dark.icls" timestamp="1560340528241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,9 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="21" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="281" column="35" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="367" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
       <jump line="390" column="75" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
       <jump line="423" column="55" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
       <jump line="427" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
@@ -340,124 +350,49 @@
       <jump line="146" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
       <jump line="174" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
       <jump line="60" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="90" column="25" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
+      <jump line="30" column="21" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-deactivate-user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2V4cG9ydCBET01BSU49Im5ybC5hc3BlY3QtYW5hbHl0aWNzLmNvbSIK</text>
+        <text encoding="base64">ICAgIHByaW50KGFsbF9hY3RpdmVfdXNlcnMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Annotation.load(annotation_id)</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>pluck</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBQ1RJT04uVklFV19SRU1BUks6IFtDT05TVFJBSU5ULklNQUdFX1VOTE9DS0VEXSwK</text>
+        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2V4cG9ydCBET01BSU49Im5ybC5hc3BlY3QtYW5hbHl0aWNzLmNvbSIK</text>
+        <text encoding="base64">ICAgIHByaW50KGFsbF9hY3RpdmVfdXNlcnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcChwcmludCwgYWxsX2FjdGl2ZV91c2VycykKICAgIGFzc2VydCB1c2VyIG5vdCBpbiBhbGxfYWN0aXZlX3VzZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3VycmVudF9hcHAubG9nZ2VyLmluZm8oIkRlYSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGVybWlzc2lvbiwgUm9sZSwgQWN0aW9uLCBBQ1RJT04sIFJPTEUsIENPTlNUUkFJTlQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjIGFzc2VydCBtdXRhdGlvbiBlZmZlY3QgaXMgY29ycmVjdAogICAgcHJpbnQocGVybWlzc2lvbikKICAgIHByaW50KHBlcm1pc3Npb24uY29uc3RyYWludHMpCiAgICBhc3NlcnQgbGVuKHBlcm1pc3Npb24uY29uc3RyYWludHMpID09IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwZXJtaXNzaW9uID0gXAogICAgICAgIFBlcm1pc3Npb24gXAogICAgICAgICAgICAucXVlcnkgXAogICAgICAgICAgICAuam9pbihSb2xlLCBQZXJtaXNzaW9uLnJvbGVfaWQgPT0gUm9sZS5pZCkgXAogICAgICAgICAgICAuam9pbihBY3Rpb24sIFBlcm1pc3Npb24uYWN0aW9uX2lkID09IEFjdGlvbi5pZCkgXAogICAgICAgICAgICAuZmlsdGVyKEFjdGlvbi5uYW1lID09IEFDVElPTi5WSUVXX1JFTUFSSy5uYW1lKSBcCiAgICAgICAgICAgIC5maWx0ZXIoUm9sZS5uYW1lID09IFJPTEUuU1RVRFlfQURNSU4ubmFtZSkgXAogICAgICAgICAgICAub25lKCkK</text>
       </register>
-      <register name="7" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBlcm1pc3Npb24uY29uc3RyYWludHMuY2xlYXIoKQogICAgcGVybWlzc2lvbi5zYXZlKCkK</text>
       </register>
-      <register name="8" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="8" type="2">
+        <text encoding="base64">YXNzZXJ0IHVzZXJuYW1lIGlzIG5vdCBOb25lCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>#
-#
-#</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBwZXJtaXNzaW9uLmNvbnN0cmFpbnRzWzBdLm5hbWUgPT0gQ09OU1RSQUlOVC5JTUFHRV9VTkxPQ0tFRC5uYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
