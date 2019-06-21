@@ -122,6 +122,12 @@
         <mark key="." line="11" column="84" />
         <mark key="^" line="11" column="84" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/src/main/fulcro_generics/ui/components.cljs" timestamp="1561099576303">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="36" />
+        <mark key="^" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/defaults.py" timestamp="1560490946233">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="0" />
@@ -204,6 +210,9 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
+        <mark key="'" line="10" column="24" />
+      </file>
       <file name="colors/_@user_Arc Dark.icls" timestamp="1560340528241">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,6 +221,9 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558342246613">
         <mark key="[" line="64" column="0" />
@@ -231,6 +243,13 @@
         <mark key="]" line="198" column="49" />
         <mark key="." line="198" column="49" />
         <mark key="^" line="198" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" timestamp="1561098248490">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="25" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" timestamp="1558335622179">
         <mark key="'" line="69" column="0" />
@@ -253,15 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="75" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="423" column="55" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="427" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="323" column="65" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="327" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="59" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
-      <jump line="363" column="63" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="14" column="36" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="66" column="34" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="13" column="42" filename="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" />
@@ -353,55 +363,64 @@
       <jump line="58" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
       <jump line="90" column="25" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" />
       <jump line="30" column="21" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-deactivate-user.py" />
+      <jump line="18" column="57" filename="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" />
+      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" />
+      <jump line="0" column="43" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
+      <jump line="11" column="64" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
+      <jump line="12" column="14" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
+      <jump line="5" column="66" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
+      <jump line="10" column="24" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFsbF9hY3RpdmVfdXNlcnMpCg==</text>
+        <text encoding="base64">OyBodHRwOi8vYm9vay5mdWxjcm9sb2dpYy5jb20vI19taXhpbmdfZGF0YV9kcml2ZW5fY2hpbGRyZW5fd2l0aF91aV9vbmx5X2NvbmNlcm5zCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>pluck</text>
+        <text>deps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFsbF9hY3RpdmVfdXNlcnMpCg==</text>
+        <text encoding="base64">OyBodHRwOi8vYm9vay5mdWxjcm9sb2dpYy5jb20vI19taXhpbmdfZGF0YV9kcml2ZW5fY2hpbGRyZW5fd2l0aF91aV9vbmx5X2NvbmNlcm5zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcChwcmludCwgYWxsX2FjdGl2ZV91c2VycykKICAgIGFzc2VydCB1c2VyIG5vdCBpbiBhbGxfYWN0aXZlX3VzZXJzCg==</text>
+        <text encoding="base64">KGRlZiB1aS1nZW5lcmljLWxpc3QgKHByaW0vZmFjdG9yeSBHZW5lcmljTGlzdCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3VycmVudF9hcHAubG9nZ2VyLmluZm8oIkRlYSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFsbF9hY3RpdmVfdXNlcnMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UGVybWlzc2lvbiwgUm9sZSwgQWN0aW9uLCBBQ1RJT04sIFJPTEUsIENPTlNUUkFJTlQK</text>
+        <text encoding="base64">ICAgIG1hcChwcmludCwgYWxsX2FjdGl2ZV91c2VycykKICAgIGFzc2VydCB1c2VyIG5vdCBpbiBhbGxfYWN0aXZlX3VzZXJzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAjIGFzc2VydCBtdXRhdGlvbiBlZmZlY3QgaXMgY29ycmVjdAogICAgcHJpbnQocGVybWlzc2lvbikKICAgIHByaW50KHBlcm1pc3Npb24uY29uc3RyYWludHMpCiAgICBhc3NlcnQgbGVuKHBlcm1pc3Npb24uY29uc3RyYWludHMpID09IDAK</text>
+        <text encoding="base64">Y3VycmVudF9hcHAubG9nZ2VyLmluZm8oIkRlYSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwZXJtaXNzaW9uID0gXAogICAgICAgIFBlcm1pc3Npb24gXAogICAgICAgICAgICAucXVlcnkgXAogICAgICAgICAgICAuam9pbihSb2xlLCBQZXJtaXNzaW9uLnJvbGVfaWQgPT0gUm9sZS5pZCkgXAogICAgICAgICAgICAuam9pbihBY3Rpb24sIFBlcm1pc3Npb24uYWN0aW9uX2lkID09IEFjdGlvbi5pZCkgXAogICAgICAgICAgICAuZmlsdGVyKEFjdGlvbi5uYW1lID09IEFDVElPTi5WSUVXX1JFTUFSSy5uYW1lKSBcCiAgICAgICAgICAgIC5maWx0ZXIoUm9sZS5uYW1lID09IFJPTEUuU1RVRFlfQURNSU4ubmFtZSkgXAogICAgICAgICAgICAub25lKCkK</text>
+        <text encoding="base64">UGVybWlzc2lvbiwgUm9sZSwgQWN0aW9uLCBBQ1RJT04sIFJPTEUsIENPTlNUUkFJTlQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBlcm1pc3Npb24uY29uc3RyYWludHMuY2xlYXIoKQogICAgcGVybWlzc2lvbi5zYXZlKCkK</text>
+        <text encoding="base64">CiAgICAjIGFzc2VydCBtdXRhdGlvbiBlZmZlY3QgaXMgY29ycmVjdAogICAgcHJpbnQocGVybWlzc2lvbikKICAgIHByaW50KHBlcm1pc3Npb24uY29uc3RyYWludHMpCiAgICBhc3NlcnQgbGVuKHBlcm1pc3Npb24uY29uc3RyYWludHMpID09IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXNzZXJ0IHVzZXJuYW1lIGlzIG5vdCBOb25lCg==</text>
+        <text encoding="base64">CiAgICBwZXJtaXNzaW9uID0gXAogICAgICAgIFBlcm1pc3Npb24gXAogICAgICAgICAgICAucXVlcnkgXAogICAgICAgICAgICAuam9pbihSb2xlLCBQZXJtaXNzaW9uLnJvbGVfaWQgPT0gUm9sZS5pZCkgXAogICAgICAgICAgICAuam9pbihBY3Rpb24sIFBlcm1pc3Npb24uYWN0aW9uX2lkID09IEFjdGlvbi5pZCkgXAogICAgICAgICAgICAuZmlsdGVyKEFjdGlvbi5uYW1lID09IEFDVElPTi5WSUVXX1JFTUFSSy5uYW1lKSBcCiAgICAgICAgICAgIC5maWx0ZXIoUm9sZS5uYW1lID09IFJPTEUuU1RVRFlfQURNSU4ubmFtZSkgXAogICAgICAgICAgICAub25lKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBwZXJtaXNzaW9uLmNvbnN0cmFpbnRzWzBdLm5hbWUgPT0gQ09OU1RSQUlOVC5JTUFHRV9VTkxPQ0tFRC5uYW1lCg==</text>
+        <text encoding="base64">ICAgIHBlcm1pc3Npb24uY29uc3RyYWludHMuY2xlYXIoKQogICAgcGVybWlzc2lvbi5zYXZlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pluck</last-search>
+      <last-search>deps</last-search>
       <last-offset />
-      <last-pattern>pluck</last-pattern>
+      <last-pattern>deps</last-pattern>
       <last-replace>current_app.logger.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -409,7 +428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logging</entry>
         <entry>logger</entry>
         <entry>no_content</entry>
         <entry>staging-ima</entry>
@@ -429,6 +447,7 @@
         <entry>Annotation</entry>
         <entry>AnnotationSchema</entry>
         <entry>pluck</entry>
+        <entry>deps</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
