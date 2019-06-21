@@ -108,6 +108,10 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch-uwsgi.sh" timestamp="1561112239876">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="47" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
         <mark key="'" line="0" column="0" />
       </file>
@@ -166,6 +170,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/serializers.py" timestamp="1560347633700">
         <mark key="'" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch-flask.sh" timestamp="1561112265380">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="80" />
+        <mark key="^" line="7" column="80" />
+        <mark key="." line="7" column="80" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-deactivate-user.py" timestamp="1561017662111">
         <mark key="'" line="28" column="21" />
@@ -403,8 +413,8 @@
       <jump line="10" column="24" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Li9ydW4tY29udGFpbmVyLnNoIC1wICRQT1JUIC1jICJmbGFzayBydW4gLS1ob3N0PTAuMC4wLjAgLS1wb3J0PSRQT1JUIgo=</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -413,7 +423,7 @@
         <text>deps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS0tbW91bnQgdHlwZT1iaW5kLHNvdXJjZT0kVEhVTUJOQUlMX0ZPTERFUix0YXJnZXQ9Ii90aHVtYm5haWxzIiBcCg==</text>
+        <text encoding="base64">Li9ydW4tY29udGFpbmVyLnNoIC1wICRQT1JUIC1jICJmbGFzayBydW4gLS1ob3N0PTAuMC4wLjAgLS1wb3J0PSRQT1JUIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">OyBodHRwOi8vYm9vay5mdWxjcm9sb2dpYy5jb20vI19taXhpbmdfZGF0YV9kcml2ZW5fY2hpbGRyZW5fd2l0aF91aV9vbmx5X2NvbmNlcm5zCg==</text>
