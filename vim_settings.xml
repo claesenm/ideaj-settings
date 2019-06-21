@@ -33,11 +33,11 @@
         <mark key="." line="23" column="12" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1561116415631">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/settings.py" timestamp="1561120727411">
         <mark key="[" line="53" column="21" />
-        <mark key="]" line="50" column="30" />
-        <mark key="." line="50" column="30" />
-        <mark key="^" line="50" column="30" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="64" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/change-fucking-postgres-password.sh" timestamp="1558342341288">
         <mark key="[" line="11" column="13" />
@@ -138,11 +138,11 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/app_factory.py" timestamp="1558088781764">
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="27" />
-        <mark key="." line="57" column="27" />
-        <mark key="^" line="57" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/app_factory.py" timestamp="1561119712196">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="10" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch-flask.sh" timestamp="1561114045908">
         <mark key="[" line="8" column="0" />
@@ -192,6 +192,13 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" timestamp="1561119663905">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="35" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" timestamp="1558029142956">
         <mark key="[" line="91" column="59" />
         <mark key="]" line="91" column="63" />
@@ -228,10 +235,11 @@
         <mark key="^" line="31" column="28" />
         <mark key="." line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/extensions.py" timestamp="1561118544554">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/extensions.py" timestamp="1561120351795">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="107" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker/Dockerfile" timestamp="1561108652431">
         <mark key="[" line="25" column="5" />
@@ -252,16 +260,15 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker-compose.yml" timestamp="1561118223215">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker-compose.yml" timestamp="1561120369999">
         <mark key="'" line="15" column="22" />
-        <mark key="[" line="48" column="28" />
+        <mark key="[" line="48" column="29" />
         <mark key="]" line="48" column="29" />
         <mark key="." line="48" column="29" />
         <mark key="^" line="48" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/staging/api.py" />
       <jump line="13" column="42" filename="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" />
       <jump line="22" column="60" filename="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" />
@@ -361,13 +368,14 @@
       <jump line="5" column="66" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
       <jump line="10" column="24" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
       <jump line="15" column="22" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker-compose.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I3JxID0gUlEoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;/scratch&quot; #</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>&quot;/scratch&quot; #</text>
       </register>
       <register name="/" type="4">
         <text>deps</text>
@@ -376,31 +384,31 @@
         <text encoding="base64">cnEgPSBSUShyZWRpc191cmw9J3JlZGlzOi8vcmVkaXM6NjM3OS8wJykgIyBGSVhNRSBoYXJkY29kZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3JxID0gUlEoKQo=</text>
+        <text encoding="base64">I3JlZGlzID0gcmVkaXMuU3RyaWN0UmVkaXMoaG9zdD0nbG9jYWxob3N0JywgcG9ydD02Mzc5LCBkYj0wLCBkZWNvZGVfcmVzcG9uc2VzPVRydWUpICAjIGxvY2FsaG9zdC82Mzc5LzAgZGVmYXVsdCBkYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlEocmVkaXNfdXJsPSdyZWRpczovL3JlZGlzOjYzNzkvMCcpICMgRklYTUUgaGFyZGNvZGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I21haWwgPSBNYWlsKCkK</text>
+        <text encoding="base64">ICAgIFJRX1JFRElTX1VSTCA9ICJyZWRpczovL3JlZGlzOjYzNzkvMCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19tYWlsIGltcG9ydCBNYWlsCg==</text>
+        <text encoding="base64">ICAgIG1haWwuaW5pdF9hcHAoZmxhc2tfYXBwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICR7UFJPRklMRX0K</text>
+        <text encoding="base64">bWFpbCA9IE1haWwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtLW1vdW50IHR5cGU9YmluZCxzb3VyY2U9JFRIVU1CTkFJTF9GT0xERVIsdGFyZ2V0PSIvdGh1bWJuYWlscyIgXAo=</text>
+        <text encoding="base64">ZnJvbSBmbGFzay1tYWlsIGltcG9ydCBNYWlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCiAgLWUgUFJPRklMRSBcCiAgLWUgSU1QT1JUX0lNQUdFUyBcCiAgLWUgREJfTkFNRSBcCiAgLWUgRE9NQUlOIFwKICAtZSBTRU5ER1JJRF9BUElfS0VZIFwKICAgICAgCg==</text>
+        <text encoding="base64">I3JxID0gUlEoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">UlEocmVkaXNfdXJsPSdyZWRpczovL3JlZGlzOjYzNzkvMCcpICMgRklYTUUgaGFyZGNvZGVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6IGZsYXNrIHJxIHdvcmtlcgo=</text>
+        <text encoding="base64">I21haWwgPSBNYWlsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
