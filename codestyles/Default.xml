@@ -4,7 +4,7 @@
   :aspect.ui.material-ui-comps/dialog-content :only-indent
   :aspect.ui.material-ui-comps/dialog-title :only-indent
   :clojure.core/assoc :only-indent
-  :cursive.formatting/align-maps false
+  :cursive.formatting/align-binding-forms true
   :cursive.formatting/default-only-indent true
   :nrl.api.mutations/action :only-indent
   :nrl.gui.material-ui-comps/grid :only-indent
