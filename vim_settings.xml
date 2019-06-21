@@ -3,34 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" timestamp="1558348085647">
-        <mark key="'" line="68" column="17" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="142" column="67" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/cantaloupe/cantaloupe.properties" timestamp="1556917381144">
-        <mark key="[" line="142" column="1" />
-        <mark key="]" line="142" column="66" />
-        <mark key="." line="142" column="66" />
-        <mark key="^" line="142" column="66" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/requirements/prod.txt" timestamp="1558337488136">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="14" />
-        <mark key="." line="31" column="14" />
-        <mark key="^" line="31" column="14" />
-      </file>
-      <file name="/Python Console" timestamp="1560346224502">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" timestamp="1557323863225">
-        <mark key="[" line="28" column="77" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="31" column="22" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch.sh" timestamp="1557329142249">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="8" column="0" />
@@ -50,27 +22,11 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/app_factory.py" timestamp="1558088781764">
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="27" />
-        <mark key="." line="57" column="27" />
-        <mark key="^" line="57" column="27" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/serializers.py" timestamp="1560347633700">
-        <mark key="'" line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/postgres-password-base.env" timestamp="1558336460565">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-deactivate-user.py" timestamp="1561017662111">
-        <mark key="'" line="28" column="21" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="41" column="82" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1560348802329">
         <mark key="[" line="145" column="106" />
@@ -83,6 +39,140 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
         <mark key="^" line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/change-fucking-postgres-password.sh" timestamp="1558342341288">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/src/main/fulcro_generics/ui/components.cljs" timestamp="1561099576303">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="36" />
+        <mark key="^" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.py" timestamp="1558030672613">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/generate-password.sh" timestamp="1558336682856">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/setup.sh" timestamp="1558337476666">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker/launch-flask.sh" timestamp="1561109043386">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/postgres-base.env" timestamp="1558334033480">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker/run-container.sh" timestamp="1561109238071">
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/configure-postfix.sh" timestamp="1558084402305">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-remove-constraint.py" timestamp="1561015799368">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
+        <mark key="'" line="10" column="24" />
+      </file>
+      <file name="colors/_@user_Arc Dark.icls" timestamp="1560340528241">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/build-container.sh" timestamp="1561109345352">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558342246613">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="67" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/postfix-conf-base.cf" timestamp="1558085487655">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="3" column="130" />
+        <mark key="^" line="3" column="130" />
+        <mark key="." line="3" column="130" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" timestamp="1558172899694">
+        <mark key="'" line="179" column="4" />
+        <mark key="[" line="198" column="35" />
+        <mark key="]" line="198" column="49" />
+        <mark key="." line="198" column="49" />
+        <mark key="^" line="198" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" timestamp="1558348085647">
+        <mark key="'" line="68" column="17" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="142" column="67" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/cantaloupe/cantaloupe.properties" timestamp="1556917381144">
+        <mark key="[" line="142" column="1" />
+        <mark key="]" line="142" column="66" />
+        <mark key="." line="142" column="66" />
+        <mark key="^" line="142" column="66" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/requirements/prod.txt" timestamp="1558337488136">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+      </file>
+      <file name="/Python Console" timestamp="1561109528698">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/nrl-flask.wsgi" timestamp="1557323863225">
+        <mark key="[" line="28" column="77" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/app_factory.py" timestamp="1558088781764">
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="27" />
+        <mark key="." line="57" column="27" />
+        <mark key="^" line="57" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/serializers.py" timestamp="1560347633700">
+        <mark key="'" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-deactivate-user.py" timestamp="1561017662111">
+        <mark key="'" line="28" column="21" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="41" column="82" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1561017078919">
         <mark key="'" line="90" column="25" />
@@ -103,12 +193,6 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/change-fucking-postgres-password.sh" timestamp="1558342341288">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-production.env" timestamp="1560493117420">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="6" column="0" />
@@ -122,34 +206,11 @@
         <mark key="." line="11" column="84" />
         <mark key="^" line="11" column="84" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/src/main/fulcro_generics/ui/components.cljs" timestamp="1561099576303">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="36" />
-        <mark key="^" line="52" column="36" />
-        <mark key="." line="52" column="36" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/defaults.py" timestamp="1560490946233">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.py" timestamp="1558030672613">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/generate-password.sh" timestamp="1558336682856">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/setup.sh" timestamp="1558337476666">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="35" />
-        <mark key="." line="13" column="35" />
-        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" timestamp="1558088268562">
         <mark key="'" line="115" column="0" />
@@ -182,39 +243,23 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/postgres-base.env" timestamp="1558334033480">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" timestamp="1558029142956">
         <mark key="[" line="91" column="59" />
         <mark key="]" line="91" column="63" />
         <mark key="^" line="91" column="63" />
         <mark key="." line="91" column="63" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/Dockerfile" timestamp="1560751495130">
-        <mark key="[" line="28" column="328" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/Dockerfile" timestamp="1561109328831">
+        <mark key="[" line="28" column="340" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/configure-postfix.sh" timestamp="1558084402305">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-remove-constraint.py" timestamp="1561015799368">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
-        <mark key="'" line="10" column="24" />
-      </file>
-      <file name="colors/_@user_Arc Dark.icls" timestamp="1560340528241">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker/build-container.sh" timestamp="1561108819336">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-nginx.sh" timestamp="1558085038191">
         <mark key="[" line="14" column="26" />
@@ -222,34 +267,18 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558342246613">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="67" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/postfix-conf-base.cf" timestamp="1558085487655">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="3" column="130" />
-        <mark key="^" line="3" column="130" />
-        <mark key="." line="3" column="130" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" timestamp="1558172899694">
-        <mark key="'" line="179" column="4" />
-        <mark key="[" line="198" column="35" />
-        <mark key="]" line="198" column="49" />
-        <mark key="." line="198" column="49" />
-        <mark key="^" line="198" column="49" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" timestamp="1561098248490">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="57" />
         <mark key="]" line="25" column="36" />
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker/Dockerfile" timestamp="1561108652431">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" timestamp="1558335622179">
         <mark key="'" line="69" column="0" />
@@ -374,17 +403,17 @@
       <jump line="10" column="24" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">OyBodHRwOi8vYm9vay5mdWxjcm9sb2dpYy5jb20vI19taXhpbmdfZGF0YV9kcml2ZW5fY2hpbGRyZW5fd2l0aF91aV9vbmx5X2NvbmNlcm5zCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>deps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzayBpbXBvcnQgY3VycmVudF9hcHAK</text>
+        <text encoding="base64">CS0tbW91bnQgdHlwZT1iaW5kLHNvdXJjZT0kVEhVTUJOQUlMX0ZPTERFUix0YXJnZXQ9Ii90aHVtYm5haWxzIiBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">OyBodHRwOi8vYm9vay5mdWxjcm9sb2dpYy5jb20vI19taXhpbmdfZGF0YV9kcml2ZW5fY2hpbGRyZW5fd2l0aF91aV9vbmx5X2NvbmNlcm5zCg==</text>
