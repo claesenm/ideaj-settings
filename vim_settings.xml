@@ -167,12 +167,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/docker-compose.yml" timestamp="1561239401015">
+      <file name="$USER_HOME$/IdeaProjects/nrl-backend/docker-compose.yml" timestamp="1561240401706">
         <mark key="'" line="52" column="4" />
-        <mark key="[" line="115" column="6" />
-        <mark key="]" line="115" column="10" />
-        <mark key="." line="115" column="10" />
-        <mark key="^" line="115" column="10" />
+        <mark key="[" line="106" column="25" />
+        <mark key="]" line="108" column="3" />
+        <mark key="." line="108" column="3" />
+        <mark key="^" line="108" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
         <mark key="[" line="35" column="0" />
