@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="wsgi" type="Python" />
       <mapping ext="conf" type="XML" />
     </extensionMap>
