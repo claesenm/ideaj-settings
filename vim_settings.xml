@@ -249,11 +249,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561412656469">
-        <mark key="[" line="177" column="51" />
-        <mark key="]" line="177" column="52" />
-        <mark key="." line="177" column="52" />
-        <mark key="^" line="177" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561417041808">
+        <mark key="[" line="190" column="44" />
+        <mark key="]" line="191" column="28" />
+        <mark key="." line="191" column="28" />
+        <mark key="^" line="191" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561381503127">
         <mark key="'" line="2728" column="42" />
@@ -388,11 +388,11 @@
       <jump line="2728" column="42" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJjb21wb25lbnQiIEdlbmVyaWNDb250YWluZXIyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>defsc\*</text>
@@ -401,32 +401,32 @@
         <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJjb21wb25lbnQiIEdlbmVyaWNDb250YWluZXIyKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgZm9ybSMgYChtYWtlLWdlbmVyaWMtY29udGFpbmVyIH5jb21wb25lbnQjIH5mYWN0b3J5IykKICAgICB+QChmb3JtIykpKQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CiAgICB+QGZvcm0jKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>;component# ~child-component
         factory# ~child-factory</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAKCgogICAgICAgICBjb250YWluZXIjIChtYWtlLWdlbmVyaWMtY29udGFpbmVyIH5jaGlsZC1jb21wb25lbnQgfmNoaWxkLWZhY3RvcnkpCiAgICAgY29udGFpbmVyIykpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAobGV0IFtdKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJpbnN0YW50aWF0ZWQiIGluc3RhbnRpYXRlZCkKKGpzL2NvbnNvbGUubG9nIChwcmltL2dldC1xdWVyeSBpbnN0YW50aWF0ZWQpKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJjb21wb25lbnQiIEdlbmVyaWNDb250YWluZXIyKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBgKGRvICB+cXVvdGVkKSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">KGRlZikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">KGpzL2NvbnNvbGUubG9nIFRlc3RDb21wb25lbnQpCg==</text>
+        <text encoding="base64">KGRlZikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
