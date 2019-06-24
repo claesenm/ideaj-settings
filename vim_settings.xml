@@ -249,12 +249,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561384248019">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="135" column="23" />
-        <mark key="]" line="135" column="23" />
-        <mark key="." line="135" column="23" />
-        <mark key="^" line="135" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561389000816">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="5" />
+        <mark key="." line="115" column="5" />
+        <mark key="^" line="111" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561381503127">
         <mark key="'" line="2728" column="42" />
@@ -390,43 +390,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text>GenericContainer2</text>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>GenericContainer2</text>
       </register>
       <register name="/" type="4">
         <text>defsc\*</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICh+Y2hpbGQtZmFjdG9yeSAnY2hpbGQpKSkpCg==</text>
+      <register name="0" type="4">
+        <text>(make-generic-container `[GenericItem ui-generic-item])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OyAgKGpzL2NvbnNvbGUubG9nICMnY2hpbGQtY29tcG9uZW50KQo=</text>
+        <text encoding="base64">ICAgIChsZXQgW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cihqcy9jb25zb2xlLmxvZyAobWFjcm9leHBhbmQgJyhtYWtlLWdlbmVyaWMtY29udGFpbmVyIEdlbmVyaWNJdGVtIHVpLWdlbmVyaWMtaXRlbSkpKQo=</text>
+        <text encoding="base64">OyAgKGpzL2NvbnNvbGUubG9nICMnY2hpbGQtY29tcG9uZW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA7KGxldCBbdG1wLW5hbWUgKGdlbnN5bSAiQ29udGFpbmVyIildCg==</text>
+        <text encoding="base64">Cihqcy9jb25zb2xlLmxvZyAobWFjcm9leHBhbmQgJyhtYWtlLWdlbmVyaWMtY29udGFpbmVyIEdlbmVyaWNJdGVtIHVpLWdlbmVyaWMtaXRlbSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KHByaW50IChtYWNyb2V4cGFuZCAnKG1ha2UtZ2VuZXJpYy1jb21wb25lbnQgezpjb21wb25lbnQgR2VuZXJpY0l0ZW0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmYWN0b3J5IHVpLWdlbmVyaWMtaXRlbX0pKSkKCg==</text>
+        <text encoding="base64">ICA7KGxldCBbdG1wLW5hbWUgKGdlbnN5bSAiQ29udGFpbmVyIildCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CihkZWZtYWNybyBtYWtlLWdlbmVyaWMtY29tcG9uZW50CiAgW2NoaWxkXQogIGAoanMvY29uc29sZS5sb2cgJ35jaGlsZCkpCg==</text>
+        <text encoding="base64">KHByaW50IChtYWNyb2V4cGFuZCAnKG1ha2UtZ2VuZXJpYy1jb21wb25lbnQgezpjb21wb25lbnQgR2VuZXJpY0l0ZW0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmYWN0b3J5IHVpLWdlbmVyaWMtaXRlbX0pKSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">CihkZWZtYWNybyBtYWtlLWdlbmVyaWMtY29tcG9uZW50CiAgW2NoaWxkXQogIGAoanMvY29uc29sZS5sb2cgJ35jaGlsZCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKKGRlZm1hY3JvIGRlZnNjLWdlbmVyaWMKICBbY2hpbGQgdGhpcyBwcm9wc10KICBgKGRlZnNjIEMpKQo=</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb250YWluZXItYm9keQo=</text>
+        <text encoding="base64">CgoKKGRlZm1hY3JvIGRlZnNjLWdlbmVyaWMKICBbY2hpbGQgdGhpcyBwcm9wc10KICBgKGRlZnNjIEMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZm4gbWFrZS1nZW5lcmljLWNvKQo=</text>
+        <text encoding="base64">ICBjb250YWluZXItYm9keQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
