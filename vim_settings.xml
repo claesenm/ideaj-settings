@@ -249,15 +249,15 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561380984827">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="113" column="6" />
-        <mark key="]" line="113" column="7" />
-        <mark key="." line="113" column="7" />
-        <mark key="^" line="113" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561384248019">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="135" column="23" />
+        <mark key="]" line="135" column="23" />
+        <mark key="." line="135" column="23" />
+        <mark key="^" line="135" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561376714735">
-        <mark key="'" line="3171" column="80" />
+      <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561381503127">
+        <mark key="'" line="2728" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" timestamp="1561098248490">
         <mark key="'" line="0" column="0" />
@@ -287,34 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="69" column="49" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
-      <jump line="298" column="8" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="13" column="47" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="6" column="26" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="165" column="7" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="243" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="290" column="30" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="228" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="152" column="37" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="54" column="10" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="288" column="16" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/serializers.py" />
-      <jump line="297" column="33" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="14" column="100" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="304" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="291" column="25" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="18" column="60" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="67" column="17" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
-      <jump line="207" column="70" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
-      <jump line="305" column="49" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/models.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/tos/models.py" />
-      <jump line="46" column="63" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/tos/models.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/database.py" />
       <jump line="4" column="10" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/database.py" />
       <jump line="144" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/database.py" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/database.py" />
@@ -387,79 +359,83 @@
       <jump line="80" column="24" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
       <jump line="3171" column="80" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
       <jump line="99" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
+      <jump line="3258" column="12" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="453" column="39" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2707" column="65" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2764" column="47" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2783" column="128" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2790" column="81" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2831" column="59" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2870" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2871" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2872" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2873" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2874" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2875" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2879" column="98" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2880" column="98" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2881" column="98" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2882" column="98" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2883" column="98" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2884" column="98" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2886" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2890" column="94" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2906" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2995" column="23" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="3008" column="4" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="3041" column="6" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="3063" column="10" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="2728" column="42" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA7KGxldCBbdG1wLW5hbWUgKGdlbnN5bSAiQ29udGFpbmVyIildCg==</text>
+      <register name="&quot;" type="4">
+        <text>~</text>
       </register>
       <register name="-" type="4">
         <text>~</text>
       </register>
       <register name="/" type="4">
-        <text>defmacro</text>
+        <text>defsc\*</text>
       </register>
-      <register name="0" type="4">
-        <text>(defn make-generic-container
-  [child-component child-factory]
-  `(defsc Container#
-     [this {:keys [color child]}]
-     {:query [:color
-              {:child (prim/get-query ~child-component)}]
-      :initial-state (fn [_] {:child (prim/get-initial-state ~child-component {})})}
-     (dom/li {:style {:color color}}
-       (child-factory child))))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICh+Y2hpbGQtZmFjdG9yeSAnY2hpbGQpKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA7KGxldCBbdG1wLW5hbWUgKGdlbnN5bSAiQ29udGFpbmVyIildCg==</text>
+        <text encoding="base64">OyAgKGpzL2NvbnNvbGUubG9nICMnY2hpbGQtY29tcG9uZW50KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KHByaW50IChtYWNyb2V4cGFuZCAnKG1ha2UtZ2VuZXJpYy1jb21wb25lbnQgezpjb21wb25lbnQgR2VuZXJpY0l0ZW0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmYWN0b3J5IHVpLWdlbmVyaWMtaXRlbX0pKSkKCg==</text>
+        <text encoding="base64">Cihqcy9jb25zb2xlLmxvZyAobWFjcm9leHBhbmQgJyhtYWtlLWdlbmVyaWMtY29udGFpbmVyIEdlbmVyaWNJdGVtIHVpLWdlbmVyaWMtaXRlbSkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CihkZWZtYWNybyBtYWtlLWdlbmVyaWMtY29tcG9uZW50CiAgW2NoaWxkXQogIGAoanMvY29uc29sZS5sb2cgJ35jaGlsZCkpCg==</text>
+        <text encoding="base64">ICA7KGxldCBbdG1wLW5hbWUgKGdlbnN5bSAiQ29udGFpbmVyIildCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">KHByaW50IChtYWNyb2V4cGFuZCAnKG1ha2UtZ2VuZXJpYy1jb21wb25lbnQgezpjb21wb25lbnQgR2VuZXJpY0l0ZW0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmYWN0b3J5IHVpLWdlbmVyaWMtaXRlbX0pKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKKGRlZm1hY3JvIGRlZnNjLWdlbmVyaWMKICBbY2hpbGQgdGhpcyBwcm9wc10KICBgKGRlZnNjIEMpKQo=</text>
+        <text encoding="base64">CihkZWZtYWNybyBtYWtlLWdlbmVyaWMtY29tcG9uZW50CiAgW2NoaWxkXQogIGAoanMvY29uc29sZS5sb2cgJ35jaGlsZCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb250YWluZXItYm9keQo=</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZm4gbWFrZS1nZW5lcmljLWNvKQo=</text>
+        <text encoding="base64">CgoKKGRlZm1hY3JvIGRlZnNjLWdlbmVyaWMKICBbY2hpbGQgdGhpcyBwcm9wc10KICBgKGRlZnNjIEMpKQo=</text>
       </register>
-      <register name="8" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb250YWluZXItYm9keQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogICkKKGRlZnNjLWdlbmVyaWMgQ29udGFpbmVyCiAgW3RoaXMgcHJvcHMgY29tcHV0ZWRdCgogICkKCg==</text>
+        <text encoding="base64">KGRlZm4gbWFrZS1nZW5lcmljLWNvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>defmacro</last-search>
+      <last-search>defsc\*</last-search>
       <last-offset />
-      <last-pattern>defmacro</last-pattern>
+      <last-pattern>defsc\*</last-pattern>
       <last-replace>current_app.logger.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -467,9 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>staging-ima</entry>
-        <entry>DELETE_STAGING_IMAGE</entry>
-        <entry>File</entry>
         <entry>staging</entry>
         <entry>DELETE</entry>
         <entry>ID</entry>
@@ -487,6 +460,9 @@
         <entry>deps</entry>
         <entry>get-query</entry>
         <entry>defmacro</entry>
+        <entry>defsc</entry>
+        <entry>defsc*</entry>
+        <entry>defsc\*</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
@@ -501,8 +477,8 @@
         <entry>319</entry>
         <entry encoding="base64">JzwsJz5zL3ByaW50L2N1cnJlbnRfYXBwLmxvZ2dlci5pbmZvL2c=</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
