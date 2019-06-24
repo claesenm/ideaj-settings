@@ -249,12 +249,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561378216577">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="103" column="19" />
-        <mark key="]" line="103" column="19" />
-        <mark key="." line="103" column="19" />
-        <mark key="^" line="103" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561380984827">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="113" column="6" />
+        <mark key="]" line="113" column="7" />
+        <mark key="." line="113" column="7" />
+        <mark key="^" line="113" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561376714735">
         <mark key="'" line="3171" column="80" />
@@ -389,8 +389,8 @@
       <jump line="99" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>~</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA7KGxldCBbdG1wLW5hbWUgKGdlbnN5bSAiQ29udGFpbmVyIildCg==</text>
       </register>
       <register name="-" type="4">
         <text>~</text>
@@ -398,10 +398,39 @@
       <register name="/" type="4">
         <text>defmacro</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KGRlZmNhcmQtZnVsY3JvIGdlbmVyaWMtY29udGFpbmVyLXRlc3QKICBSb290CiAge30KICB7Omluc3BlY3QtZGF0YSB0cnVlCiAgIDpmdWxjcm8gICAgICAgezpzdGFydGVkLWNhbGxiYWNrIChmbiBbXSAocHJpbnQgInN0YXJ0ZWQtY2FsbGJhY2siKSl9fSkK</text>
+      <register name="0" type="4">
+        <text>(defn make-generic-container
+  [child-component child-factory]
+  `(defsc Container#
+     [this {:keys [color child]}]
+     {:query [:color
+              {:child (prim/get-query ~child-component)}]
+      :initial-state (fn [_] {:child (prim/get-initial-state ~child-component {})})}
+     (dom/li {:style {:color color}}
+       (child-factory child))))</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICA7KGxldCBbdG1wLW5hbWUgKGdlbnN5bSAiQ29udGFpbmVyIildCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">KHByaW50IChtYWNyb2V4cGFuZCAnKG1ha2UtZ2VuZXJpYy1jb21wb25lbnQgezpjb21wb25lbnQgR2VuZXJpY0l0ZW0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmYWN0b3J5IHVpLWdlbmVyaWMtaXRlbX0pKSkKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CihkZWZtYWNybyBtYWtlLWdlbmVyaWMtY29tcG9uZW50CiAgW2NoaWxkXQogIGAoanMvY29uc29sZS5sb2cgJ35jaGlsZCkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CgoKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CgoKKGRlZm1hY3JvIGRlZnNjLWdlbmVyaWMKICBbY2hpbGQgdGhpcyBwcm9wc10KICBgKGRlZnNjIEMpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb250YWluZXItYm9keQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KGRlZm4gbWFrZS1nZW5lcmljLWNvKQo=</text>
+      </register>
+      <register name="8" type="8">
         <text>#
 #
 #
@@ -420,31 +449,8 @@
 #
 #</text>
       </register>
-      <register name="2" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CgogICkKKGRlZnNjLWdlbmVyaWMgQ29udGFpbmVyCiAgW3RoaXMgcHJvcHMgY29tcHV0ZWRdCgogICkKCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">KGRlZmNhcmQtZnVsY3JvIGdlbmVyaWMtY29udGFpbmVyLXRlc3QKICAgICAgICAgICAgICAgIFJvb3QKICAgICAgICAgICAgICAgIHt9CiAgICAgICAgICAgICAgICB7Omluc3BlY3QtZGF0YSB0cnVlCiAgICAgICAgICAgICAgICAgOmZ1bGNybyAgICAgICB7OnN0YXJ0ZWQtY2FsbGJhY2sgKGZuIFtdIChwcmludCAic3RhcnRlZC1jYWxsYmFjayIpKX19KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">KGRlZnNjIFJvb3QKICBbdGhpcyB7OmtleXMgW3dyYXBwZXJdfV0KICB7OnF1ZXJ5IFt7OndyYXBwZXIgKHByaW0vZ2V0LXF1ZXJ5IFdyYXBwZXIpfV0KICAgOmluaXRpYWwtc3RhdGUgKGZuIFtfXSB7OndyYXBwZXIgKHByaW0vZ2V0LWluaXRpYWwtc3RhdGUgV3JhcHBlciB7fSl9KX0KCiAgKHVpLXdyYXBwZXIgd3JhcHBlcikpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="8">
-        <text>;
-;
-;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
