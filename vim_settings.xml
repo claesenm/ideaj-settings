@@ -249,15 +249,15 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561328258990">
-        <mark key="'" line="80" column="24" />
-        <mark key="[" line="70" column="2" />
-        <mark key="]" line="70" column="2" />
-        <mark key="." line="70" column="2" />
-        <mark key="^" line="70" column="2" />
+      <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561378216577">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="19" />
+        <mark key="." line="103" column="19" />
+        <mark key="^" line="103" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561326654146">
-        <mark key="'" line="3084" column="3" />
+      <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561376714735">
+        <mark key="'" line="3171" column="80" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" timestamp="1561098248490">
         <mark key="'" line="0" column="0" />
@@ -287,8 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
-      <jump line="32" column="42" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/api.py" />
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
       <jump line="69" column="49" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" />
       <jump line="298" column="8" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
@@ -387,59 +385,75 @@
       <jump line="3084" column="3" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
       <jump line="61" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
       <jump line="80" column="24" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
+      <jump line="3171" column="80" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="99" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>~</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
-        <text>get-query</text>
+        <text>defmacro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZmNhcmQtZnVsY3JvIGdlbmVyaWMtY29udGFpbmVyLXRlc3QKICBSb290CiAge30KICB7Omluc3BlY3QtZGF0YSB0cnVlCiAgIDpmdWxjcm8gICAgICAgezpzdGFydGVkLWNhbGxiYWNrIChmbiBbXSAocHJpbnQgInN0YXJ0ZWQtY2FsbGJhY2siKSl9fSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">KGRlZmNhcmQtZnVsY3JvIGdlbmVyaWMtY29udGFpbmVyLXRlc3QKICAgICAgICAgICAgICAgIFJvb3QKICAgICAgICAgICAgICAgIHt9CiAgICAgICAgICAgICAgICB7Omluc3BlY3QtZGF0YSB0cnVlCiAgICAgICAgICAgICAgICAgOmZ1bGNybyAgICAgICB7OnN0YXJ0ZWQtY2FsbGJhY2sgKGZuIFtdIChwcmludCAic3RhcnRlZC1jYWxsYmFjayIpKX19KQo=</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZnNjIFJvb3QKICBbdGhpcyB7OmtleXMgW3dyYXBwZXJdfV0KICB7OnF1ZXJ5IFt7OndyYXBwZXIgKHByaW0vZ2V0LXF1ZXJ5IFdyYXBwZXIpfV0KICAgOmluaXRpYWwtc3RhdGUgKGZuIFtfXSB7OndyYXBwZXIgKHByaW0vZ2V0LWluaXRpYWwtc3RhdGUgV3JhcHBlciB7fSl9KX0KCiAgKHVpLXdyYXBwZXIgd3JhcHBlcikpCg==</text>
+        <text encoding="base64">CgogICkKKGRlZnNjLWdlbmVyaWMgQ29udGFpbmVyCiAgW3RoaXMgcHJvcHMgY29tcHV0ZWRdCgogICkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">KGRlZmNhcmQtZnVsY3JvIGdlbmVyaWMtY29udGFpbmVyLXRlc3QKICAgICAgICAgICAgICAgIFJvb3QKICAgICAgICAgICAgICAgIHt9CiAgICAgICAgICAgICAgICB7Omluc3BlY3QtZGF0YSB0cnVlCiAgICAgICAgICAgICAgICAgOmZ1bGNybyAgICAgICB7OnN0YXJ0ZWQtY2FsbGJhY2sgKGZuIFtdIChwcmludCAic3RhcnRlZC1jYWxsYmFjayIpKX19KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZnNjIFJvb3QKICBbdGhpcyB7OmtleXMgW3dyYXBwZXJdfV0KICB7OnF1ZXJ5IFt7OndyYXBwZXIgKHByaW0vZ2V0LXF1ZXJ5IFdyYXBwZXIpfV0KICAgOmluaXRpYWwtc3RhdGUgKGZuIFtfXSB7OndyYXBwZXIgKHByaW0vZ2V0LWluaXRpYWwtc3RhdGUgV3JhcHBlciB7fSl9KX0KCiAgKHVpLXdyYXBwZXIgd3JhcHBlcikpCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>;
-;
-;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="7" type="8">
-        <text>;
-;
-;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtcm9vdC10ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CihkZWZzYyBHcmlkUm9vdCBbdGhpcyBwcm9wc10ge30KICAocHJpbS9mcmFnbWVudCB7fQogICAgICAgICAgICAgICAgIChtdWkvcGFwZXIgezpzdHlsZSB7Om1hcmdpbkJvdHRvbSAxMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnBhZGRpbmcgNX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAobXVpL2dyaWQgezpjb250YWluZXIgdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3BhY2luZyAgIDEyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpkaXJlY3Rpb24gOnJvd30KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobXVpL2dyaWQgezpjb250YWluZXIgdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOml0ZW0gICAgICB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6eHMgICAgICAgIDEyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c20gICAgICAgIDYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpzcGFjaW5nICAgMTJ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvZ3JpZCB7Oml0ZW0gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp4cyAgIDEyfSAobXVpL3BhcGVyIHs6c3R5bGUgezpwYWRkaW5nIDEwIDptYXJnaW4gNX19IChtdWkvdHlwb2dyYXBoeSB7fSAib25lIikpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobXVpL2dyaWQgezppdGVtIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6eHMgICAxMn0gKG11aS9wYXBlciB7OnN0eWxlIHs6cGFkZGluZyAxMCA6bWFyZ2luIDV9fSAobXVpL3R5cG9ncmFwaHkge30gInR3byIpKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG11aS9ncmlkIHs6aXRlbSB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnhzICAgMTJ9IChtdWkvcGFwZXIgezpzdHlsZSB7OnBhZGRpbmcgMTAgOm1hcmdpbiA1fX0gKG11aS90eXBvZ3JhcGh5IHt9ICJ0aHJlZSIpKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG11aS9ncmlkIHs6aXRlbSB0cnVlIDp4cyAxMiA6c20gNn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG11aS9wYXBlciB7OnN0eWxlIHs6cGFkZGluZyAgIDEwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1hcmdpbiAgICA1CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRleHRBbGlnbiA6cmlnaHR9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvaWNvbi1idXR0b24ge30KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvZGVsZXRlLWljb24ge30pKSkpKSkKICAgICAgICAgICAgICAgICAobXVpL3BhcGVyIHs6c3R5bGUgezpwYWRkaW5nIDV9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKG11aS9ncmlkIHs6Y29udGFpbmVyIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnNwYWNpbmcgICAxMgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZGlyZWN0aW9uIDpyb3d9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG11aS9ncmlkIHs6Y29udGFpbmVyIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDppdGVtICAgICAgdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnhzICAgICAgICAxMgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnNtICAgICAgICA2CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c3BhY2luZyAgIDEyfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobXVpL2dyaWQgezppdGVtIHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6eHMgICAxMn0gKG11aS9wYXBlciB7OnN0eWxlIHs6cGFkZGluZyAxMCA6bWFyZ2luIDV9fSAobXVpL3R5cG9ncmFwaHkge30gIm9uZSIpKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG11aS9ncmlkIHs6aXRlbSB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnhzICAgMTJ9IChtdWkvcGFwZXIgezpzdHlsZSB7OnBhZGRpbmcgMTAgOm1hcmdpbiA1fX0gKG11aS90eXBvZ3JhcGh5IHt9ICJ0d28iKSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvZ3JpZCB7Oml0ZW0gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp4cyAgIDEyfSAobXVpL3BhcGVyIHs6c3R5bGUgezpwYWRkaW5nIDEwIDptYXJnaW4gNX19IChtdWkvdHlwb2dyYXBoeSB7fSAidGhyZWUiKSkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvZ3JpZCB7Oml0ZW0gdHJ1ZSA6eHMgMTIgOnNtIDZ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChtdWkvcGFwZXIgezpzdHlsZSB7OnBhZGRpbmcgICAxMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDptYXJnaW4gICAgNQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp0ZXh0QWxpZ24gOnJpZ2h0fX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobXVpL2ljb24tYnV0dG9uIHt9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobXVpL2RlbGV0ZS1pY29uIHt9KSkpKSkpKSkKCihkZWZjYXJkLWZ1bGNybyBncmlkLXRlc3QgR3JpZFJvb3Qge30gezppbnNwZWN0LWRhdGEgdHJ1ZX0pCg==</text>
+      <register name="9" type="8">
+        <text>;
+;
+;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get-query</last-search>
+      <last-search>defmacro</last-search>
       <last-offset />
-      <last-pattern>get-query</last-pattern>
+      <last-pattern>defmacro</last-pattern>
       <last-replace>current_app.logger.info</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>no_content</entry>
         <entry>staging-ima</entry>
         <entry>DELETE_STAGING_IMAGE</entry>
         <entry>File</entry>
@@ -467,6 +480,7 @@
         <entry>pluck</entry>
         <entry>deps</entry>
         <entry>get-query</entry>
+        <entry>defmacro</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
