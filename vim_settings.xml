@@ -3,7 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562220955777" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/comm.cljs" timestamp="1562223314407">
+        <mark key="'" line="166" column="35" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562224448265">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch.sh" timestamp="1557329142249">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="8" column="0" />
@@ -41,6 +53,13 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/matrix.cljs" timestamp="1562223271397">
+        <mark key="'" line="304" column="31" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/change-fucking-postgres-password.sh" timestamp="1558342341288">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="22" />
@@ -75,6 +94,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" timestamp="1562223224420">
+        <mark key="'" line="265" column="39" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/cards.cljs" timestamp="1561324922688">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="7" column="38" />
@@ -99,6 +125,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
         <mark key="'" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562224280434">
+        <mark key="'" line="39" column="28" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
         <mark key="'" line="0" column="0" />
@@ -176,6 +209,9 @@
         <mark key="." line="37" column="20" />
         <mark key="^" line="37" column="20" />
       </file>
+      <file name="/REPL.clj" timestamp="1562222038415">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-test.env" timestamp="1558106394828">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="95" />
@@ -232,6 +268,16 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="35" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562223954922">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/comm.cljs" timestamp="1562224062521">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" timestamp="1558029142956">
         <mark key="[" line="91" column="59" />
         <mark key="]" line="91" column="63" />
@@ -256,8 +302,16 @@
         <mark key="." line="191" column="28" />
         <mark key="^" line="191" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/project.clj" timestamp="1562222241222">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561381503127">
         <mark key="'" line="2728" column="42" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" timestamp="1562224272814">
+        <mark key="'" line="163" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" timestamp="1561098248490">
         <mark key="'" line="0" column="0" />
@@ -287,32 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="10" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/database.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/database.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/database.py" />
-      <jump line="11" column="73" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/tos/models.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/tos/models.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="169" column="7" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="9" column="27" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="188" column="8" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="88" column="26" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="12" column="56" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" />
-      <jump line="173" column="26" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" />
-      <jump line="193" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
-      <jump line="226" column="12" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="227" column="12" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/api.py" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
       <jump line="164" column="20" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
       <jump line="167" column="37" filename="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" />
@@ -387,71 +415,88 @@
       <jump line="3041" column="6" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
       <jump line="3063" column="10" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
       <jump line="2728" column="42" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
+      <jump line="282" column="21" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
+      <jump line="9" column="37" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
+      <jump line="14" column="4" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
+      <jump line="215" column="20" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
+      <jump line="224" column="38" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
+      <jump line="255" column="19" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
+      <jump line="266" column="39" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
+      <jump line="305" column="31" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/matrix.cljs" />
+      <jump line="167" column="35" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/comm.cljs" />
+      <jump line="493" column="86" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="464" column="33" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="15" column="35" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="456" column="14" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="498" column="2" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="135" column="18" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="5" column="26" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="32" column="16" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="33" column="21" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="37" column="19" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="40" column="28" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" />
+      <jump line="154" column="53" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" />
+      <jump line="155" column="53" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" />
+      <jump line="163" column="61" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChpZiB0ZXN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>defsc\*</text>
+        <text>core</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJjb21wb25lbnQiIEdlbmVyaWNDb250YWluZXIyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgZm9ybSMgYChtYWtlLWdlbmVyaWMtY29udGFpbmVyIH5jb21wb25lbnQjIH5mYWN0b3J5IykKICAgICB+QChmb3JtIykpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChpZiB0ZXN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICB+QGZvcm0jKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtoaXBvICJMQVRFU1QiXQogICAgICAgICAgICAgICAgW3ByaXNtYXRpYy9kb21teSAiTEFURVNUIl0K</text>
       </register>
-      <register name="3" type="4">
-        <text>;component# ~child-component
-        factory# ~child-factory</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAKCgogICAgICAgICBjb250YWluZXIjIChtYWtlLWdlbmVyaWMtY29udGFpbmVyIH5jaGlsZC1jb21wb25lbnQgfmNoaWxkLWZhY3RvcnkpCiAgICAgY29udGFpbmVyIykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAobGV0IFtdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJpbnN0YW50aWF0ZWQiIGluc3RhbnRpYXRlZCkKKGpzL2NvbnNvbGUubG9nIChwcmltL2dldC1xdWVyeSBpbnN0YW50aWF0ZWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbY2xqc2pzLmQzXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJjb21wb25lbnQiIEdlbmVyaWNDb250YWluZXIyKQo=</text>
+        <text encoding="base64">KG5zIGNhbnZhcy51dGlsLikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBgKGRvICB+cXVvdGVkKSkK</text>
+        <text encoding="base64">IDoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZikK</text>
+        <text encoding="base64">CiAgOmRlcGVuZGVuY2llcyBbW2hpcG8gIkxBVEVTVCJdCiAgICAgICAgICAgICAgICAgW3ByaXNtYXRpYy9kb21teSAiTEFURVNUIl0KICAgICAgICAgICAgICAgICBbY2xqcy1odHRwICJMQVRFU1QiXSAgICAgICAgICAgICA7OyBodHRwIHJlcXVlc3RzCiAgICAgICAgICAgICAgICAgW2NsanNqcy9tc2dwYWNrLWxpdGUgIkxBVEVTVCJdICAgOzsgbXNncGFjayBzZXJpYWxpemF0aW9uCiAgICAgICAgICAgICAgICAgW2NsanNqcy9wYWtvICJMQVRFU1QiXSAgICAgICAgICAgOzsgemxpYiBjb21wcmVzc2lvbgogICAgICAgICAgICAgICAgIFtjbGpzanMvcGl4aSAiTEFURVNUIl1dCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>defsc\*</last-search>
+      <last-search>core</last-search>
       <last-offset />
-      <last-pattern>defsc\*</last-pattern>
-      <last-replace>current_app.logger.info</last-replace>
-      <last-substitute>print</last-substitute>
+      <last-pattern>core</last-pattern>
+      <last-replace>(prim\/</last-replace>
+      <last-substitute>(om\/</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>staging</entry>
-        <entry>DELETE</entry>
-        <entry>ID</entry>
-        <entry>user</entry>
-        <entry>\/user</entry>
-        <entry>'\/users</entry>
-        <entry>'</entry>
-        <entry>AnnotationClass</entry>
         <entry>new_password</entry>
         <entry>print</entry>
         <entry>70</entry>
@@ -464,6 +509,14 @@
         <entry>defsc</entry>
         <entry>defsc*</entry>
         <entry>defsc\*</entry>
+        <entry>make-normalizer</entry>
+        <entry>util</entry>
+        <entry>om\/</entry>
+        <entry>defui</entry>
+        <entry>prim\/</entry>
+        <entry>(om\/</entry>
+        <entry>gdom</entry>
+        <entry>core</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
@@ -474,12 +527,13 @@
         <entry encoding="base64">JzwsJz4lcy9GT0xERVIvQ0FDSEUvZw==</entry>
         <entry>%s/MARIE KONDO\\t//g</entry>
         <entry>53</entry>
-        <entry>set paste</entry>
         <entry>319</entry>
         <entry encoding="base64">JzwsJz5zL3ByaW50L2N1cnJlbnRfYXBwLmxvZ2dlci5pbmZvL2c=</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>set paste</entry>
+        <entry>%s/(om\//(prim\//g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
