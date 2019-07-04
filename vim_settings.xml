@@ -10,11 +10,17 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562224448265">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="3" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562227331583">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562225897453">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="58" />
+        <mark key="^" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch.sh" timestamp="1557329142249">
         <mark key="[" line="9" column="0" />
@@ -52,6 +58,10 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
         <mark key="^" line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/components.cljs" timestamp="1562224704499">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/matrix.cljs" timestamp="1562223271397">
         <mark key="'" line="304" column="31" />
@@ -126,12 +136,11 @@
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
         <mark key="'" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562224280434">
-        <mark key="'" line="39" column="28" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562225595497">
+        <mark key="'" line="44" column="28" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
         <mark key="'" line="0" column="0" />
@@ -209,7 +218,7 @@
         <mark key="." line="37" column="20" />
         <mark key="^" line="37" column="20" />
       </file>
-      <file name="/REPL.clj" timestamp="1562222038415">
+      <file name="/REPL.clj" timestamp="1562225989909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-test.env" timestamp="1558106394828">
@@ -268,15 +277,17 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562223954922">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562225542414">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/comm.cljs" timestamp="1562224062521">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/comm.cljs" timestamp="1562225597880">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/enums.py" timestamp="1558029142956">
         <mark key="[" line="91" column="59" />
@@ -310,8 +321,12 @@
       <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561381503127">
         <mark key="'" line="2728" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" timestamp="1562224272814">
-        <mark key="'" line="163" column="61" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" timestamp="1562225622960">
+        <mark key="'" line="167" column="61" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" timestamp="1561098248490">
         <mark key="'" line="0" column="0" />
@@ -443,23 +458,23 @@
       <jump line="163" column="61" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChpZiB0ZXN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UK</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGpzL2NvbnNvbGUubG9nICJjb21wb25lbnQiIEdlbmVyaWNDb250YWluZXIyKQo=</text>
+        <text encoding="base64">ICAgIFt0YW9lbnNzby50aW1icmUgOmFzIHRpbWJyZQogICAgIDpyZWZlci1tYWNyb3MgW2xvZyAgdHJhY2UgIGRlYnVnICBpbmZvICB3YXJuICBlcnJvciAgZmF0YWwgIHJlcG9ydAogICAgICAgICAgICAgICAgICAgIGxvZ2YgdHJhY2VmIGRlYnVnZiBpbmZvZiB3YXJuZiBlcnJvcmYgZmF0YWxmIHJlcG9ydGYKICAgICAgICAgICAgICAgICAgICBzcHkgZ2V0LWVudl1dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIChpZiB0ZXN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAoZG9tLykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtoaXBvICJMQVRFU1QiXQogICAgICAgICAgICAgICAgW3ByaXNtYXRpYy9kb21teSAiTEFURVNUIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -471,16 +486,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbY2xqc2pzLmQzXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KG5zIGNhbnZhcy51dGlsLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IDoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgOmRlcGVuZGVuY2llcyBbW2hpcG8gIkxBVEVTVCJdCiAgICAgICAgICAgICAgICAgW3ByaXNtYXRpYy9kb21teSAiTEFURVNUIl0KICAgICAgICAgICAgICAgICBbY2xqcy1odHRwICJMQVRFU1QiXSAgICAgICAgICAgICA7OyBodHRwIHJlcXVlc3RzCiAgICAgICAgICAgICAgICAgW2NsanNqcy9tc2dwYWNrLWxpdGUgIkxBVEVTVCJdICAgOzsgbXNncGFjayBzZXJpYWxpemF0aW9uCiAgICAgICAgICAgICAgICAgW2NsanNqcy9wYWtvICJMQVRFU1QiXSAgICAgICAgICAgOzsgemxpYiBjb21wcmVzc2lvbgogICAgICAgICAgICAgICAgIFtjbGpzanMvcGl4aSAiTEFURVNUIl1dCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -529,11 +544,11 @@
         <entry>53</entry>
         <entry>319</entry>
         <entry encoding="base64">JzwsJz5zL3ByaW50L2N1cnJlbnRfYXBwLmxvZ2dlci5pbmZvL2c=</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>set paste</entry>
         <entry>%s/(om\//(prim\//g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
