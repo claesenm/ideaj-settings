@@ -17,11 +17,11 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562238001635">
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="6" column="120" />
-        <mark key="." line="6" column="120" />
-        <mark key="^" line="6" column="120" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562239083720">
+        <mark key="[" line="49" column="39" />
+        <mark key="]" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+        <mark key="^" line="49" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch.sh" timestamp="1557329142249">
         <mark key="[" line="9" column="0" />
@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
         <mark key="'" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562236238982">
-        <mark key="'" line="181" column="18" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562238778464">
+        <mark key="'" line="175" column="18" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
         <mark key="^" line="13" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
         <mark key="'" line="0" column="0" />
@@ -303,10 +303,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562233029972">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562238706766">
+        <mark key="[" line="130" column="44" />
+        <mark key="]" line="130" column="44" />
+        <mark key="." line="130" column="44" />
+        <mark key="^" line="130" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/comm.cljs" timestamp="1562235432599">
         <mark key="'" line="0" column="0" />
@@ -348,12 +349,12 @@
       <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561381503127">
         <mark key="'" line="2728" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" timestamp="1562225622960">
-        <mark key="'" line="167" column="61" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" timestamp="1562238930033">
+        <mark key="'" line="168" column="61" />
+        <mark key="[" line="221" column="46" />
+        <mark key="]" line="222" column="19" />
+        <mark key="." line="222" column="19" />
+        <mark key="^" line="222" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" timestamp="1561098248490">
         <mark key="'" line="0" column="0" />
@@ -486,52 +487,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>check-</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>check-</text>
       </register>
       <register name="/" type="4">
-        <text>codec</text>
+        <text>147</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFtoaXBvICJMQVRFU1QiXQogICAgICAgICAgICAgICAgW3ByaXNtYXRpYy9kb21teSAiTEFURVNUIl0KICAgICAgICAgICAgICAgIFtzYWJsb25vL3NhYmxvbm8gIkxBVEVTVCJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtwcmlzbWF0aWMvZG9tbXkgIjEuMS4wIl0K</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBoaXBvIHs6bXZuL3ZlcnNpb24gImxhdGVzdCJ9fQoKOyBbaGlwbyAiTEFURVNUIl0KOyBbcHJpc21hdGljL2RvbW15ICJMQVRFU1QiXQo7IFtzYWJsb25vL3NhYmxvbm8gIkxBVEVTVCJdCg==</text>
+        <text encoding="base64">OyBsaXN0IG9mIGF2YWlsYWJsZSBzY2FsZSBtb2RlcyAocHVibGljKSBhbmQgKHByaXZhdGUpIG1hcCB0byBjb3JyZXNwb25kaW5nIHBpeGkgZnVuY3Rpb25zCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CihpbmZvIHBpeGkvV0VCR0wtTUFYLVRFWFRVUkUtU0laRSkK</text>
+        <text encoding="base64">KGRlZiBeezpkb2MgIkF2YWlsYWJsZSBzY2FsZSBtb2RlcyJ9IGF2YWlsYWJsZS1zY2FsZS1tb2RlcyBbOm5lYXJlc3QgOmxpbmVhcl0pCihkZWYgXjpwcml2YXRlIHNjYWxlLW1vZGVzIHs6bmVhcmVzdCAoLi4gcGl4aS1qcyAtU0NBTEVfTU9ERVMgLU5FQVJFU1QpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bGluZWFyICAoLi4gcGl4aS1qcyAtU0NBTEVfTU9ERVMgLUxJTkVBUil9KQooZGVmIHNjYWxlLW1vZGUtb3B0aW9ucyB7Om5lYXJlc3QgIm5lYXJlc3QiIDpsaW5lYXIgImxpbmVhciJ9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OyAgICBbY2xqc2pzLnBpeGkgOmFzIHBpeGldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtwcmlzbWF0aWMvZG9tbXkgIjEuMS4wIl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFsicGl4aS5qcyIgOmFzIHBpeGktanNdKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICBoaXBvIHs6bXZuL3ZlcnNpb24gImxhdGVzdCJ9fQoKOyBbaGlwbyAiTEFURVNUIl0KOyBbcHJpc21hdGljL2RvbW15ICJMQVRFU1QiXQo7IFtzYWJsb25vL3NhYmxvbm8gIkxBVEVTVCJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CihpbmZvIHBpeGkvV0VCR0wtTUFYLVRFWFRVUkUtU0laRSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CjsgaHR0cHM6Ly93aWxrZXJsdWNpby5naXRodWIuaW8vcGF0aG9tLyNfc2V0dGluZ191cF90aGVfaW5kZXhfZXhwbG9yZXJfcmVzb2x2ZXIKOyBkb2VzIG5vdCBsZSB3b3JrCiNfKHBjL2RlZnJlc29sdmVyIGluZGV4LWV4cGxvcmVyIFtlbnYgX10KICAgIHs6OnBjL2lucHV0ICAjezpjb20ud3NzY29kZS5wYXRob20udml6LmluZGV4LWV4cGxvcmVyL2lkfQogICAgIDo6cGMvb3V0cHV0IFs6Y29tLndzc2NvZGUucGF0aG9tLnZpei5pbmRleC1leHBsb3Jlci9pbmRleF19CiAgICB7OmNvbS53c3Njb2RlLnBhdGhvbS52aXouaW5kZXgtZXhwbG9yZXIvaW5kZXgKICAgICAoZ2V0IGVudiA6OnBjL2luZGV4ZXMpfSkK</text>
+        <text encoding="base64">OyAgICBbY2xqc2pzLnBpeGkgOmFzIHBpeGldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OyhsZXQgW3JlbmRlcmVyIChqcy9QSVhJLildKQo=</text>
+        <text encoding="base64">ICAgIFsicGl4aS5qcyIgOmFzIHBpeGktanNdKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>codec</last-search>
+      <last-search>147</last-search>
       <last-offset />
-      <last-pattern>codec</last-pattern>
+      <last-pattern>147</last-pattern>
       <last-replace>(prim\/</last-replace>
       <last-substitute>(om\/</last-substitute>
       <last-dir>1</last-dir>
@@ -539,7 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get-query</entry>
         <entry>defmacro</entry>
         <entry>defsc</entry>
         <entry>defsc*</entry>
@@ -559,9 +559,9 @@
         <entry>hipo\/</entry>
         <entry>PIXI</entry>
         <entry>codec</entry>
+        <entry>147</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JlY29uY2lsZXIvdGhpcy9n</entry>
         <entry>498</entry>
         <entry>198</entry>
         <entry>42</entry>
@@ -576,6 +576,11 @@
         <entry>set paste</entry>
         <entry>%s/(om\//(prim\//g</entry>
         <entry>q</entry>
+        <entry>131</entry>
+        <entry>79</entry>
+        <entry>28</entry>
+        <entry>292</entry>
+        <entry>147</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
