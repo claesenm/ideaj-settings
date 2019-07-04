@@ -10,16 +10,16 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562235074565">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562236227654">
         <mark key="'" line="22" column="44" />
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562234897687">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562236185873">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="42" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="17" column="16" />
       </file>
@@ -143,7 +143,7 @@
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
         <mark key="'" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562234795227">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562236238982">
         <mark key="'" line="181" column="18" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -197,11 +197,11 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/deps.edn" timestamp="1562234726779">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="62" />
-        <mark key="." line="15" column="62" />
-        <mark key="^" line="15" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/deps.edn" timestamp="1562236778203">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/app_factory.py" timestamp="1558088781764">
         <mark key="[" line="57" column="4" />
@@ -279,7 +279,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562230668193">
+      <file name="/Dummy.txt" timestamp="1562237025631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -339,10 +339,11 @@
         <mark key="." line="191" column="28" />
         <mark key="^" line="191" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/project.clj" timestamp="1562222241222">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/project.clj" timestamp="1562236217977">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+        <mark key="^" line="3" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" timestamp="1561381503127">
         <mark key="'" line="2728" column="42" />
@@ -485,10 +486,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>codec</text>
