@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562330482346">
-        <mark key="'" line="291" column="4" />
-        <mark key="[" line="36" column="37" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562332387103">
+        <mark key="'" line="65" column="34" />
+        <mark key="[" line="215" column="32" />
+        <mark key="]" line="215" column="34" />
+        <mark key="^" line="215" column="34" />
+        <mark key="." line="215" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -144,12 +144,12 @@
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
         <mark key="'" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562316913769">
-        <mark key="'" line="175" column="18" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562332133591">
+        <mark key="'" line="268" column="6" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="138" column="99" />
+        <mark key="^" line="138" column="99" />
+        <mark key="." line="138" column="99" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
         <mark key="'" line="0" column="0" />
@@ -386,9 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="24" filename="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/login_root_test.cljs" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/login_root_test.cljs" />
       <jump line="52" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
       <jump line="23" column="47" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
       <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" />
@@ -486,71 +483,58 @@
       <jump line="41" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="201" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="246" column="4" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="62" column="74" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="267" column="6" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="64" column="34" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OmVycm9yIA==</text>
       </register>
       <register name="-" type="4">
-        <text>DynamicImage</text>
+        <text encoding="base64">OmVycm9yIA==</text>
       </register>
       <register name="/" type="4">
-        <text>147</text>
+        <text>160</text>
       </register>
-      <register name="0" type="4">
-        <text>(let [{:keys [div-id app]} (om/get-state this)
-          div                  (gdom/getElement div-id)
-
-          ; compute scale of entire object
-          ;		 brect 			(.. div (getBoundingClientRect))
-
-          max-width    (.-clientWidth div)
-          max-height   (.-clientHeight div)
-
-          ; registered scale based on sub components
-          {:keys [width height]} (om/get-state this)
-          scale       (min (/ max-width width) (/ max-height height))]
-
-      (do
-         (set! (.. app -stage -scale) (js/PIXI.Point. scale scale))
-         (.. app -renderer (resize (int (* width scale)) (int (* height scale))))
-         (.. app render)))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAobGV0IFt0ZXh0dXJlICAgICAgKC4uIHBpeGktanMgLVRleHR1cmUgKGZyb21DYW52YXMgY252IChnZXQgc2NhbGUtbW9kZXMgc2NhbGUtbW9kZSkpKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0aWMgb20vSWRlbnQKICAoaWRlbnQgW3RoaXMgezprZXlzIFtmaWd1cmUvaWQgdHlwZV19XQoJW3R5cGUgaWRdKQoKICBzdGF0aWMgb20vSVF1ZXJ5CiAgKHF1ZXJ5IFt0aGlzXQogICAgICAgICBbOmZpZ3VyZS9pZCA6dHlwZQoJCSAgezptYXRyaXgJKG9tL2dldC1xdWVyeSBNYXRyaXhTcHJpdGUpfQoJCSAgezpzdHlsZSAJW3s6Y29sb3JtYXAgWzp0eXBlIDpwYXJhbXNdfQogICAgICAgICAgICAgICAgICAgICB7Om91dGxpbmUgWzp3aWR0aCA6Y29sb3JdfQogICAgICAgICAgICAgICAgICAgICA6c2NhbGUtbW9kZV19CgkJICAgOnRyYW5zZm9ybV0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZAoKKGRlZnNjIElvbkltYWdlCiAgW3RoaXMgcHJvcHNdCiAge30pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bXNpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CgoKCgoKCgoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgoKICAoY29tcG9uZW50RGlkVXBkYXRlIFt0aGlzIHByZXYtcHJvcHMgcHJldi1zdGF0ZV0KICAgIChsZXQgW3s6a2V5cyBbZGl2LWlkIGFwcF19IChvbS9nZXQtc3RhdGUgdGhpcykKICAgICAgICAgIGRpdiAgICAgICAgICAgICAgICAgIChnZG9tL2dldEVsZW1lbnQgZGl2LWlkKQoKICAgICAgICAgIDsgY29tcHV0ZSBzY2FsZSBvZiBlbnRpcmUgb2JqZWN0CiAgICAgICAgICA7CQkgYnJlY3QgCQkJKC4uIGRpdiAoZ2V0Qm91bmRpbmdDbGllbnRSZWN0KSkKCiAgICAgICAgICBtYXgtd2lkdGggICAgKC4tY2xpZW50V2lkdGggZGl2KQogICAgICAgICAgbWF4LWhlaWdodCAgICguLWNsaWVudEhlaWdodCBkaXYpCgogICAgICAgICAgOyByZWdpc3RlcmVkIHNjYWxlIGJhc2VkIG9uIHN1YiBjb21wb25lbnRzCiAgICAgICAgICB7OmtleXMgW3dpZHRoIGhlaWdodF19IChvbS9nZXQtc3RhdGUgdGhpcykKICAgICAgICAgIHNjYWxlICAgICAgIChtaW4gKC8gbWF4LXdpZHRoIHdpZHRoKSAoLyBtYXgtaGVpZ2h0IGhlaWdodCkpXQoKICAgICAgKGRvCiAgICAgICAgIChzZXQhICguLiBhcHAgLXN0YWdlIC1zY2FsZSkgKGpzL1BJWEkuUG9pbnQuIHNjYWxlIHNjYWxlKSkKICAgICAgICAgKC4uIGFwcCAtcmVuZGVyZXIgKHJlc2l6ZSAoaW50ICgqIHdpZHRoIHNjYWxlKSkgKGludCAoKiBoZWlnaHQgc2NhbGUpKSkpCiAgICAgICAgICguLiBhcHAgcmVuZGVyKSkpKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">KGNvbXBvbmVudERpZE1vdW50IFt0aGlzXQogICAgKGxldCBbezprZXlzIFtkaXYtaWQgYXBwXX0gKG9tL2dldC1zdGF0ZSB0aGlzKQogICAgICAgICAgZGl2ICAgICAgICAgICAgICAgICAgKGdkb20vZ2V0RWxlbWVudCBkaXYtaWQpCgogICAgICAgICAgOyBjb21wdXRlIHNjYWxlIG9mIGVudGlyZSBvYmplY3QKICAgICAgICAgIDsJCSBicmVjdCAJCQkoLi4gZGl2IChnZXRCb3VuZGluZ0NsaWVudFJlY3QpKQogICAgICAgICAgbWF4LXdpZHRoICAgICguLWNsaWVudFdpZHRoIGRpdikKICAgICAgICAgIG1heC1oZWlnaHQgICAoLi1jbGllbnRIZWlnaHQgZGl2KQoKICAgICAgICAgIDsgcmVnaXN0ZXJlZCBzY2FsZSBiYXNlZCBvbiBzdWIgY29tcG9uZW50cwogICAgICAgICAgezprZXlzIFt3aWR0aCBoZWlnaHRdfSAob20vZ2V0LXN0YXRlIHRoaXMpCiAgICAgICAgICBzY2FsZSAgICAgICAobWluICgvIG1heC13aWR0aCB3aWR0aCkgKC8gbWF4LWhlaWdodCBoZWlnaHQpKQogICAgICAgICAgXyAoanMvY29uc29sZS5sb2cgIlBBUkFNRVRSSVpFRCBDQU5WQVMgLS0gIiBtYXgtd2lkdGggbWF4LWhlaWdodCB3aWR0aCBoZWlnaHQpCgogICAgICAgICAgOy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gRVZFTlQgSEFORExFUlMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgogICAgICAgICAgYWN0aXZlLXN1YnMtYnkta2V5ICAgKGZuIFtldmVudGtleV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGlmLWxldCBbc3Vic2NyaXBzICgtPiB0aGlzIG9tL2dldC1zdGF0ZSA6c3Vic2NyaXB0aW9ucyBldmVudGtleSldCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG5vdCAoZW1wdHk/IHN1YnNjcmlwcykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UpKQoKICAgICAgICAgIHBvaW50ZXJtb3ZlaGFuZGxlciAgIChmbiBbZV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHdoZW4gKGFjdGl2ZS1zdWJzLWJ5LWtleSA6cG9pbnRlcm1vdmUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxldCBbdGFyZ2V0ICAgICAgICAgICAgWzpmaWd1cmUvYnktaWQgKC0+IHRoaXMgb20vcHJvcHMgOmZpZ3VyZS9pZCldCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgezprZXlzIFttYWluLWNvbnRhaW5lcl19IChvbS9nZXQtc3RhdGUgdGhpcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IG9sZCBwb3NpdGlvbiB2YWx1ZXMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OmtleXMgW3JvdyBjb2xdfSAoLT4gdGhpcyBvbS9wcm9wcyA6aW50ZXJhY3Rpdml0eSA6cG9pbnRlci9wb3NpdGlvbikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGRvIHdlIGhhdmUgYWN0aXZlIHN1YnNjcmlwdGlvbnMgdG8gOnBvaW50ZXJtb3ZlPwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwICAgICAgICAgICAgICAgICAoLi4gZSAtZGF0YSAoZ2V0TG9jYWxQb3NpdGlvbiBtYWluLWNvbnRhaW5lcikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ybWFsaXplICAgICAgICAgKGZuIFtyYXcgbWF4XSAoY29uZCAoPCByYXcgMCkgbmlsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoPiByYXcgbWF4KSBuaWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDplbHNlIHJhdykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm5vcm0gICAgICAgICAgICAgKG5vcm1hbGl6ZSAoLT4gcCAuLXkgaW50KSAoLi4gbWFpbi1jb250YWluZXIgLWhlaWdodCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY25vcm0gICAgICAgICAgICAgKG5vcm1hbGl6ZSAoLT4gcCAuLXggaW50KSAoLi4gbWFpbi1jb250YWluZXIgLXdpZHRoKSldCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAod2hlbiAob3IgKG5vdCAoPSByb3cgcm5vcm0pKSAobm90ICg9IGNvbCBjbm9ybSkpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAob20vdHJhbnNhY3QhIHRoaXMgYFsoZmlndXJlL3NldC1wb2ludGVyLXBvc2l0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgezp0YXJnZXQgfnRhcmdldCA6cm93IH5ybm9ybSA6Y29sIH5jbm9ybX0pXSkpKSkpCgoKICAgICAgICAgIDsgdGhlIHRyaXZpYWwgaGFuZGxlcnMsIHdpbGwgYmUgZG9uZSBhdCBtYWluIGNvbXBvbmVudCBsZXZlbAogICAgICAgICAgZG93bmhhbmRsZXIgICAoZm4gW2VdICh3aGVuIChhY3RpdmUtc3Vicy1ieS1rZXkgOnBvaW50ZXJkb3duKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxldCBbdGFyZ2V0IFs6ZmlndXJlL2J5LWlkICgtPiB0aGlzIG9tL3Byb3BzIDpmaWd1cmUvaWQpXV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG9tL3RyYW5zYWN0ISB0aGlzIGBbKGZpZ3VyZS9zZXQtcG9pbnRlci1kb3duIHs6dGFyZ2V0IH50YXJnZXQgOmRvd24/IHRydWV9KV0pKSkpCgogICAgICAgICAgdXBoYW5kbGVyICAgICAoZm4gW2VdICh3aGVuIChhY3RpdmUtc3Vicy1ieS1rZXkgOnBvaW50ZXJ1cCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChsZXQgW3RhcmdldCBbOmZpZ3VyZS9ieS1pZCAoLT4gdGhpcyBvbS9wcm9wcyA6ZmlndXJlL2lkKV1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChvbS90cmFuc2FjdCEgdGhpcyBgWyhmaWd1cmUvc2V0LXBvaW50ZXItZG93biB7OnRhcmdldCB+dGFyZ2V0IDpkb3duPyBmYWxzZX0pXSkpKSldCgoKICAgICAgKGRvCiAgICAgICAgIDsgZXZlbnQgY2FwdHVyZXJzIGluIGNvbXBvbmVudCBkaWQgbW91bnQgdG8gYXZvaWQgbXVsdGlwbGUgcmVnaXN0cmF0aW9uCiAgICAgICAgICguLiBhcHAgLXN0YWdlIChvbiAicG9pbnRlcm1vdmUiICh0aHJvdHRsZSBwb2ludGVybW92ZWhhbmRsZXIgMzApKSkKICAgICAgICAgKC4uIGFwcCAtc3RhZ2UgKG9uICJwb2ludGVyZG93biIgZG93bmhhbmRsZXIpKQogICAgICAgICAoLi4gYXBwIC1zdGFnZSAob24gInBvaW50ZXJ1cCIgICB1cGhhbmRsZXIpKQogICAgICAgICAoc2V0ISAoLi4gYXBwIC1zdGFnZSAtc2NhbGUpIChqcy9QSVhJLlBvaW50LiBzY2FsZSBzY2FsZSkpCiAgICAgICAgICguLiBhcHAgLXJlbmRlcmVyIChyZXNpemUgKGludCAoKiBzY2FsZSB3aWR0aCkpIChpbnQgKCogc2NhbGUgaGVpZ2h0KSkpKQogICAgICAgICAoc2V0ISAoLi4gYXBwIC1zdGFnZSAtaW50ZXJhY3RpdmUpIHRydWUpCiAgICAgICAgICAgOyBhcHBlbmQgYXBwIHRvIGRvbQogICAgICAgICAoZG9tbXkvYXBwZW5kISBkaXYgKC4tdmlldyBhcHApKQogICAgICAgICA7IHNldCBhbGlnbi1zZWxmIHRvIGNlbnRlciB0byBwcmV2ZW50IGZsZXhib3ggc2hpdHN0b3JtCiAgICAgICAgIChkb21teS9zZXQtc3R5bGUhIChnZG9tL2dldEZpcnN0RWxlbWVudENoaWxkIGRpdikgOmFsaWduLXNlbGYgImNlbnRlciIpCiAgICAgICAgICguLiBhcHAgcmVuZGVyKSkpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAocmVuZGVyIFt0aGlzXSBuaWwpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBPYmplY3QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzdGF0aWMgb20vSWRlbnQKICAoaWRlbnQgW3RoaXMgezprZXlzIFt1dWlkXX1dCiAgICAgICAgIFs6bWF0cml4L2J5LWlkIHV1aWRdKQoKICBzdGF0aWMgb20vSVF1ZXJ5CiAgKHF1ZXJ5IFt0aGlzXQogICAgICAgICBbOnV1aWQgOmRhdGEgOmxldmVscyA6ZGVzY10pCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgezprZXlzIFt1dWlkIGRhdGFdfSAob20vcHJvcHMgdGhpcykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKV8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgKGNvbXBvbmVudERpZE1vdW50IFt0aGlzXQogICAgKGxldCBbezprZXlzIFtjb250YWluZXJdfSAob20vZ2V0LWNvbXB1dGVkIHRoaXMpCiAgICAgICAgICB7OmtleXMgW3V1aWQgZGF0YV19IChvbS9wcm9wcyB0aGlzKQogICAgICAgICAgdGV4dHVyZSAgICAgICAgICAgICAocGl4aS9nZXQtb3ItbWFrZS1ncmF5c2NhbGUtdGV4dHVyZSB1dWlkIGRhdGEpIDsgOnNjYWxlLW1vZGUgc2NhbGUtbW9kZSkKICAgICAgICAgIHNwcml0ZSAgICAgICAgICAgICAgKGpzL1BJWEkuU3ByaXRlLiB0ZXh0dXJlKV0KICAgICAgICAoLi4gY29udGFpbmVyIChhZGRDaGlsZCBzcHJpdGUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>147</last-search>
+      <last-search>160</last-search>
       <last-offset />
-      <last-pattern>147</last-pattern>
+      <last-pattern>160</last-pattern>
       <last-replace>(prim\/</last-replace>
       <last-substitute>(om\/</last-substitute>
       <last-dir>1</last-dir>
@@ -558,7 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>defmacro</entry>
         <entry>defsc</entry>
         <entry>defsc*</entry>
         <entry>defsc\*</entry>
@@ -578,11 +561,9 @@
         <entry>PIXI</entry>
         <entry>codec</entry>
         <entry>147</entry>
+        <entry>160</entry>
       </history-search>
       <history-cmd>
-        <entry>198</entry>
-        <entry>42</entry>
-        <entry>we</entry>
         <entry encoding="base64">JzwsJz4lcy9GT0xERVIvQ0FDSEUvZw==</entry>
         <entry>%s/MARIE KONDO\\t//g</entry>
         <entry>53</entry>
@@ -599,6 +580,9 @@
         <entry>292</entry>
         <entry>147</entry>
         <entry>180</entry>
+        <entry>31</entry>
+        <entry>33</entry>
+        <entry>160</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
