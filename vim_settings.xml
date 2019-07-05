@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562332387103">
-        <mark key="'" line="65" column="34" />
-        <mark key="[" line="215" column="32" />
-        <mark key="]" line="215" column="34" />
-        <mark key="^" line="215" column="34" />
-        <mark key="." line="215" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562335191680">
+        <mark key="'" line="69" column="34" />
+        <mark key="[" line="47" column="79" />
+        <mark key="]" line="54" column="69" />
+        <mark key="^" line="54" column="69" />
+        <mark key="." line="54" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -564,7 +564,6 @@
         <entry>160</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4lcy9GT0xERVIvQ0FDSEUvZw==</entry>
         <entry>%s/MARIE KONDO\\t//g</entry>
         <entry>53</entry>
         <entry>319</entry>
@@ -583,6 +582,7 @@
         <entry>31</entry>
         <entry>33</entry>
         <entry>160</entry>
+        <entry>57</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
