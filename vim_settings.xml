@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562340193229">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562341968990">
         <mark key="'" line="29" column="36" />
-        <mark key="[" line="85" column="31" />
-        <mark key="]" line="85" column="119" />
-        <mark key="." line="85" column="119" />
-        <mark key="^" line="85" column="119" />
+        <mark key="[" line="29" column="85" />
+        <mark key="]" line="29" column="96" />
+        <mark key="." line="29" column="96" />
+        <mark key="^" line="29" column="96" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -488,8 +488,8 @@
       <jump line="28" column="36" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nil</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs6a2V5cyBbdXVpZCBkYXRhXX0gbWF0cml4Cg==</text>
       </register>
       <register name="-" type="4">
         <text>nil</text>
@@ -501,34 +501,34 @@
         <text encoding="base64">ICAobGV0IFt0ZXh0dXJlICAgICAgKC4uIHBpeGktanMgLVRleHR1cmUgKGZyb21DYW52YXMgY252IChnZXQgc2NhbGUtbW9kZXMgc2NhbGUtbW9kZSkpKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs6a2V5cyBbdXVpZCBkYXRhXX0gbWF0cml4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjb250YWluZXIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnN0eWxlIHs6Y29sb3JtYXAge30KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpvdXRsaW5lIHt9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NhbGUtbW9kZSB9KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Om1hdHJpeCB7OnV1aWQgIlAyLVRJQyIgOmRhdGEgZGF0YS1QMiA6bGV2ZWxzIG5pbCA6ZGVzYyAiUDIgc3RhcnRpbmcgaW1hZ2UifQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyBjb250YWluZXIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnN0eWxlIHs6Y29sb3JtYXAge30KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpvdXRsaW5lIHt9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NhbGUtbW9kZSB9KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Om1hdHJpeCB7OnV1aWQgIlAyLVRJQyIgOmRhdGEgZGF0YS1QMiA6bGV2ZWxzIG5pbCA6ZGVzYyAiUDIgc3RhcnRpbmcgaW1hZ2UifQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAocmVuZGVyIFt0aGlzXSBuaWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBPYmplY3QK</text>
+        <text encoding="base64">ICAocmVuZGVyIFt0aGlzXSBuaWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0aWMgb20vSWRlbnQKICAoaWRlbnQgW3RoaXMgezprZXlzIFt1dWlkXX1dCiAgICAgICAgIFs6bWF0cml4L2J5LWlkIHV1aWRdKQoKICBzdGF0aWMgb20vSVF1ZXJ5CiAgKHF1ZXJ5IFt0aGlzXQogICAgICAgICBbOnV1aWQgOmRhdGEgOmxldmVscyA6ZGVzY10pCgo=</text>
+        <text encoding="base64">ICBPYmplY3QK</text>
       </register>
       <register name=":" type="4">
-        <text>157</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -564,9 +564,6 @@
         <entry>gensym</entry>
       </history-search>
       <history-cmd>
-        <entry>131</entry>
-        <entry>79</entry>
-        <entry>28</entry>
         <entry>292</entry>
         <entry>147</entry>
         <entry>180</entry>
@@ -582,8 +579,11 @@
         <entry>68</entry>
         <entry>113</entry>
         <entry>89</entry>
-        <entry>w</entry>
         <entry>157</entry>
+        <entry>85</entry>
+        <entry>154</entry>
+        <entry>37</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
