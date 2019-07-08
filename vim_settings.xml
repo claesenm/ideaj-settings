@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562565590387">
-        <mark key="'" line="119" column="67" />
-        <mark key="[" line="79" column="43" />
-        <mark key="]" line="79" column="51" />
-        <mark key="." line="79" column="51" />
-        <mark key="^" line="79" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562569082374">
+        <mark key="'" line="8" column="55" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="78" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="84" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -144,14 +144,14 @@
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
         <mark key="'" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562455073741">
-        <mark key="a" line="252" column="60" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562570596760">
+        <mark key="a" line="288" column="60" />
         <mark key="b" line="83" column="0" />
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="190" column="16" />
-        <mark key="]" line="190" column="25" />
-        <mark key="." line="190" column="25" />
-        <mark key="^" line="190" column="25" />
+        <mark key="'" line="247" column="36" />
+        <mark key="[" line="272" column="114" />
+        <mark key="]" line="272" column="114" />
+        <mark key="^" line="272" column="114" />
+        <mark key="." line="272" column="114" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
         <mark key="'" line="0" column="0" />
@@ -235,7 +235,7 @@
         <mark key="." line="37" column="20" />
         <mark key="^" line="37" column="20" />
       </file>
-      <file name="/REPL.clj" timestamp="1562312455709">
+      <file name="/REPL.clj" timestamp="1562567072447">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/package.json" timestamp="1562449219542">
@@ -306,12 +306,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562316900110">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562569417739">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="130" column="44" />
-        <mark key="]" line="130" column="44" />
-        <mark key="." line="130" column="44" />
-        <mark key="^" line="130" column="44" />
+        <mark key="[" line="146" column="39" />
+        <mark key="]" line="146" column="62" />
+        <mark key="." line="146" column="62" />
+        <mark key="^" line="146" column="62" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/comm.cljs" timestamp="1562312112232">
         <mark key="'" line="0" column="0" />
@@ -388,9 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2886" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
-      <jump line="2890" column="94" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
-      <jump line="2906" column="41" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
       <jump line="2995" column="23" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
       <jump line="3008" column="4" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
       <jump line="3041" column="6" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
@@ -488,64 +485,58 @@
       <jump line="120" column="65" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="358" column="35" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="45" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="88" column="96" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="8" column="55" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="247" column="36" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Float32Array</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>Float32Array</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>color-fill</text>
+        <text>colormap-filt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9ybWFwLWZpbHQgKHBpeGkvY29sb3ItZmlsbC1maWx0ZXIgMHgwMDAwZmYpIDsgRklYTUUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDp2YWx1ZSBqdC1hcnJ9fSkpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRlZm4tIHRvLWdsc2wtZmxvYXQgIkNvbnZlcnRzIGEgdmFsdWUgaW4gWzAgMjU1XSB0byBhIGdsc2wgZmxvYXRpbmcgcG9pbnQgdmFsdWUuIgogIFt2XSAoLyAoZmxvYXQgdikgMjU1KSkK</text>
+        <text encoding="base64">CnZlYzQgZ2V0Q29sb3IyKGZsb2F0IGYpIHsKICByZXR1cm4gdmVjNCgwLjUpOwp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nIGlkeCB2IChnZXQgd2lsZGNhcmRzIHYgdikpCg==</text>
+        <text encoding="base64">ICBpbnQgaWQgPSBpbnQoY2VpbCgyNTUuMCAqIGNsYW1wKGYsIDAuMCwgMS4wKSkpOwogIGZvciAoaW50IGk9MDsgaTwyNTY7IGkrKykgewogICAgICAgaWYgKGkgPT0gaWQpIHJldHVybiBqdW1wVGFibGUgLyAyNTUuMDsKICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;attribute vec2 aVertexPosition;
-attribute vec2 aTextureCoord;
-attribute vec4 aVertexColor;
-uniform mat3 projectionMatrix;
-varying vec2 vTextureCoord;
-
-void main(void){
-   gl_Position = vec4((projectionMatrix * vec3(aVertexPosition, 1.0)).xy, 0.0, 1.0);
-   vTextureCoord = aTextureCoord;
-}&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgezpjb2xvciB7OnR5cGUgIjRmdiIgIDp2YWx1ZSAoY29sb3JzL3RvLWZsb2F0MzIgY29sb3IpfX0pKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBSZXR1cm5zIGNhbnZhcyB3aXRoIGdpdmVuIGlkIGlmIGl0IGV4aXN0cywgaWYgbm90IGNyZWF0ZXMgYSBuZXcgaGlkZGVuIGNhbnZhcy4KICBXaGVuIGFwcGxpY2FibGUsIHRoZSBuZXdseSBjcmVhdGVkIGNhbnZhcyB3aWxsIGJlIHBhc3NlZCB0byBmaWxsLWZuIGFuZCB0aGUgcmVzdWx0IGlzIHJldHVybmVkLiIK</text>
+        <text encoding="base64">CihkZWZuIGNvbG9yLWZpbGwtZmlsdGVyCiAgW2NvbG9yLW9yLWhleF0KICAobGV0IFtjb2xvciAgIChjb2xvcnMvbWFrZS1jb2xvciBjb2xvci1vci1oZXgpXQogICAgKGpzL2NvbnNvbGUubG9nICJjb2xvciIgY29sb3IgKGNvbG9ycy90by1mbG9hdDMyIGNvbG9yKSkKICAgIChtYWtlLXBpeGktZmlsdGVyIGNvbG9yLWZpbGwtc2hhZGVyLWZyYWdtZW50KSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiNfKGRlZm4gZ2V0LW9yLW1ha2UtZ3JheXNjYWxlLXRleHR1cmUKICAgICJSZXR1cm5zIGNhbnZhcyB3aXRoIGdpdmVuIGlkIGlmIGl0IGV4aXN0cywgaWYgbm90IGNyZWF0ZXMgYSBuZXcgaGlkZGVuIGNhbnZhcy4KICBXaGVuIGFwcGxpY2FibGUsIHRoZSBuZXdseSBjcmVhdGVkIGNhbnZhcyB3aWxsIGJlIHBhc3NlZCB0byBmaWxsLWZuIGFuZCB0aGUgcmVzdWx0IGlzIHJldHVybmVkLiIKICAgIFtkYXRhLXV1aWQgZGF0YSAmIHs6a2V5cyBbcGFyZW50IHZpZXdwb3J0IHNjYWxlLW1vZGVdCiAgICAgICAgICAgICAgICAgICAgICAgOm9yICAge3BhcmVudCAgICAgbmlsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXdwb3J0ICAgKC0+U3F1YXJlIDAgMCAwIDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjYWxlLW1vZGUgOm5lYXJlc3R9fV0gOyBUT0RPOiBhZGQgb3B0aW9uIHRvIGdpdmUgcGFyZW50CiAgICAobGV0IFtjbnYtaWQgICAobWFrZS10ZXgtY252LWlkIGRhdGEtdXVpZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cGxvdC1tb2RlIDpncmF5c2NhbGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnZpZXdwb3J0IHZpZXdwb3J0KV0KICAgICAgKGlmLWxldCBbY252IChnZG9tL2dldEVsZW1lbnQgY252LWlkKV0KICAgICAgICAoZG8KICAgICAgICAgIChpbmZvICJjbnYgZXhpc3RzLCBtYWtpbmcgdGV4dHVyZSIpIDsgZml4bWU6IGRlYnVnIGxldmVsCiAgICAgICAgICAobWFrZS10ZXh0dXJlIGNudiA6c2NhbGUtbW9kZSBzY2FsZS1tb2RlKSkKICAgICAgICAobGV0IFtjbnYgKGluc2VydC1oaWRkZW4tY2FudmFzIGNudi1pZCldCiAgICAgICAgICAoZG8KICAgICAgICAgICAgKGluZm8gImNudiBkb2VzIG5vdCBleGlzdCwgbWFraW5nIGNhbnZhcyBhbmQgdGV4dHVyZSIpIDsgZml4bWU6IGRlYnVnIGxldmVsCiAgICAgICAgICAgIChncmF5c2NhbGUtZGF0YS10by1jYW52YXMgY252IGRhdGEpCiAgICAgICAgICAgICNfKG1ha2UtdGV4dHVyZSBjbnYgOnNjYWxlLW1vZGUgc2NhbGUtbW9kZSkpKSkpKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdCAgICAoY3IvQ29sb3JSZXBsYWNlRmlsdGVyLiAjanMgWzAgMCAwXSAjanMgWzAgMCAxXSAwLjAxKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdCAgICAoY3IvQ29sb3JSZXBsYWNlRmlsdGVyLiAjanMgWzAgMCAwXSAjanMgWzAgMCAxXSAwLjAxKV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cgZ2VuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">KGRlZm4tIHRvLWdsc2wtZmxvYXQgIkNvbnZlcnRzIGEgdmFsdWUgaW4gWzAgMjU1XSB0byBhIGdsc2wgZmxvYXRpbmcgcG9pbnQgdmFsdWUuIgogIFt2XSAoLyAoZmxvYXQgdikgMjU1KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbY252IGRhdGEgJiB7OmtleXMgW3dpbGRjYXJkc10KICAgICAgICAgICAgICAgOm9yIHt9fV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nIGlkeCB2IChnZXQgd2lsZGNhcmRzIHYgdikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>color-fill</last-search>
+      <last-search>colormap-filt</last-search>
       <last-offset />
-      <last-pattern>color-fill</last-pattern>
+      <last-pattern>colormap-filt</last-pattern>
       <last-replace>(prim\/</last-replace>
       <last-substitute>(om\/</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +544,6 @@ void main(void){
     </search>
     <history>
       <history-search>
-        <entry>Renderer</entry>
         <entry>pixi</entry>
         <entry>sab\/</entry>
         <entry>hipo\/</entry>
@@ -573,6 +563,7 @@ void main(void){
         <entry>colormap-filter</entry>
         <entry>colormap</entry>
         <entry>color-fill</entry>
+        <entry>colormap-filt</entry>
       </history-search>
       <history-cmd>
         <entry>147</entry>
@@ -592,8 +583,8 @@ void main(void){
         <entry>85</entry>
         <entry>154</entry>
         <entry>37</entry>
-        <entry>W</entry>
         <entry>164</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
