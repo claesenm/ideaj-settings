@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562594059033">
-        <mark key="'" line="316" column="43" />
-        <mark key="[" line="61" column="66" />
-        <mark key="]" line="62" column="56" />
-        <mark key="." line="62" column="56" />
-        <mark key="^" line="62" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562601465248">
+        <mark key="'" line="315" column="43" />
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="62" column="24" />
+        <mark key="." line="62" column="24" />
+        <mark key="^" line="62" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -489,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>colormap-filt</text>
@@ -501,33 +501,33 @@
         <text encoding="base64">ICAgICAgICAoanMvY29uc29sZS5sb2cgcmVzcG9uc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICA7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YSAgICAoZ28gKHRtcC1nZXQtaW9uLWltYWdlKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICA6OmYucG9ydGFsL3dyYXAtcm9vdD8gZmFsc2UK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OyAgICAgOjpmLnBvcnRhbC93cmFwLXJvb3Q/IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICA6OmYucG9ydGFsL3dyYXAtcm9vdD8gZmFsc2UK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">OyAgICAgOjpmLnBvcnRhbC93cmFwLXJvb3Q/IGZhbHNlCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CgooZ28gKGxldCBbcmVzcG9uc2UgKGFzeW5jLzwhIChodHRwL2dldCAoc3RyICJodHRwOi8vbG9jYWxob3N0OjgwMjIvdG1wX2RhdGEvaW9uX2ltYWdlXzEuYmluIikpKSA7IEZJWE1FCiAgICAgICAgICBkYXRhICAgICAoLT4gcmVzcG9uc2UgOmJvZHkgY29tbS9kZWNvZGUgOmltYWdlIDppbWFnZS1kYXRhKV0KICAgICAgZGF0YSkpCgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(ws/defcard ui-msi-canvas
   (ct.fulcro/fulcro-card
     {::f.portal/root RootView}))</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">KGRlZm4gdG1wLWdldC1pb24taW1hZ2UgW19dCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXyAod2FybiAidXVpZCIgaWQpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJzcHJpdGUiIHNwcml0ZSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgOyBmaXhtZTogZW1wdHkgcmV0dXJuIG9rYXkgaW4gZnVsY3JvPwo=</text>
+        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJzcHJpdGUiIHNwcml0ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
