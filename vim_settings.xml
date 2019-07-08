@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562577110775">
-        <mark key="'" line="50" column="62" />
-        <mark key="[" line="58" column="70" />
-        <mark key="]" line="58" column="71" />
-        <mark key="." line="58" column="71" />
-        <mark key="^" line="56" column="77" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562591327258">
+        <mark key="'" line="27" column="41" />
+        <mark key="[" line="309" column="28" />
+        <mark key="]" line="309" column="28" />
+        <mark key="." line="309" column="28" />
+        <mark key="^" line="309" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -198,11 +198,11 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/deps.edn" timestamp="1562311989199">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/deps.edn" timestamp="1562590628539">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/app_factory.py" timestamp="1558088781764">
         <mark key="[" line="57" column="4" />
@@ -386,12 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3008" column="4" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
-      <jump line="3041" column="6" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
-      <jump line="3063" column="10" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
-      <jump line="2728" column="42" filename="$MAVEN_REPOSITORY$/fulcrologic/fulcro/2.6.18/fulcro-2.6.18.jar!/fulcro/client/primitives.cljc" />
-      <jump line="282" column="21" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
-      <jump line="9" column="37" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
       <jump line="14" column="4" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
       <jump line="215" column="20" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
       <jump line="224" column="38" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" />
@@ -459,7 +453,6 @@
       <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="101" column="55" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="108" column="50" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="27" column="50" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="55" column="58" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="28" column="36" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
@@ -486,46 +479,55 @@
       <jump line="8" column="55" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="247" column="36" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="54" column="62" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="306" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="304" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="308" column="46" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="289" column="22" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="27" column="41" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXyAod2FybiAidXVpZCIgaWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>:tmp_data (go (tmp-get-ion-image))</text>
       </register>
       <register name="-" type="4">
-        <text>inferno</text>
+        <text>:tmp_data (go (tmp-get-ion-image))</text>
       </register>
       <register name="/" type="4">
         <text>colormap-filt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDp2YWx1ZSBqdC1hcnJ9fSkpKSkK</text>
+        <text encoding="base64">KGRlZm4gdG1wLWdldC1pb24taW1hZ2UgW19dCiAgKGdvIChsZXQgW3Jlc3BvbnNlIChhc3luYy88ISAoaHR0cC9nZXQgKHN0ciAiaHR0cDovL2xvY2FsaG9zdDo4MDIyL3RtcF9kYXRhL2lvbl9pbWFnZV8xLmJpbiIpKSkgOyBGSVhNRQogICAgICAgICAgICBkYXRhICAgICAoLT4gcmVzcG9uc2UgOmJvZHkgY29tbS9kZWNvZGUgOmltYWdlIDppbWFnZS1kYXRhKV0KICAgICAgICBkYXRhKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXyAod2FybiAidXVpZCIgaWQpCg==</text>
+        <text encoding="base64">CgooZ28gKGxldCBbcmVzcG9uc2UgKGFzeW5jLzwhIChodHRwL2dldCAoc3RyICJodHRwOi8vbG9jYWxob3N0OjgwMjIvdG1wX2RhdGEvaW9uX2ltYWdlXzEuYmluIikpKSA7IEZJWE1FCiAgICAgICAgICBkYXRhICAgICAoLT4gcmVzcG9uc2UgOmJvZHkgY29tbS9kZWNvZGUgOmltYWdlIDppbWFnZS1kYXRhKV0KICAgICAgZGF0YSkpCgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJzcHJpdGUiIHNwcml0ZSkK</text>
+      <register name="2" type="4">
+        <text>(ws/defcard ui-msi-canvas
+  (ct.fulcro/fulcro-card
+    {::f.portal/root RootView}))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgOyBmaXhtZTogZW1wdHkgcmV0dXJuIG9rYXkgaW4gZnVsY3JvPwo=</text>
+        <text encoding="base64">KGRlZm4gdG1wLWdldC1pb24taW1hZ2UgW19dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8gKHdhcm4gImNvbG9ybWFwIiBjb2xvcm1hcCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8gKHdhcm4gInByb3BzIiAocHJpbS9wcm9wcyB0aGlzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXyAod2FybiAidXVpZCIgaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJzcHJpdGUiIHNwcml0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgOyBmaXhtZTogZW1wdHkgcmV0dXJuIG9rYXkgaW4gZnVsY3JvPwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKHNldCEgKC4uIGNvbnRhaW5lciAtZmlsdGVycykgI2pzIFtmaWx0IG91dGxpbmUtZmlsdF0pKSl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8gKHdhcm4gImNvbG9ybWFwIiBjb2xvcm1hcCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8gKHdhcm4gInByb3BzIiAocHJpbS9wcm9wcyB0aGlzKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9ybWFwLWZpbHQgKHBpeGkvY29sb3ItZmlsbC1maWx0ZXIgMHgwMDAwZmYpIDsgRklYTUUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbHQgKHBpeGkvY29sb3ItZmlsbC1maWx0ZXIgMHgwMDAwZmYpIDsgRklYTUUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbHQgKHBpeGkvY29sb3JtYXAtdG8tZmlsdGVyIGNvbG9ybWFwKSA7IEZJWE1FCjsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdCAgICAoY3IvQ29sb3JSZXBsYWNlRmlsdGVyLiAjanMgWzAgMCAwXSAjanMgWzAgMCAxXSAwLjAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc2V0ISAoLi1maWx0ZXJzIGNvbnRhaW5lcikgI2pzIFtmaWx0IG91dGxpbmUtZmlsdF0pCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
