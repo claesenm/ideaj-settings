@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562713433681">
-        <mark key="'" line="84" column="32" />
-        <mark key="[" line="247" column="106" />
-        <mark key="]" line="247" column="75" />
-        <mark key="." line="247" column="75" />
-        <mark key="^" line="247" column="75" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562714927483">
+        <mark key="'" line="257" column="82" />
+        <mark key="[" line="55" column="45" />
+        <mark key="]" line="58" column="25" />
+        <mark key="." line="58" column="25" />
+        <mark key="^" line="58" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -385,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="18" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="5" column="26" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="32" column="16" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="33" column="21" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
@@ -485,46 +484,47 @@
       <jump line="181" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="243" column="17" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="84" column="32" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="256" column="82" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDsgICAgICAgICAgICBbZnVsY3JvLmNsaWVudC5wcmltaXRpdmVzIDphcyBmcF0KICAgIDsgICAgICAgICAgICBbZnVsY3JvLmNsaWVudC5sb2NhbGl6ZWQtZG9tIDphcyBkb21dCg==</text>
+      <register name="&quot;" type="4">
+        <text>0xff0000</text>
       </register>
       <register name="-" type="4">
-        <text>;[:aspect.ion-image/by-id :aspect.ion-image/id]) ; FIXME this is wrong, should not be figure id</text>
+        <text>0xff0000</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAobGV0IFtwcm9wcy13aXRoLWNvbXB1dGVkIChwcmltL2NvbXB1dGVkIHByb3BzIGNvbXB1dGVkKQo=</text>
+      <register name="0" type="4">
+        <text>(prim/get-initial-state IonImage {:fname &quot;ion_image_1.bin&quot; :color 0xff0000})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDsgICAgICAgICAgICBbZnVsY3JvLmNsaWVudC5wcmltaXRpdmVzIDphcyBmcF0KICAgIDsgICAgICAgICAgICBbZnVsY3JvLmNsaWVudC5sb2NhbGl6ZWQtZG9tIDphcyBkb21dCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibGF5ZXJ1bmlvbiBwcm9wcyIgcHJvcHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OyAgICAgICh1aS1pb24taW1hZ2UgKHByaW0vY29tcHV0ZWQgY29udGVudCBjb21wdXRlZC1wcm9wcykpKSkK</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibGF5ZXIgaWRlbnQiIGlkZW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OyAgICAgICh1aS1pb24taW1hZ2UgKHByaW0vY29tcHV0ZWQgY29udGVudCBjb21wdXRlZC1wcm9wcykpKSkpCg==</text>
+        <text encoding="base64">ICAgIDsgICAgICAgICAgICBbZnVsY3JvLmNsaWVudC5wcmltaXRpdmVzIDphcyBmcF0KICAgIDsgICAgICAgICAgICBbZnVsY3JvLmNsaWVudC5sb2NhbGl6ZWQtZG9tIDphcyBkb21dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cpCg==</text>
+        <text encoding="base64">OyAgICAgICh1aS1pb24taW1hZ2UgKHByaW0vY29tcHV0ZWQgY29udGVudCBjb21wdXRlZC1wcm9wcykpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJsYXllcnMiKQo=</text>
+        <text encoding="base64">OyAgICAgICh1aS1pb24taW1hZ2UgKHByaW0vY29tcHV0ZWQgY29udGVudCBjb21wdXRlZC1wcm9wcykpKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgOmFzcGVjdC5maWx0ZXIuY29sb3JtYXAgKHVpLWNvbG9ybWFwLWZpbHRlciBwcm9wcy13aXRoLWNvbXB1dGVkKQogICAgICA6YXNwZWN0LmZpbHRlci5jb2xvciAgICAodWktY29sb3ItZmlsdGVyIHByb3BzLXdpdGgtY29tcHV0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDphc3BlY3QuZmlsdGVyLmNvbG9yL2J5LWlkICAgIChwcmltL2dldC1xdWVyeSBDb2xvckZpbHRlcikKICAgICAgICAgICAgIDphc3BlY3QuZmlsdGVyLm91dGxpbmUvYnktaWQgIChwcmltL2dldC1xdWVyeSBPdXRsaW5lRmlsdGVyKX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJsYXllcnMiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgOmFzcGVjdC5sYXllci5jb2xvciAgICAodWktY29sb3ItZmlsdGVyIHByb3BzLXdpdGgtY29tcHV0ZWQpCiAgICAgIDphc3BlY3QubGF5ZXIub3V0bGluZSAgKHVpLW91dGxpbmUtZmlsdGVyIHByb3BzLXdpdGgtY29tcHV0ZWQpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgOmFzcGVjdC5maWx0ZXIuY29sb3JtYXAgKHVpLWNvbG9ybWFwLWZpbHRlciBwcm9wcy13aXRoLWNvbXB1dGVkKQogICAgICA6YXNwZWN0LmZpbHRlci5jb2xvciAgICAodWktY29sb3ItZmlsdGVyIHByb3BzLXdpdGgtY29tcHV0ZWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDphc3BlY3QubGF5ZXIuY29sb3IvYnktaWQgICAgKHByaW0vZ2V0LXF1ZXJ5IENvbG9yRmlsdGVyKQogICAgICAgICAgICAgOmFzcGVjdC5sYXllci5vdXRsaW5lL2J5LWlkICAocHJpbS9nZXQtcXVlcnkgT3V0bGluZUZpbHRlcil9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDphc3BlY3QuZmlsdGVyLmNvbG9yL2J5LWlkICAgIChwcmltL2dldC1xdWVyeSBDb2xvckZpbHRlcikKICAgICAgICAgICAgIDphc3BlY3QuZmlsdGVyLm91dGxpbmUvYnktaWQgIChwcmltL2dldC1xdWVyeSBPdXRsaW5lRmlsdGVyKX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
