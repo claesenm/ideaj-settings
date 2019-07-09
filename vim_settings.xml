@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562676545547">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562702502174">
         <mark key="'" line="27" column="14" />
-        <mark key="[" line="102" column="28" />
-        <mark key="]" line="102" column="34" />
-        <mark key="." line="102" column="34" />
-        <mark key="^" line="102" column="34" />
+        <mark key="[" line="158" column="24" />
+        <mark key="]" line="156" column="25" />
+        <mark key="." line="156" column="25" />
+        <mark key="^" line="156" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -491,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>outline</text>
+        <text>SpriteOutline</text>
       </register>
       <register name="-" type="4">
-        <text>outline</text>
+        <text>SpriteOutline</text>
       </register>
       <register name="/" type="4">
         <text>set-width</text>
