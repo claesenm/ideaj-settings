@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562714927483">
-        <mark key="'" line="257" column="82" />
-        <mark key="[" line="55" column="45" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562716472291">
+        <mark key="'" line="179" column="98" />
+        <mark key="[" line="261" column="55" />
+        <mark key="]" line="261" column="131" />
+        <mark key="." line="261" column="55" />
+        <mark key="^" line="261" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -385,8 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="26" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="32" column="16" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="33" column="21" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="37" column="19" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="40" column="28" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
@@ -483,21 +481,23 @@
       <jump line="203" column="89" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="181" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="243" column="17" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="84" column="32" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="256" column="82" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="336" column="31" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="84" column="26" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="179" column="98" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0xff0000</text>
+        <text>(prim/get-initial-state IonImage {:fname &quot;ion_image_3.bin&quot; :color 0xffff00})</text>
       </register>
       <register name="-" type="4">
-        <text>0xff0000</text>
+        <text>(prim/get-initial-state IonImage {:fname &quot;ion_image_3.bin&quot; :color 0xffff00})</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>sprite</text>
       </register>
       <register name="0" type="4">
-        <text>(prim/get-initial-state IonImage {:fname &quot;ion_image_1.bin&quot; :color 0xff0000})</text>
+        <text>(prim/get-initial-state IonImage {:fname &quot;ion_image_1.bin&quot; :color 0x0000ff})</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAibGF5ZXJ1bmlvbiBwcm9wcyIgcHJvcHMpCg==</text>
@@ -531,9 +531,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>sprite</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>sprite</last-pattern>
       <last-replace>layer</last-replace>
       <last-substitute>filter</last-substitute>
       <last-dir>1</last-dir>
@@ -541,9 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hipo\/</entry>
-        <entry>PIXI</entry>
-        <entry>codec</entry>
         <entry>147</entry>
         <entry>160</entry>
         <entry>uniform4v</entry>
@@ -561,6 +558,9 @@
         <entry>colormap-filt</entry>
         <entry>set-width</entry>
         <entry>filter</entry>
+        <entry>aset</entry>
+        <entry>set!</entry>
+        <entry>sprite</entry>
       </history-search>
       <history-cmd>
         <entry>31</entry>
@@ -580,8 +580,8 @@
         <entry>37</entry>
         <entry>164</entry>
         <entry>46</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz4lcy9maWx0ZXIvbGF5ZXIv</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
