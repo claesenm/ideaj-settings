@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562716472291">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562718517163">
         <mark key="'" line="179" column="98" />
-        <mark key="[" line="261" column="55" />
-        <mark key="]" line="261" column="131" />
-        <mark key="." line="261" column="55" />
-        <mark key="^" line="261" column="54" />
+        <mark key="[" line="262" column="55" />
+        <mark key="]" line="261" column="147" />
+        <mark key="." line="261" column="147" />
+        <mark key="^" line="261" column="147" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -145,13 +145,13 @@
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/project.clj" timestamp="1561098715445">
         <mark key="'" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562620819786">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562718368527">
         <mark key="b" line="86" column="0" />
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="186" column="60" />
-        <mark key="]" line="186" column="88" />
-        <mark key="." line="186" column="88" />
-        <mark key="^" line="186" column="88" />
+        <mark key="[" line="259" column="49" />
+        <mark key="]" line="259" column="50" />
+        <mark key="." line="259" column="50" />
+        <mark key="^" line="259" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fulcro-generics/shadow-cljs.edn" timestamp="1561098480829">
         <mark key="'" line="0" column="0" />
