@@ -182,11 +182,11 @@
         <mark key="." line="198" column="49" />
         <mark key="^" line="198" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/outline.cljs" timestamp="1562751872106">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/outline.cljs" timestamp="1562765108114">
         <mark key="'" line="76" column="29" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="62" column="50" />
+        <mark key="." line="62" column="50" />
         <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" timestamp="1562743587247">
