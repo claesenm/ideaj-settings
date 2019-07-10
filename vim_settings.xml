@@ -393,12 +393,12 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/color.cljs" timestamp="1562752032730">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/color.cljs" timestamp="1562752495138">
         <mark key="'" line="35" column="48" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="38" column="0" />
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="35" column="50" />
+        <mark key="." line="35" column="50" />
+        <mark key="^" line="35" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker-compose.yml" timestamp="1560752488254">
         <mark key="[" line="13" column="16" />
@@ -510,11 +510,11 @@
       <jump line="46" column="22" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/colormap.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiY29sb3IiIGNvbG9yIChjb2xvcnMvdG8tZmxvYXQzMiBjb2xvcikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>255</text>
       </register>
       <register name="-" type="4">
-        <text>ADD</text>
+        <text>255</text>
       </register>
       <register name="/" type="4">
         <text>filter-ident</text>
