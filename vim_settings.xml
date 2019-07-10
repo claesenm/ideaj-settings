@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562751941414">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="73" column="34" />
-        <mark key="]" line="73" column="53" />
-        <mark key="." line="73" column="53" />
-        <mark key="^" line="73" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562756488496">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="262" column="69" />
+        <mark key="]" line="262" column="106" />
+        <mark key="." line="262" column="106" />
+        <mark key="^" line="262" column="106" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562312234825">
         <mark key="'" line="46" column="72" />
@@ -49,6 +49,12 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/marie_kondo.cljs" timestamp="1562754980048">
+        <mark key="[" line="27" column="70" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1560348802329">
         <mark key="[" line="145" column="106" />
         <mark key="]" line="145" column="111" />
@@ -79,6 +85,12 @@
         <mark key="]" line="52" column="36" />
         <mark key="^" line="52" column="36" />
         <mark key="." line="52" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/alpha_rescale.cljs" timestamp="1562755995668">
+        <mark key="'" line="61" column="110" />
+        <mark key="[" line="61" column="67" />
+        <mark key="]" line="61" column="67" />
+        <mark key="." line="61" column="67" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.py" timestamp="1558030672613">
         <mark key="[" line="15" column="0" />
@@ -145,12 +157,11 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/colormap.cljs" timestamp="1562751882152">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/colormap.cljs" timestamp="1562755317496">
         <mark key="'" line="45" column="22" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="55" column="35" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-backend.sh" timestamp="1558342246613">
         <mark key="[" line="64" column="0" />
@@ -278,12 +289,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" timestamp="1562751857253">
-        <mark key="'" line="179" column="49" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="183" column="63" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" timestamp="1562755183525">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="199" column="14" />
+        <mark key="]" line="203" column="32" />
+        <mark key="^" line="203" column="32" />
+        <mark key="." line="203" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" timestamp="1558088268562">
         <mark key="'" line="115" column="0" />
@@ -393,12 +404,12 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/color.cljs" timestamp="1562752495138">
-        <mark key="'" line="35" column="48" />
-        <mark key="[" line="35" column="48" />
-        <mark key="]" line="35" column="50" />
-        <mark key="." line="35" column="50" />
-        <mark key="^" line="35" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/color.cljs" timestamp="1562755071520">
+        <mark key="'" line="36" column="48" />
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="28" />
+        <mark key="." line="64" column="28" />
+        <mark key="^" line="64" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/docker-compose.yml" timestamp="1560752488254">
         <mark key="[" line="13" column="16" />
@@ -408,15 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="3" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="237" column="48" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="156" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="82" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="164" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="170" column="3" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="97" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="83" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="528" column="2" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
       <jump line="114" column="67" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
@@ -452,7 +454,6 @@
       <jump line="179" column="98" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="270" column="60" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="26" column="41" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
-      <jump line="84" column="2" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="101" column="11" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="124" column="10" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="136" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
@@ -508,55 +509,65 @@
       <jump line="36" column="48" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/color.cljs" />
       <jump line="77" column="29" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/outline.cljs" />
       <jump line="46" column="22" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/colormap.cljs" />
+      <jump line="154" column="83" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="13" column="58" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/marie_kondo.cljs" />
+      <jump line="183" column="63" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
+      <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
+      <jump line="107" column="56" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="309" column="68" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="60" column="110" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/alpha_rescale.cljs" />
+      <jump line="151" column="62" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="167" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>255</text>
+        <text encoding="base64">KC0+IHRoaXMgcHJpbS9nZXQtc3RhdGUgOm1haW4tY29udGFpbmVyKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>255</text>
+        <text encoding="base64">KC0+IHRoaXMgcHJpbS9nZXQtc3RhdGUgOm1haW4tY29udGFpbmVyKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>filter-ident</text>
+        <text>roundPixels</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtjYW52YXMudWkucGl4aS5maWx0ZXJzLmNvbG9yXQo=</text>
+        <text encoding="base64">ICAgICAoc2V0ISAoLi1maWx0ZXJzIG1haW4tY29udGFpbmVyKSAjanMgW10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiY29sb3IiIGNvbG9yIChjb2xvcnMvdG8tZmxvYXQzMiBjb2xvcikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtjYW52YXMudWkucGl4aS5zaGFkZXJzIDphcyBzaGFkZXJzXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFtjYW52YXMudWkucGl4aS5zaGFkZXJzIDphcyBzaGFkZXJzXQo=</text>
+        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnJvdW5kUGl4ZWxzIHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtjYW52YXMudWkucGl4aS5zaGFkZXJzIDphcyBzaGFkZXJzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA7IChzZXQhICguLWZpbHRlcnMgY29udGFpbmVyKSAjanMgW2NvbG9ybWFwLWZpbHRdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFtjYW52YXMudWkucGl4aS5zaGFkZXJzIDphcyBzaGFkZXJzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgI18oc2V0ISAoLi1maWx0ZXJzIGNvbnRhaW5lcikgI2pzIFtjb2xvcm1hcC1maWx0XSkpKX0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OyBibGVuZCBtb2RlcyBodHRwOi8vd3d3Lmh0bWw1Z2FtZWRldnMuY29tL3RvcGljLzIzNjk0LWJsZW5kbW9kZS1vbmx5LXdvcmtpbmctd2l0aC1hZGQtb3ZlcmxheS1hbmQtc2NyZWVuLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yLWZpbHQgKGNvbG9yLWZpbGwtZmlsdGVyIGNvbG9yKV0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CgoKCgoKCgoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ezprZXlzIFthc3BlY3QvY29sb3JdfSAocHJpbS9wcm9wcyB0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZnNjIE91dGxpbmVGaWx0ZXIKICBbdGhpcwogICB7OmtleXMgW2FzcGVjdC5vdXRsaW5lL3dpZHRoIGFzcGVjdC5vdXRsaW5lL2NvbG9yCiAgICAgICAgICAgYXNwZWN0LmZpbHRlci9pZCBhc3BlY3QuZmlsdGVyL3R5cGVdIDphcyBwcm9wc30KICAgezprZXlzIFtjb250YWluZXJdfV0KICB7OnF1ZXJ5IFs6YXNwZWN0Lm91dGxpbmUvd2lkdGggOmFzcGVjdC5vdXRsaW5lL2NvbG9yCiAgICAgICAgICAgOmFzcGVjdC5maWx0ZXIvaWQgOmFzcGVjdC5maWx0ZXIvdHlwZV0gOyB1c2VkIGluIGZpbHRlci1pZGVudAogICA6aWRlbnQgICAgICAgICAgICAgIChmbiBbXSAodXRpbC9maWx0ZXItaWRlbnQgcHJvcHMpKQogICA6aW5pdGlhbC1zdGF0ZSAoZm4gW19dIHs6YXNwZWN0LmZpbHRlci9pZCAoZ2Vuc3ltICJvdXRsaW5lLSIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDphc3BlY3QuZmlsdGVyL3R5cGUgOmFzcGVjdC5maWx0ZXIub3V0bGluZQogICAgICAgICAgICAgICAgICAgICAgICAgICA6YXNwZWN0Lm91dGxpbmUvd2lkdGggMQogICAgICAgICAgICAgICAgICAgICAgICAgICA6YXNwZWN0Lm91dGxpbmUvY29sb3IgMHhmZmZmZmZ9KQogICA6Y29tcG9uZW50RGlkTW91bnQgIChmbiBbXQogICAgICAgICAgICAgICAgICAgICAgICAgKGxldCBbezprZXlzIFthc3BlY3Qub3V0bGluZS93aWR0aCBhc3BlY3Qub3V0bGluZS9jb2xvcl19IChwcmltL3Byb3BzIHRoaXMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OmtleXMgW2NvbnRhaW5lcl19IChwcmltL2dldC1jb21wdXRlZCB0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0bGluZS1maWx0ICAobWFrZS1vdXRsaW5lLWZpbHRlciB3aWR0aCBjb2xvcildCiAgICAgICAgICAgICAgICAgICAgICAgICAgICguLiBjb250YWluZXIgLWZpbHRlcnMgKHB1c2ggb3V0bGluZS1maWx0KSkpKQogICA6Y29tcG9uZW50RGlkVXBkYXRlIChmbiBbcHJldi1wcm9wcyBwcmV2LXN0YXRlXQogICAgICAgICAgICAgICAgICAgICAgICAgKGxldCBbezprZXlzIFthc3BlY3Qub3V0bGluZS93aWR0aCBhc3BlY3Qub3V0bGluZS9jb2xvcl19IChwcmltL3Byb3BzIHRoaXMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OmtleXMgW2NvbnRhaW5lcl19IChwcmltL2dldC1jb21wdXRlZCB0aGlzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3V0bGluZS1maWx0ICAobWFrZS1vdXRsaW5lLWZpbHRlciB3aWR0aCBjb2xvcildCiAgICAgICAgICAgICAgICAgICAgICAgICAgICguLiBjb250YWluZXIgLWZpbHRlcnMgKHB1c2ggb3V0bGluZS1maWx0KSkpKX0KICBuaWwpCgooZGVmIHVpLW91dGxpbmUtZmlsdGVyIChwcmltL2ZhY3RvcnkgT3V0bGluZUZpbHRlciB7OmtleWZuIDphc3BlY3QuZmlsdGVyL2lkfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yLWZpbHQgKGNvbG9yLWZpbGwtZmlsdGVyIGNvbG9yKV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filter-ident</last-search>
+      <last-search>roundPixels</last-search>
       <last-offset />
-      <last-pattern>filter-ident</last-pattern>
+      <last-pattern>roundPixels</last-pattern>
       <last-replace>layer</last-replace>
       <last-substitute>filter</last-substitute>
       <last-dir>1</last-dir>
@@ -564,7 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>secret-location</entry>
         <entry>gensym</entry>
         <entry>SECRET_LOCATION</entry>
         <entry>PIXI-PARAMETERS</entry>
@@ -584,6 +594,7 @@
         <entry>ColorMap</entry>
         <entry>make-pixi</entry>
         <entry>filter-ident</entry>
+        <entry>roundPixels</entry>
       </history-search>
       <history-cmd>
         <entry>33</entry>
@@ -603,8 +614,8 @@
         <entry>164</entry>
         <entry>46</entry>
         <entry encoding="base64">JzwsJz4lcy9maWx0ZXIvbGF5ZXIv</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
