@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562792012680">
-        <mark key="'" line="314" column="35" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="76" column="73" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1562794169947">
+        <mark key="'" line="106" column="56" />
+        <mark key="[" line="308" column="34" />
+        <mark key="]" line="308" column="34" />
+        <mark key="." line="308" column="34" />
+        <mark key="^" line="308" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562793166108">
         <mark key="'" line="46" column="72" />
@@ -325,8 +325,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562569417739">
-        <mark key="'" line="66" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562794020412">
+        <mark key="'" line="5" column="5" />
         <mark key="[" line="146" column="39" />
         <mark key="]" line="146" column="62" />
         <mark key="." line="146" column="62" />
@@ -417,9 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="36" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="54" column="62" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="304" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="289" column="22" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
@@ -517,6 +514,9 @@
       <jump line="332" column="76" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="306" column="35" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="157" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
+      <jump line="5" column="5" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" />
+      <jump line="161" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="106" column="56" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -573,7 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v4</entry>
         <entry>uniform</entry>
         <entry>colormap-filter</entry>
         <entry>colormap</entry>
@@ -592,6 +591,7 @@
         <entry>glsl</entry>
         <entry>if colormap</entry>
         <entry>outline</entry>
+        <entry>seq</entry>
         <entry>recur</entry>
       </history-search>
       <history-cmd>
