@@ -10,11 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563137267070">
-        <mark key="[" line="52" column="45" />
-        <mark key="]" line="52" column="67" />
-        <mark key="." line="52" column="67" />
-        <mark key="^" line="52" column="67" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563144342925">
+        <mark key="'" line="402" column="43" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562914826754">
         <mark key="'" line="46" column="72" />
@@ -126,11 +127,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" timestamp="1562930044301">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="47" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="15" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" timestamp="1563142607368">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws2.cljs" timestamp="1562625825234">
         <mark key="[" line="0" column="18" />
@@ -149,12 +150,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1562792543875">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" timestamp="1563139421659">
         <mark key="b" line="86" column="0" />
         <mark key="'" line="157" column="0" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+        <mark key="[" line="140" column="3" />
+        <mark key="]" line="140" column="3" />
+        <mark key="." line="140" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/colormap.cljs" timestamp="1562755317496">
         <mark key="'" line="45" column="22" />
@@ -328,10 +329,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1562930002485">
-        <mark key="'" line="292" column="75" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1563142165340">
+        <mark key="'" line="126" column="2" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="26" />
         <mark key="." line="85" column="0" />
         <mark key="^" line="85" column="0" />
       </file>
@@ -420,23 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="29" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="65" column="36" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="68" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi.cljs" />
-      <jump line="334" column="49" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="181" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="243" column="17" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="256" column="82" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="336" column="31" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="84" column="26" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="179" column="98" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="270" column="60" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
-      <jump line="26" column="41" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
-      <jump line="101" column="11" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
-      <jump line="124" column="10" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
-      <jump line="136" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
-      <jump line="165" column="10" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="220" column="11" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="235" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="258" column="11" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
@@ -520,68 +504,79 @@
       <jump line="289" column="49" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="203" column="86" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="292" column="75" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" />
+      <jump line="48" column="25" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="361" column="45" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="42" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="126" column="2" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" />
+      <jump line="69" column="63" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="401" column="27" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="387" column="23" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="45" column="8" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="63" column="35" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="409" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="49" column="53" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="236" column="47" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="397" column="78" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="46" column="23" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="238" column="92" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="402" column="43" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhc3BlY3QubXNpLWRhdGEvaWQgOyBmaWxlbmFtZQogICAgICAgICAgIGFzcGVjdC5tc2ktZGF0YS9teiA7IG0veiBiaW4K</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>recur</text>
+        <text>fns.get-ion-image-matrix</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFt0YW9lbnNzby50aW1icmUgOmFzIHRpbWJyZQogICAgIDpyZWZlci1tYWNyb3MgW2xvZyAgdHJhY2UgIGRlYnVnICBpbmZvICB3YXJuICBlcnJvciAgZmF0YWwgIHJlcG9ydAogICAgICAgICAgICAgICAgICAgIGxvZ2YgdHJhY2VmIGRlYnVnZiBpbmZvZiB3YXJuZiBlcnJvcmYgZmF0YWxmIHJlcG9ydGYKICAgICAgICAgICAgICAgICAgICBzcHkgZ2V0LWVudl1dCg==</text>
+      <register name="0" type="4">
+        <text>canvas.demo-ws/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhc3BlY3QubXNpLWRhdGEvaWQgOyBmaWxlbmFtZQogICAgICAgICAgIGFzcGVjdC5tc2ktZGF0YS9teiA7IG0veiBiaW4K</text>
+        <text encoding="base64">ICAobGV0IFtjb25mb3JtZWQgKHMvY29uZm9ybSBzcGVjIHZhcildCiAgICAoaWYgY29uZm9ybWVkCiAgICAgIGNvbmZvcm1lZAogICAgICAodGhyb3cgKHMvZXhwbGFpbiBzcGVjIHZhcikpKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGNoZWNrLWNvbXB1dGVkLW1hdHJpeC1zcHJpdGUgKHByaW0vZ2V0LWNvbXB1dGVkIHRoaXMpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOzpmbnMvcmVyZW5kZXIgICAgICAgICAgICAgKGZuIFtfXSAoZG8gKGluZm8gInRyaWdnZXJlZCByZXJlbmRlciIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICguLiBhcHAgcmVuZGVyKQo=</text>
+        <text encoding="base64">OyBUT0RPOiBjcmVhdGUgcGF0dGVybiB0byBhdXRvbWF0aWNhbGx5IGNoZWNrIHJlcXVpcmVkIGNvbXB1dGVkIHByb3BzCjsgdmlhIGNsb2p1cmUvc3BlYwooZGVmbiBjaGVjay1jb21wdXRlZC1tYXRyaXgtc3ByaXRlIFtjb21wdXRlZC1wcm9wc10KICAoLT4gY29tcHV0ZWQtcHJvcHMKICAgICMoZXZlcnk/IChjb250YWlucz8gJSBbOmZucy9yZXJlbmRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29udGFpbmVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmbnMvZ2V0LWlvbi1pbWFnZS1tYXRyaXhdKSkKICAgIGFzc2VydCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Zm5zL3JlcmVuZGVyICAgICAgICAgICAgIChmbiBbX10KOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobGV0IFtjYWxsYmFjayAoZm4gW10KOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkbyAoaW5mbyAidHJpZ2dlcmVkIHJlcmVuZGVyIikKOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoLi4gYXBwIHJlbmRlcikKOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChqcy9yZXF1ZXN0QW5pbWF0aW9uRnJhbWUgKGNhbnZhcy51dGlsLmdlbmVyaWMvZGVib3VuY2UgY2FsbGJhY2sgMTAwKSkpKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMKICAgIHByaW0vZ2V0LWNvbXB1dGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZucy9yZXJlbmRlciAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKC0+IHRoaXMKICAgICAgICAgICAgICAgICAgICAgICAgICBwcmltL2dldC1jb21wdXRlZAogICAgICAgICAgICAgICAgICAgICAgICAgICMoZXZlcnk/IChjb250YWlucz8gJSBbOmZucy9yZXJlbmRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNvbnRhaW5lcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmZucy9nZXQtaW9uLWltYWdlLW1hdHJpeF0pKQogICAgICAgICAgICAgICAgICAgICAgICAgIGFzc2VydCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAod2FybiAiaW9uIGltYWdlIGRpZCBtb3VudCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHdyYXAtZikpCg==</text>
+        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiY29tcHV0ZWQiIChwcmltL2dldC1jb21wdXRlZCB0aGlzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRlci13cmFwLWYgKGZuIFtdCiAgICAgICAgICAgICAgICAgICAgICAgKHJlc2V0ISBpZCAoanMvcmVxdWVzdEFuaW1hdGlvbkZyYW1lIGYpKQogICAgICAgICAgICAgICAgICAgICAgIChyZXNldCEgd2FpdGluZz8pKSkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>recur</last-search>
+      <last-search>fns.get-ion-image-matrix</last-search>
       <last-offset />
-      <last-pattern>recur</last-pattern>
-      <last-replace>layer</last-replace>
-      <last-substitute>filter</last-substitute>
+      <last-pattern>fns.get-ion-image-matrix</last-pattern>
+      <last-replace>fns|get-ion-image-matrix</last-replace>
+      <last-substitute>fns.get-ion-image-matrix</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uniform</entry>
-        <entry>colormap-filter</entry>
-        <entry>colormap</entry>
-        <entry>color-fill</entry>
-        <entry>colormap-filt</entry>
-        <entry>set-width</entry>
         <entry>filter</entry>
         <entry>aset</entry>
         <entry>set!</entry>
@@ -596,14 +591,14 @@
         <entry>outline</entry>
         <entry>seq</entry>
         <entry>recur</entry>
+        <entry>warn</entry>
+        <entry>conform</entry>
+        <entry>fns\/rerender</entry>
+        <entry>fns\/get-ion-image-matrix</entry>
+        <entry>fns.rerender</entry>
+        <entry>fns.get-ion-image-matrix</entry>
       </history-search>
       <history-cmd>
-        <entry>160</entry>
-        <entry>57</entry>
-        <entry>62</entry>
-        <entry>179</entry>
-        <entry>58</entry>
-        <entry>111</entry>
         <entry>68</entry>
         <entry>113</entry>
         <entry>89</entry>
@@ -612,11 +607,17 @@
         <entry>154</entry>
         <entry>37</entry>
         <entry>164</entry>
-        <entry>46</entry>
         <entry encoding="base64">JzwsJz4lcy9maWx0ZXIvbGF5ZXIv</entry>
         <entry>wq</entry>
         <entry>80</entry>
         <entry>W</entry>
+        <entry>%s/fns\/rerender/fns\/canvas.rerender/g</entry>
+        <entry>%s/fns\/rerender/fns.rerender/g</entry>
+        <entry>%s/fns\/get-ion-image-matrix/fns.get-ion-image-matrix/g</entry>
+        <entry>%s/fns.rerender/fns|rerender/g</entry>
+        <entry>%s/fns.get-ion-image-matrix/fns|get-ion-image-matrix/g</entry>
+        <entry>46</entry>
+        <entry>165</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
