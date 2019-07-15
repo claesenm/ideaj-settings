@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563189681535">
-        <mark key="'" line="294" column="31" />
-        <mark key="[" line="46" column="36" />
-        <mark key="]" line="46" column="37" />
-        <mark key="." line="46" column="37" />
-        <mark key="^" line="46" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563198568470">
+        <mark key="'" line="420" column="34" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="30" />
+        <mark key="." line="46" column="30" />
+        <mark key="^" line="46" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562914826754">
         <mark key="'" line="46" column="72" />
@@ -127,11 +127,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" timestamp="1563188095474">
-        <mark key="'" line="30" column="30" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" timestamp="1563198545772">
+        <mark key="'" line="36" column="30" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws2.cljs" timestamp="1562625825234">
         <mark key="[" line="0" column="18" />
@@ -421,9 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="408" column="46" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
-      <jump line="413" column="46" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
-      <jump line="311" column="63" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="12" column="5" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/shaders.cljs" />
       <jump line="33" column="3" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" />
       <jump line="24" column="5" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" />
@@ -521,19 +519,22 @@
       <jump line="280" column="31" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="26" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" />
       <jump line="105" column="57" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/comm.cljs" />
+      <jump line="418" column="93" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="420" column="34" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>transact</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>transact</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>fns.get-ion-image-matrix</text>
+        <text>.pkl</text>
       </register>
-      <register name="0" type="4">
-        <text>http://localhost:8912/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGxldCBbbGF5ZXJzLTEgWyhwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8zLmJpbiIgOmNvbG9yIDB4ZmZmZjAwfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8yLmJpbiIgOmNvbG9yIDB4ZmYwMDAwfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8xLmJpbiIgOmNvbG9yIDB4MDAwMGZmfSldCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDsocHJpbS9nZXQtaW5pdGlhbC1zdGF0ZSBJb25JbWFnZSB7OmZuYW1lICJpb25faW1hZ2VfMS5iaW4iIDpjb2xvciAweDAwMDBmZiA6Y29sb3JtYXAgOm1hZ21hfSldfSkKCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheWVycyBbWyhwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8xLmJpbiIgOmNvbG9ybWFwIDp2aXJpZGlzfSldCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8yLmJpbiIgOmNvbG9ybWFwIDp2aXJpZGlzfSldCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8zLmJpbiIgOmNvbG9ybWFwIDp2aXJpZGlzfSldXV0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOyBUT0RPIG1lcmdlIGludG8gYXBwIHN0YXRlCg==</text>
@@ -567,18 +568,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fns.get-ion-image-matrix</last-search>
+      <last-search>.pkl</last-search>
       <last-offset />
-      <last-pattern>fns.get-ion-image-matrix</last-pattern>
-      <last-replace>fns|get-ion-image-matrix</last-replace>
-      <last-substitute>fns.get-ion-image-matrix</last-substitute>
+      <last-pattern>.pkl</last-pattern>
+      <last-replace />
+      <last-substitute>.pkl</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>filter</entry>
-        <entry>aset</entry>
         <entry>set!</entry>
         <entry>sprite</entry>
         <entry>pixi</entry>
@@ -597,12 +596,10 @@
         <entry>fns\/get-ion-image-matrix</entry>
         <entry>fns.rerender</entry>
         <entry>fns.get-ion-image-matrix</entry>
+        <entry>\'</entry>
+        <entry>.pkl</entry>
       </history-search>
       <history-cmd>
-        <entry>68</entry>
-        <entry>113</entry>
-        <entry>89</entry>
-        <entry>157</entry>
         <entry>85</entry>
         <entry>154</entry>
         <entry>37</entry>
@@ -618,6 +615,10 @@
         <entry>%s/fns.get-ion-image-matrix/fns|get-ion-image-matrix/g</entry>
         <entry>46</entry>
         <entry>165</entry>
+        <entry encoding="base64">JzwsJz4v</entry>
+        <entry encoding="base64">JzwsJz5zL1wnL1wiLw==</entry>
+        <entry encoding="base64">JzwsJz5zLy5wa2wvLw==</entry>
+        <entry>58</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
