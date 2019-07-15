@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563179673086">
-        <mark key="'" line="25" column="30" />
-        <mark key="[" line="73" column="51" />
-        <mark key="]" line="73" column="51" />
-        <mark key="." line="73" column="51" />
-        <mark key="^" line="73" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563181778504">
+        <mark key="'" line="85" column="38" />
+        <mark key="[" line="403" column="27" />
+        <mark key="]" line="403" column="27" />
+        <mark key="." line="403" column="27" />
+        <mark key="^" line="403" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562914826754">
         <mark key="'" line="46" column="72" />
@@ -127,12 +127,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" timestamp="1563179696508">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" timestamp="1563181658353">
         <mark key="'" line="33" column="6" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="6" />
-        <mark key="." line="39" column="6" />
-        <mark key="^" line="31" column="32" />
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+        <mark key="^" line="39" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws2.cljs" timestamp="1562625825234">
         <mark key="[" line="0" column="18" />
@@ -422,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="10" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="349" column="43" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="354" column="43" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="381" column="46" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
@@ -522,6 +521,7 @@
       <jump line="97" column="49" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="31" column="6" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" />
       <jump line="25" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="85" column="38" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -536,32 +536,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtmdWxjcm8uY2xpZW50LnByaW1pdGl2ZXMgOmFzIHByaW0gOnJlZmVyIFtkZWZzY11dCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAjKC0+IChnZXQgY29tcHV0ZWQgJSBuaWwpICBzb21lPykpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KQogICAgICAodGhyb3cgKGpzL0Vycm9yLiAoc3RyIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAobGV0IFtjb25mb3JtZWQgKHMvY29uZm9ybSBzcGVjIHZhcildCiAgICAoaWYgY29uZm9ybWVkCiAgICAgIGNvbmZvcm1lZAogICAgICAodGhyb3cgKHMvZXhwbGFpbiBzcGVjIHZhcikpKSkpCg==</text>
+        <text encoding="base64">ICAjKC0+IChnZXQgY29tcHV0ZWQgJSBuaWwpICBzb21lPykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGNoZWNrLWNvbXB1dGVkLW1hdHJpeC1zcHJpdGUgKHByaW0vZ2V0LWNvbXB1dGVkIHRoaXMpKQo=</text>
+        <text encoding="base64">ICAobGV0IFtjb25mb3JtZWQgKHMvY29uZm9ybSBzcGVjIHZhcildCiAgICAoaWYgY29uZm9ybWVkCiAgICAgIGNvbmZvcm1lZAogICAgICAodGhyb3cgKHMvZXhwbGFpbiBzcGVjIHZhcikpKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OyBUT0RPOiBjcmVhdGUgcGF0dGVybiB0byBhdXRvbWF0aWNhbGx5IGNoZWNrIHJlcXVpcmVkIGNvbXB1dGVkIHByb3BzCjsgdmlhIGNsb2p1cmUvc3BlYwooZGVmbiBjaGVjay1jb21wdXRlZC1tYXRyaXgtc3ByaXRlIFtjb21wdXRlZC1wcm9wc10KICAoLT4gY29tcHV0ZWQtcHJvcHMKICAgICMoZXZlcnk/IChjb250YWlucz8gJSBbOmZucy9yZXJlbmRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29udGFpbmVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmbnMvZ2V0LWlvbi1pbWFnZS1tYXRyaXhdKSkKICAgIGFzc2VydCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGNoZWNrLWNvbXB1dGVkLW1hdHJpeC1zcHJpdGUgKHByaW0vZ2V0LWNvbXB1dGVkIHRoaXMpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMKICAgIHByaW0vZ2V0LWNvbXB1dGVkCg==</text>
+        <text encoding="base64">OyBUT0RPOiBjcmVhdGUgcGF0dGVybiB0byBhdXRvbWF0aWNhbGx5IGNoZWNrIHJlcXVpcmVkIGNvbXB1dGVkIHByb3BzCjsgdmlhIGNsb2p1cmUvc3BlYwooZGVmbiBjaGVjay1jb21wdXRlZC1tYXRyaXgtc3ByaXRlIFtjb21wdXRlZC1wcm9wc10KICAoLT4gY29tcHV0ZWQtcHJvcHMKICAgICMoZXZlcnk/IChjb250YWlucz8gJSBbOmZucy9yZXJlbmRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29udGFpbmVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDpmbnMvZ2V0LWlvbi1pbWFnZS1tYXRyaXhdKSkKICAgIGFzc2VydCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMKICAgIHByaW0vZ2V0LWNvbXB1dGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKC0+IHRoaXMKICAgICAgICAgICAgICAgICAgICAgICAgICBwcmltL2dldC1jb21wdXRlZAogICAgICAgICAgICAgICAgICAgICAgICAgICMoZXZlcnk/IChjb250YWlucz8gJSBbOmZucy9yZXJlbmRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNvbnRhaW5lcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmZucy9nZXQtaW9uLWltYWdlLW1hdHJpeF0pKQogICAgICAgICAgICAgICAgICAgICAgICAgIGFzc2VydCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAod2FybiAiaW9uIGltYWdlIGRpZCBtb3VudCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKC0+IHRoaXMKICAgICAgICAgICAgICAgICAgICAgICAgICBwcmltL2dldC1jb21wdXRlZAogICAgICAgICAgICAgICAgICAgICAgICAgICMoZXZlcnk/IChjb250YWlucz8gJSBbOmZucy9yZXJlbmRlcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNvbnRhaW5lcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmZucy9nZXQtaW9uLWltYWdlLW1hdHJpeF0pKQogICAgICAgICAgICAgICAgICAgICAgICAgIGFzc2VydCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChqcy9jb25zb2xlLmxvZyAiY29tcHV0ZWQiIChwcmltL2dldC1jb21wdXRlZCB0aGlzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAod2FybiAiaW9uIGltYWdlIGRpZCBtb3VudCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
