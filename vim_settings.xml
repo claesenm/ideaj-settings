@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563198568470">
-        <mark key="'" line="420" column="34" />
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="30" />
-        <mark key="." line="46" column="30" />
-        <mark key="^" line="46" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563202136471">
+        <mark key="'" line="457" column="63" />
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="50" column="46" />
+        <mark key="." line="50" column="46" />
+        <mark key="^" line="50" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562914826754">
         <mark key="'" line="46" column="72" />
@@ -127,12 +127,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" timestamp="1563198545772">
-        <mark key="'" line="36" column="30" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" timestamp="1563201952335">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="55" />
+        <mark key="." line="47" column="55" />
+        <mark key="^" line="47" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws2.cljs" timestamp="1562625825234">
         <mark key="[" line="0" column="18" />
@@ -422,13 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="5" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/shaders.cljs" />
-      <jump line="33" column="3" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" />
-      <jump line="24" column="5" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" />
-      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" />
-      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" />
-      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="42" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" />
       <jump line="7" column="4" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" />
       <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
@@ -522,13 +515,20 @@
       <jump line="418" column="93" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="420" column="34" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="109" column="44" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="284" column="50" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="440" column="55" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="50" column="46" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="457" column="63" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="30" column="25" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>.pkl</text>
@@ -537,31 +537,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKGxldCBbbGF5ZXJzLTEgWyhwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8zLmJpbiIgOmNvbG9yIDB4ZmZmZjAwfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8yLmJpbiIgOmNvbG9yIDB4ZmYwMDAwfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8xLmJpbiIgOmNvbG9yIDB4MDAwMGZmfSldCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDsocHJpbS9nZXQtaW5pdGlhbC1zdGF0ZSBJb25JbWFnZSB7OmZuYW1lICJpb25faW1hZ2VfMS5iaW4iIDpjb2xvciAweDAwMDBmZiA6Y29sb3JtYXAgOm1hZ21hfSldfSkKCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheWVycyBbWyhwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8xLmJpbiIgOmNvbG9ybWFwIDp2aXJpZGlzfSldCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8yLmJpbiIgOmNvbG9ybWFwIDp2aXJpZGlzfSldCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhwcmltL2dldC1pbml0aWFsLXN0YXRlIElvbkltYWdlIHs6Zm5hbWUgImlvbl9pbWFnZV8zLmJpbiIgOmNvbG9ybWFwIDp2aXJpZGlzfSldXV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOyBUT0RPIG1lcmdlIGludG8gYXBwIHN0YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAod2FybiAicmVzcG9uc2UiIHJlc3BvbnNlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICh3YXJuICgtPiByZXNwb25zZSA6Ym9keSBjb21tL2RlY29kZSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHdhcm4gInJlY2VpdmVkIGRhdGEiIGRhdGEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKGNvbW0vZW5jb2RlIHBheWxvYWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOyBUT0RPIG1lcmdlIGludG8gYXBwIHN0YXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAoc3RyKQo=</text>
+        <text encoding="base64">ICAgICAgKGNvbW0vZW5jb2RlIHBheWxvYWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAoc3RyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHs6Y29udGVudC10eXBlIDpqc29uCiAgICAgICAgICAgICAgICAgICAgICAgOmFjY2VwdCAgICAgICA6anNvbn0pXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDs7IGZpeG1lOiBub3QgbmVlZGVkIGZvciB0aGlzIE5STCBwcm9qZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHs6Y29udGVudC10eXBlIDpqc29uCiAgICAgICAgICAgICAgICAgICAgICAgOmFjY2VwdCAgICAgICA6anNvbn0pXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwYXlsb2FkICB7OmZpbGVuYW1lcyBbaWRdCiAgICAgICAgICAgICAgICAgICAgIDpteiBten1dKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDs7IGZpeG1lOiBub3QgbmVlZGVkIGZvciB0aGlzIE5STCBwcm9qZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlIChhc3luYy88ISAoaHR0cC9wb3N0IChzdHIgImh0dHA6Ly9sb2NhbGhvc3Q6ODkxMi9pb24taW1hZ2VzLyIpKSkKICAgICAgICAgICBkZWNvZGVkICAoLT4gcmVzcG9uc2UgOmJvZHkgY29tbS9kZWNvZGUpCiAgICAgICAgICAgZGF0YSAgICAgKC0+IGRlY29kZWQgKGtleXdvcmQgaWQpIDpkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBwYXlsb2FkICB7OmZpbGVuYW1lcyBbaWRdCiAgICAgICAgICAgICAgICAgICAgIDpteiBten1dKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpoZWFkZXJzICgtPmhlYWRlciBhY2Nlc3MtdG9rZW4pCg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlIChhc3luYy88ISAoaHR0cC9wb3N0IChzdHIgImh0dHA6Ly9sb2NhbGhvc3Q6ODkxMi9pb24taW1hZ2VzLyIpKSkKICAgICAgICAgICBkZWNvZGVkICAoLT4gcmVzcG9uc2UgOmJvZHkgY29tbS9kZWNvZGUpCiAgICAgICAgICAgZGF0YSAgICAgKC0+IGRlY29kZWQgKGtleXdvcmQgaWQpIDpkYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
