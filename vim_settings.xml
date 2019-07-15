@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563210044951">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563217087254">
         <mark key="'" line="243" column="28" />
-        <mark key="[" line="439" column="7" />
-        <mark key="]" line="439" column="10" />
-        <mark key="^" line="439" column="10" />
-        <mark key="." line="439" column="10" />
+        <mark key="[" line="423" column="25" />
+        <mark key="]" line="423" column="58" />
+        <mark key="^" line="423" column="58" />
+        <mark key="." line="423" column="58" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562914826754">
         <mark key="'" line="46" column="72" />
