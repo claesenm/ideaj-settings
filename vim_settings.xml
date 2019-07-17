@@ -10,12 +10,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563356190925">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563364450800">
         <mark key="'" line="483" column="46" />
-        <mark key="[" line="191" column="80" />
-        <mark key="]" line="200" column="6" />
-        <mark key="^" line="200" column="6" />
-        <mark key="." line="200" column="6" />
+        <mark key="[" line="230" column="4" />
+        <mark key="]" line="230" column="34" />
+        <mark key="^" line="230" column="34" />
+        <mark key="." line="230" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562914826754">
         <mark key="'" line="46" column="72" />
@@ -158,7 +158,7 @@
         <mark key="]" line="140" column="3" />
         <mark key="." line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/colormap.cljs" timestamp="1563225125562">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/colormap.cljs" timestamp="1563364250098">
         <mark key="'" line="45" column="22" />
         <mark key="[" line="70" column="50" />
         <mark key="]" line="71" column="51" />
