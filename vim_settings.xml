@@ -9,13 +9,6 @@
         <mark key="]" line="11" column="35" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/comm.cljs" timestamp="1562223314407">
-        <mark key="'" line="166" column="35" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/util/colors.cljs" timestamp="1563437354241">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="9" />
@@ -29,13 +22,6 @@
         <mark key="^" line="205" column="24" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/shadow-cljs.edn" timestamp="1562914826754">
-        <mark key="'" line="46" column="72" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/launch.sh" timestamp="1557329142249">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="8" column="0" />
@@ -47,13 +33,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/run-cantaloupe.sh" timestamp="1558333945305">
-        <mark key="'" line="20" column="41" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="160" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/postgres-password-base.env" timestamp="1558336460565">
         <mark key="[" line="1" column="0" />
@@ -86,13 +65,6 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/matrix.cljs" timestamp="1562223271397">
-        <mark key="'" line="304" column="31" />
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/change-fucking-postgres-password.sh" timestamp="1558342341288">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="22" />
@@ -111,6 +83,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/package.json" timestamp="1563440119080">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.py" timestamp="1558030672613">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -122,13 +100,6 @@
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/canvas/util/colors.cljs" timestamp="1562223224420">
-        <mark key="'" line="265" column="39" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/cards.cljs" timestamp="1561324922688">
         <mark key="[" line="6" column="29" />
@@ -192,13 +163,6 @@
         <mark key="^" line="3" column="130" />
         <mark key="." line="3" column="130" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/mutations.py" timestamp="1558172899694">
-        <mark key="'" line="179" column="4" />
-        <mark key="[" line="198" column="35" />
-        <mark key="]" line="198" column="49" />
-        <mark key="." line="198" column="49" />
-        <mark key="^" line="198" column="49" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/pixi/filters/util.cljs" timestamp="1563437546287">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="9" />
@@ -217,18 +181,17 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/package-base.json" timestamp="1563440154080">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/util.cljs" timestamp="1562743587247">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/auth/models.py" timestamp="1558348085647">
-        <mark key="'" line="68" column="17" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="142" column="67" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/cantaloupe/cantaloupe.properties" timestamp="1556917381144">
         <mark key="[" line="142" column="1" />
@@ -266,45 +229,24 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-deactivate-user.py" timestamp="1561017662111">
-        <mark key="'" line="28" column="21" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="41" column="82" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/db-play.py" timestamp="1561017078919">
-        <mark key="'" line="90" column="25" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="152" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.wsgi" timestamp="1557328305602">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="20" />
         <mark key="." line="37" column="20" />
         <mark key="^" line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/package.json" timestamp="1562767076539">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="11" column="33" />
-        <mark key="." line="11" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/package.json" timestamp="1563440025369">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-test.env" timestamp="1558106394828">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="95" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-production.env" timestamp="1560493117420">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/setup.sh" timestamp="1560491737597">
         <mark key="[" line="11" column="42" />
@@ -324,20 +266,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" timestamp="1562915309730">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/util.py" timestamp="1558088268562">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="115" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/tos/api.py" timestamp="1558071579958">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="25" />
@@ -350,26 +278,12 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/mailing.py" timestamp="1558107863289">
-        <mark key="'" line="31" column="34" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="35" column="10" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/colors.cljs" timestamp="1563142165340">
         <mark key="'" line="126" column="2" />
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="26" />
         <mark key="." line="85" column="0" />
         <mark key="^" line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/comm.cljs" timestamp="1563208839894">
-        <mark key="'" line="105" column="57" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/pixi/filters.cljs" timestamp="1563437790556">
         <mark key="'" line="187" column="26" />
@@ -417,45 +331,17 @@
         <mark key="." line="3" column="2" />
         <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/matrix.cljs" timestamp="1562314164324">
-        <mark key="'" line="168" column="61" />
-        <mark key="[" line="221" column="46" />
-        <mark key="]" line="222" column="19" />
-        <mark key="." line="222" column="19" />
-        <mark key="^" line="222" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/fulcro-generics/deps.edn" timestamp="1561098248490">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="57" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/shaders.cljs" timestamp="1562743485444">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nrl-backend/backend-local-dev.env" timestamp="1558335622179">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/backend.py" timestamp="1557323647839">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="25" column="24" />
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/color.cljs" timestamp="1562769536858">
-        <mark key="'" line="36" column="53" />
-        <mark key="[" line="30" column="2" />
-        <mark key="]" line="30" column="61" />
-        <mark key="." line="30" column="61" />
-        <mark key="^" line="30" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/pixi/filters/color.cljs" timestamp="1563437489998">
         <mark key="[" line="11" column="0" />
@@ -573,43 +459,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtoaXBvLmNvcmUgOmFzIGhpcG9dCiAgICBbZG9tbXkuY29yZSA6YXMgZG9tbXldCg==</text>
+        <text encoding="base64">ICAibmFtZSI6ICJjYW52YXMiLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAiZGVzY3JpcHRpb24iOiAiIiwKICAicHJpdmF0ZSI6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>MIT</text>
       </register>
       <register name="/" type="4">
         <text>(extend-computed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoOnJlcXVpcmUtbWFjcm9zCiAgICBbY2xqcy5jb3JlLmFzeW5jLm1hY3JvcyA6cmVmZXIgW2dvXV0pKQo=</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgImhpZ2hsaWdodC5qcyI6ICJeOS4xMy4xIiwKICAgICJyZWFjdC1ncmlkLWxheW91dCI6ICJeMC4xNi42IiwKICAgICJyZWFjdC1pY29ucyI6ICJeMi4yLjciLAogICAgInJlYWtpdCI6ICJeMC4xMS4yIiwKICAgICJwaXhpLmpzIjogIl41LjAuMCIsCiAgICAiQHBpeGkvZmlsdGVyLW91dGxpbmUiOiJsYXRlc3QiLAogICAgImQzIjogImxhdGVzdCIsCiAgICAibXNncGFjay1saXRlIjogImxhdGVzdCIsCiAgICAicGFrbyI6ICJsYXRlc3QiCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtoaXBvLmNvcmUgOmFzIGhpcG9dCiAgICBbZG9tbXkuY29yZSA6YXMgZG9tbXldCg==</text>
+        <text encoding="base64">ICAibmFtZSI6ICJjYW52YXMiLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAiZGVzY3JpcHRpb24iOiAiIiwKICAicHJpdmF0ZSI6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CjsoZGVmbiBtYWtlLXNwcml0ZS1mcm9tLW1hdHJpeAo7ICBbY2FudmFzLXBhcmVudCBtYXRyaXhdCjsgIChsZXQgW2Nudi1pZCAgICAgICAgKHN0ciAiY2FudmFzLSIgKGdlbnN5bSkpCjsgICAgICAgIHRleC1jbnYgICAgICAgKGFwcGVuZC1jYW52YXMgZGl2IGNudi1pZCA6aGlkZGVuPyB0cnVlKQo7ICAgICAgICA7IFRPRE86IGhvb2sgaW50byBleHRlcm5hbCB0ZXh0dXJlIG1hbmFnZXIgLyBjYWNoZSBiYXNlZCBvbiBkYXRhIGlkPwo7ICAgICAgICB0ZXh0dXJlICAgICAgIChtYWtlLXRleHR1cmUgdGV4LWNudiA6ZGF0YSBtYXRyaXggOnBsb3QtbW9kZSA6Z3JheXNjYWxlKQo7ICAgICAgICBzcHJpdGUgICAgICAgIChqcy9QSVhJLlNwcml0ZS4gdGV4dHVyZSldCjsgICAgezpjYW52YXMtaWQgY252LWlkIDpzcHJpdGUgc3ByaXRlfSkpCgoK</text>
+        <text encoding="base64">ICAgICJwaXhpLmpzIjogIl41LjAuMCIsCiAgICAiQHBpeGkvZmlsdGVyLW91dGxpbmUiOiJsYXRlc3QiLAogICAgImQzIjogImxhdGVzdCIsCiAgICAibXNncGFjay1saXRlIjogImxhdGVzdCIsCiAgICAicGFrbyI6ICJsYXRlc3QiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGRlZiBeOnByaXZhdGUgU0VDUkVUX0xPQ0FUSU9OICJzZWNyZXQtbG9jYXRpb24iKQooZGVmbiBpbnNlcnQtaGlkZGVuLWNhbnZhcwogICJQbGFjZXMgYSBoaWRkZW4gY2FudmFzIHRvIHNvbWUgc2VjcmV0IGxvY2F0aW9uIGFuZCByZXR1cm5zIHRoZSBkb20gbm9kZS4KICBSZXR1cm5zIHRoZSBjYW52YXMgaWYgZ2l2ZW4gaWQgYWxyZWFkeSBleGlzdHMuIgogIFtjbnZpZF0KICAoaWYtbGV0IFtjbnYgKGdkb20vZ2V0RWxlbWVudCBjbnZpZCldIGNudgogICAgKGlmLWxldCBbcGFyZW50IChnZG9tL2dldEVsZW1lbnQgU0VDUkVUX0xPQ0FUSU9OKV0KICAgICAgOyBzZWNyZXQgbG9jYXRpb24gYWxyZWFkeSBleGlzdHMsIGFwcGVuZCB0byBpdAogICAgICAoYXBwZW5kLWNhbnZhcyBwYXJlbnQgY252aWQgOmhpZGRlbj8gdHJ1ZSkKICAgICAgOyBzZWNyZXQgbG9jYXRpb24gZG9lcyBub3QgZXhpc3QsIG1ha2UgaXQgZmlyc3QgYW5kIHRoZW4gYXBwZW5kIHRvIGl0CiAgICAgIChsZXQgW2JvZHkgIChnZG9tL2dldEVsZW1lbnRCeVRhZ05hbWVBbmRDbGFzcyAiYm9keSIpXQogICAgICAgIChkbyAoZG9tbXkvYXBwZW5kISBib2R5IChoaXBvL2NyZWF0ZSBbOmRpdiB7OmlkIFNFQ1JFVF9MT0NBVElPTn1dKSkKICAgICAgICAgICAgOyhkb21teS9oaWRlISAoZG9tbXkvc2VsMSBib2R5IChzdHIgIiMiIFNFQ1JFVF9MT0NBVElPTikpKQogICAgICAgICAgICAoYXBwZW5kLWNhbnZhcyAoZ2RvbS9nZXRFbGVtZW50IFNFQ1JFVF9MT0NBVElPTikgY252aWQgOmhpZGRlbj8gZmFsc2UpKSkpKSkgOyBmaXhtZSBzZXQgaGlkZGVuPyB0cnVlCgoKKGRlZm4gZ3JheXNjYWxlLWRhdGEtdG8tY2FudmFzCiAgIlBsb3RzIGdpdmVuIGdyYXlzY2FsZSBtYXRyaXggZGF0YSB0byBzcGVjaWZpZWQgY2FudmFzIChvdmVyd3JpdGVzIGV4aXN0aW5nIGNvbnRlbnQpLgogIGRhdGEgbXVzdCBiZSBhIGdyYXlzY2FsZSBUeXBlZE1hdHJpeCBiYWNrZWQgYnkgdWludDggZGF0YS4KCiAgQWZ0ZXIgcGxvdHRpbmcgdGhlIGFscGhhIGNoYW5uZWwgd2lsbCBjb250YWluIHRoZSBjb3JyZXNwb25kaW5nIGdyYXlzY2FsZSB2YWx1ZXMuIgogIFtjbnYgZGF0YSAmIHs6a2V5cyBbd2lsZGNhcmRzXQogICAgICAgICAgICAgICA6b3Ige3dpbGRjYXJkcyBjb2xvcnMvdWludDgtdHJhbnNwYXJhbmN5LXdpbGRjYXJkfX1dCiAgKGxldCBbW25yb3dzIG5jb2xzXSAobWF0cml4L3NoYXBlIGRhdGEpCiAgICAgICAgXyAgICAgICAgICAoZG9tbXkvc2V0LWF0dHIhIGNudiA6d2lkdGggbmNvbHMgOmhlaWdodCBucm93cykKICAgICAgICBjdHggICAgICAgICguLiBjbnYgKGdldENvbnRleHQgIjJkIikpCiAgICAgICAgaW1hZ2UtYXJyICAoLi4gY3R4IChjcmVhdGVJbWFnZURhdGEgbmNvbHMgbnJvd3MpKQogICAgICAgIGltYWdlLWRhdGEgKC4tZGF0YSBpbWFnZS1hcnIpCiAgICAgICAgOyBmaWxscyBpbWFnZS1hcnIgYXMgYSBzaWRlIGVmZmVjdAogICAgICAgIGZpbGwtaW1nICAgKGNsai0+anMgKGZuIFt2IGlkeF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBzZXQgYWxwaGEgY2hhbm5lbCB0byBncmF5c2NhbGUgdmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nIGlkeCB2IChnZXQgd2lsZGNhcmRzIHYgdikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhc2V0IGltYWdlLWRhdGEgKC0+IGlkeCAoKiA0KSAoKyAzKSkgKGdldCB3aWxkY2FyZHMgdiB2KSkpKV0KOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhc2V0IGltYWdlLWRhdGEgKCogaWR4IDQpIDI1NSkKOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhc2V0IGltYWdlLWRhdGEgKC0+IGlkeCAoKiA0KSAoKyAzKSkgMjU1KSkpXQoKICAgICguLiAobWF0cml4L3Jhdy1kYXRhIGRhdGEpIChmb3JFYWNoIGZpbGwtaW1nKSkgOyBUT0RPOiBpcyB0aGlzIHRoZSBtb3N0IGVmZmljaWVudCB3YXk/CiAgICAoLi4gY3R4IChwdXRJbWFnZURhdGEgaW1hZ2UtYXJyIDAgMCkpCiAgICAoanMvY29uc29sZS5sb2cgKC4uIGN0eCAoZ2V0SW1hZ2VEYXRhIDAgMCBuY29scyBucm93cykpKSkpIDsgRklYTUU6IGRlbGV0ZSBsb2cK</text>
+        <text encoding="base64">fSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFthc3BlY3QudXRpbC5jb2xvcnMgOmFzIGNvbG9yc10KICAgIFthc3BlY3QudXRpbC5jb21tIDphcyBjb21tXQogICAgW2FzcGVjdC51dGlsLmdlbmVyaWMgOmFzIHV0aWxdCiAgICBbYXNwZWN0LnV0aWwubWF0cml4IDphcyBtYXRyaXhdCg==</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgImhpZ2hsaWdodC5qcyI6ICJeOS4xMy4xIiwKICAgICJyZWFjdC1ncmlkLWxheW91dCI6ICJeMC4xNi42IiwKICAgICJyZWFjdC1pY29ucyI6ICJeMi4yLjciLAogICAgInJlYWtpdCI6ICJeMC4xMS4yIiwKICAgICJwaXhpLmpzIjogIl41LjAuMCIsCiAgICAiQHBpeGkvZmlsdGVyLW91dGxpbmUiOiJsYXRlc3QiLAogICAgImQzIjogImxhdGVzdCIsCiAgICAibXNncGFjay1saXRlIjogImxhdGVzdCIsCiAgICAicGFrbyI6ICJsYXRlc3QiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgImludGwtbWVzc2FnZWZvcm1hdCI6ICJeMi4yLjAiLAogICAgImthcm1hIjogIl4zLjEuMSIsCiAgICAia2FybWEtY2hyb21lLWxhdW5jaGVyIjogIl4yLjIuMCIsCiAgICAia2FybWEtY2xqcy10ZXN0IjogIl4wLjEuMCIsCiAgICAicmVhY3QiOiAiXjE2LjYuOCIsCiAgICAicmVhY3QtZG9tIjogIl4xNi42LjgiLAogICAgInNoYWRvdy1jbGpzIjogIl4yLjguMjUiLAogICAgInNob3dkb3duIjogIl4xLjguNyIKICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFtkb21teS5jb3JlIDphcyBkb21teV0K</text>
+        <text encoding="base64">ICAgIFtoaXBvLmNvcmUgOmFzIGhpcG9dCiAgICBbZG9tbXkuY29yZSA6YXMgZG9tbXldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFtnb29nLmRvbSA6YXMgZ2RvbV0KICAgIFtzYWJsb25vLmNvcmUgOmFzIHNhYl0K</text>
+        <text encoding="base64">CjsoZGVmbiBtYWtlLXNwcml0ZS1mcm9tLW1hdHJpeAo7ICBbY2FudmFzLXBhcmVudCBtYXRyaXhdCjsgIChsZXQgW2Nudi1pZCAgICAgICAgKHN0ciAiY2FudmFzLSIgKGdlbnN5bSkpCjsgICAgICAgIHRleC1jbnYgICAgICAgKGFwcGVuZC1jYW52YXMgZGl2IGNudi1pZCA6aGlkZGVuPyB0cnVlKQo7ICAgICAgICA7IFRPRE86IGhvb2sgaW50byBleHRlcm5hbCB0ZXh0dXJlIG1hbmFnZXIgLyBjYWNoZSBiYXNlZCBvbiBkYXRhIGlkPwo7ICAgICAgICB0ZXh0dXJlICAgICAgIChtYWtlLXRleHR1cmUgdGV4LWNudiA6ZGF0YSBtYXRyaXggOnBsb3QtbW9kZSA6Z3JheXNjYWxlKQo7ICAgICAgICBzcHJpdGUgICAgICAgIChqcy9QSVhJLlNwcml0ZS4gdGV4dHVyZSldCjsgICAgezpjYW52YXMtaWQgY252LWlkIDpzcHJpdGUgc3ByaXRlfSkpCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFsicGl4aS5qcyIgOmFzIHBpeGktanNdCg==</text>
+        <text encoding="base64">KGRlZiBeOnByaXZhdGUgU0VDUkVUX0xPQ0FUSU9OICJzZWNyZXQtbG9jYXRpb24iKQooZGVmbiBpbnNlcnQtaGlkZGVuLWNhbnZhcwogICJQbGFjZXMgYSBoaWRkZW4gY2FudmFzIHRvIHNvbWUgc2VjcmV0IGxvY2F0aW9uIGFuZCByZXR1cm5zIHRoZSBkb20gbm9kZS4KICBSZXR1cm5zIHRoZSBjYW52YXMgaWYgZ2l2ZW4gaWQgYWxyZWFkeSBleGlzdHMuIgogIFtjbnZpZF0KICAoaWYtbGV0IFtjbnYgKGdkb20vZ2V0RWxlbWVudCBjbnZpZCldIGNudgogICAgKGlmLWxldCBbcGFyZW50IChnZG9tL2dldEVsZW1lbnQgU0VDUkVUX0xPQ0FUSU9OKV0KICAgICAgOyBzZWNyZXQgbG9jYXRpb24gYWxyZWFkeSBleGlzdHMsIGFwcGVuZCB0byBpdAogICAgICAoYXBwZW5kLWNhbnZhcyBwYXJlbnQgY252aWQgOmhpZGRlbj8gdHJ1ZSkKICAgICAgOyBzZWNyZXQgbG9jYXRpb24gZG9lcyBub3QgZXhpc3QsIG1ha2UgaXQgZmlyc3QgYW5kIHRoZW4gYXBwZW5kIHRvIGl0CiAgICAgIChsZXQgW2JvZHkgIChnZG9tL2dldEVsZW1lbnRCeVRhZ05hbWVBbmRDbGFzcyAiYm9keSIpXQogICAgICAgIChkbyAoZG9tbXkvYXBwZW5kISBib2R5IChoaXBvL2NyZWF0ZSBbOmRpdiB7OmlkIFNFQ1JFVF9MT0NBVElPTn1dKSkKICAgICAgICAgICAgOyhkb21teS9oaWRlISAoZG9tbXkvc2VsMSBib2R5IChzdHIgIiMiIFNFQ1JFVF9MT0NBVElPTikpKQogICAgICAgICAgICAoYXBwZW5kLWNhbnZhcyAoZ2RvbS9nZXRFbGVtZW50IFNFQ1JFVF9MT0NBVElPTikgY252aWQgOmhpZGRlbj8gZmFsc2UpKSkpKSkgOyBmaXhtZSBzZXQgaGlkZGVuPyB0cnVlCgoKKGRlZm4gZ3JheXNjYWxlLWRhdGEtdG8tY2FudmFzCiAgIlBsb3RzIGdpdmVuIGdyYXlzY2FsZSBtYXRyaXggZGF0YSB0byBzcGVjaWZpZWQgY2FudmFzIChvdmVyd3JpdGVzIGV4aXN0aW5nIGNvbnRlbnQpLgogIGRhdGEgbXVzdCBiZSBhIGdyYXlzY2FsZSBUeXBlZE1hdHJpeCBiYWNrZWQgYnkgdWludDggZGF0YS4KCiAgQWZ0ZXIgcGxvdHRpbmcgdGhlIGFscGhhIGNoYW5uZWwgd2lsbCBjb250YWluIHRoZSBjb3JyZXNwb25kaW5nIGdyYXlzY2FsZSB2YWx1ZXMuIgogIFtjbnYgZGF0YSAmIHs6a2V5cyBbd2lsZGNhcmRzXQogICAgICAgICAgICAgICA6b3Ige3dpbGRjYXJkcyBjb2xvcnMvdWludDgtdHJhbnNwYXJhbmN5LXdpbGRjYXJkfX1dCiAgKGxldCBbW25yb3dzIG5jb2xzXSAobWF0cml4L3NoYXBlIGRhdGEpCiAgICAgICAgXyAgICAgICAgICAoZG9tbXkvc2V0LWF0dHIhIGNudiA6d2lkdGggbmNvbHMgOmhlaWdodCBucm93cykKICAgICAgICBjdHggICAgICAgICguLiBjbnYgKGdldENvbnRleHQgIjJkIikpCiAgICAgICAgaW1hZ2UtYXJyICAoLi4gY3R4IChjcmVhdGVJbWFnZURhdGEgbmNvbHMgbnJvd3MpKQogICAgICAgIGltYWdlLWRhdGEgKC4tZGF0YSBpbWFnZS1hcnIpCiAgICAgICAgOyBmaWxscyBpbWFnZS1hcnIgYXMgYSBzaWRlIGVmZmVjdAogICAgICAgIGZpbGwtaW1nICAgKGNsai0+anMgKGZuIFt2IGlkeF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBzZXQgYWxwaGEgY2hhbm5lbCB0byBncmF5c2NhbGUgdmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nIGlkeCB2IChnZXQgd2lsZGNhcmRzIHYgdikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhc2V0IGltYWdlLWRhdGEgKC0+IGlkeCAoKiA0KSAoKyAzKSkgKGdldCB3aWxkY2FyZHMgdiB2KSkpKV0KOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhc2V0IGltYWdlLWRhdGEgKCogaWR4IDQpIDI1NSkKOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChhc2V0IGltYWdlLWRhdGEgKC0+IGlkeCAoKiA0KSAoKyAzKSkgMjU1KSkpXQoKICAgICguLiAobWF0cml4L3Jhdy1kYXRhIGRhdGEpIChmb3JFYWNoIGZpbGwtaW1nKSkgOyBUT0RPOiBpcyB0aGlzIHRoZSBtb3N0IGVmZmljaWVudCB3YXk/CiAgICAoLi4gY3R4IChwdXRJbWFnZURhdGEgaW1hZ2UtYXJyIDAgMCkpCiAgICAoanMvY29uc29sZS5sb2cgKC4uIGN0eCAoZ2V0SW1hZ2VEYXRhIDAgMCBuY29scyBucm93cykpKSkpIDsgRklYTUU6IGRlbGV0ZSBsb2cK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFtkb21teS5jb3JlIDphcyBkb21teV0K</text>
+        <text encoding="base64">ICAgIFthc3BlY3QudXRpbC5jb2xvcnMgOmFzIGNvbG9yc10KICAgIFthc3BlY3QudXRpbC5jb21tIDphcyBjb21tXQogICAgW2FzcGVjdC51dGlsLmdlbmVyaWMgOmFzIHV0aWxdCiAgICBbYXNwZWN0LnV0aWwubWF0cml4IDphcyBtYXRyaXhdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFsicGl4aS5qcyIgOmFzIHBpeGktanNdCiAgICBbc2FibG9uby5jb3JlIDphcyBzYWJdCg==</text>
+        <text encoding="base64">ICAgIFtkb21teS5jb3JlIDphcyBkb21teV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -648,7 +534,6 @@
         <entry>(extend-computed</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/fns\/rerender/fns.rerender/g</entry>
         <entry>%s/fns\/get-ion-image-matrix/fns.get-ion-image-matrix/g</entry>
         <entry>%s/fns.rerender/fns|rerender/g</entry>
         <entry>%s/fns.get-ion-image-matrix/fns|get-ion-image-matrix/g</entry>
@@ -667,6 +552,7 @@
         <entry>208</entry>
         <entry>172</entry>
         <entry>%s/(extend-computed/(ui-util\/extend-computed/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
