@@ -15,12 +15,12 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563439052204">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563446574361">
         <mark key="'" line="188" column="41" />
-        <mark key="[" line="19" column="0" />
+        <mark key="[" line="169" column="99" />
         <mark key="]" line="20" column="42" />
         <mark key="^" line="205" column="24" />
-        <mark key="." line="8" column="0" />
+        <mark key="." line="169" column="99" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/deps.edn" timestamp="1563442265031">
         <mark key="[" line="0" column="34" />
@@ -213,6 +213,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/README.md" timestamp="1563446569391">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="40" column="84" />
+        <mark key="^" line="40" column="84" />
+        <mark key="." line="40" column="84" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/cantaloupe/cantaloupe.properties" timestamp="1556917381144">
         <mark key="[" line="142" column="1" />
@@ -565,7 +571,6 @@
         <entry>(extend-computed</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/fns\/get-ion-image-matrix/fns.get-ion-image-matrix/g</entry>
         <entry>%s/fns.rerender/fns|rerender/g</entry>
         <entry>%s/fns.get-ion-image-matrix/fns|get-ion-image-matrix/g</entry>
         <entry>46</entry>
@@ -584,6 +589,7 @@
         <entry>172</entry>
         <entry>%s/(extend-computed/(ui-util\/extend-computed/g</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
