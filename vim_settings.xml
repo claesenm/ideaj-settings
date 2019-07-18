@@ -52,12 +52,12 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563480874146">
-        <mark key="'" line="404" column="0" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="63" column="63" />
-        <mark key="." line="63" column="63" />
-        <mark key="^" line="63" column="63" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563481627728">
+        <mark key="'" line="412" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="71" column="63" />
+        <mark key="." line="71" column="63" />
+        <mark key="^" line="71" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1560348802329">
         <mark key="[" line="145" column="106" />
