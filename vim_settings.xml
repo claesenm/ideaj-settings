@@ -52,12 +52,12 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563439160781">
-        <mark key="'" line="34" column="6" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563448194391">
+        <mark key="'" line="398" column="27" />
+        <mark key="[" line="393" column="29" />
+        <mark key="]" line="393" column="35" />
+        <mark key="." line="393" column="35" />
+        <mark key="^" line="393" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1560348802329">
         <mark key="[" line="145" column="106" />
@@ -393,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters.cljs" />
       <jump line="309" column="68" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="60" column="110" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/pixi/filters/alpha_rescale.cljs" />
       <jump line="151" column="62" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
@@ -493,6 +492,7 @@
       <jump line="16" column="4" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
       <jump line="86" column="47" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
       <jump line="38" column="6" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
+      <jump line="398" column="27" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
