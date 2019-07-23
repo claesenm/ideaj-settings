@@ -54,12 +54,12 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563891474849">
-        <mark key="'" line="359" column="34" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
-        <mark key="^" line="277" column="100" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563893791706">
+        <mark key="'" line="301" column="64" />
+        <mark key="[" line="321" column="0" />
+        <mark key="]" line="321" column="0" />
+        <mark key="." line="321" column="0" />
+        <mark key="^" line="321" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1560348802329">
         <mark key="[" line="145" column="106" />
@@ -85,11 +85,11 @@
         <mark key="^" line="52" column="36" />
         <mark key="." line="52" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/package.json" timestamp="1563440119080">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="15" column="4" />
-        <mark key="^" line="26" column="31" />
-        <mark key="." line="26" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/package.json" timestamp="1563893659367">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="39" />
+        <mark key="." line="15" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/nrl-flask.py" timestamp="1558030672613">
         <mark key="[" line="15" column="0" />
@@ -257,12 +257,10 @@
         <mark key="." line="37" column="20" />
         <mark key="^" line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/package.json" timestamp="1563440025369">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/package.json" timestamp="1563893662955">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/ui/canvas.cljs" timestamp="1562233784873">
         <mark key="[" line="10" column="0" />
@@ -338,13 +336,6 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/pixi.cljs" timestamp="1563887100348">
-        <mark key="'" line="70" column="38" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="70" column="1" />
-        <mark key="." line="70" column="1" />
-        <mark key="^" line="70" column="1" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/slide-annotation/src/cards/nrl/generic_container_card.cljs" timestamp="1561977273964">
         <mark key="[" line="190" column="44" />
         <mark key="]" line="191" column="28" />
@@ -388,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="38" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="201" column="43" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="280" column="31" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="26" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/main/canvas/util/generic.cljs" />
@@ -488,46 +478,105 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
       <jump line="36" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
       <jump line="371" column="34" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
+      <jump line="299" column="64" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="86" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="60" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IEZJWE1FIGFkZCByZXNpemluZyBiYWNrCg==</text>
+        <text encoding="base64">ICAgICJjCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>.-x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpdiAgICAgICAgICAgICAgICAoLi4gYXBwIC12aWV3IC1wYXJlbnROb2RlKQo=</text>
+        <text encoding="base64">ICAgICJjc3MtZWxlbWVudC1xdWVyaWVzIjogImxhdGVzdCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IEZJWE1FIGFkZCByZXNpemluZyBiYWNrCg==</text>
+        <text encoding="base64">ICAgICJjCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6anVzdGlmeUNvbnRlbnQgOmNlbnRlciA6YWxpZ25Db250ZW50IDpzcGFjZS1hcm91bmQKOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZmxleERpcmVjdGlvbiAgOmNvbHVtbn19Cg==</text>
+      <register name="2" type="8">
+        <text>;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cG9zaXRpb24gOmFic29sdXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDtkaXYgICAgICAgIChnZG9tL2dldEVsZW1lbnQgZGl2LWlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6ZGlzcGxheSA6aW5saW5lLWJsb2NrCjsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRpc3BsYXkgICAgICAgICA6ZmxleCA6ZmxleEdyb3cgMSA6ZmxleEJhc2lzICIxMDAlIiA6ZmxleFNocmluayAxCjsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1heEhlaWdodCAgICAgICIxMDAlIiA6bWF4V2lkdGggIjEwMCUiCjsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmhlaWdodCAgICAgICAgICAiMTAwJSIgOndpZHRoIDphdXRvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsgaHR0cHM6Ly9qc2ZpZGRsZS5uZXQvYmlndGltZWJ1ZGR5L3dMZzdqZXpiLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICNfKGZuIFtdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGxldCBbYXBwICAgIChwcmltL2dldC1zdGF0ZSB0aGlzIDphcHApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyZW50ICguLiBhcHAgLXZpZXcgLXBhcmVudE5vZGUpCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heC13aWR0aCAgKC4tY2xpZW50V2lkdGggcGFyZW50KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heC1oZWlnaHQgKC4tY2xpZW50SGVpZ2h0IHBhcmVudCkKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyByZWdpc3RlcmVkIHNjYWxlIGJhc2VkIG9uIHN1YiBjb21wb25lbnRzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgezprZXlzIFt3aWR0aCBoZWlnaHRdfSAocHJpbS9nZXQtc3RhdGUgdGhpcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FsZSAgICAgIChtaW4gKC8gbWF4LXdpZHRoIHdpZHRoKSAoLyBtYXgtaGVpZ2h0IGhlaWdodCkpXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2NvbnNvbGUubG9nICJyZXNpemluZyBjYW52YXMgdG8iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICguLWNsaWVudFdpZHRoIHBhcmVudCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKC4tY2xpZW50SGVpZ2h0IHBhcmVudCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoLi4gYXBwIC1yZW5kZXJlciAocmVzaXplICguLWNsaWVudFdpZHRoIHBhcmVudCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKC4tY2xpZW50SGVpZ2h0IHBhcmVudCkpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsJCSBicmVjdCAJCQkoLi4gZGl2IChnZXRCb3VuZGluZ0NsaWVudFJlY3QpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7KHNldCEgKC4uIGFwcCAtcmVuZGVyZXIgLXZpZXcgLXN0eWxlIC13aWR0aCkgKHN0ciBtYXgtd2lkdGggInB4IikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyhzZXQhICguLiBhcHAgLXJlbmRlcmVyIC12aWV3IC1zdHlsZSAtaGVpZ2h0KSAoc3RyIG1heC1oZWlnaHQgInB4IikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8gICAgICAgICAgICAgICAgICAoanMvY29uc29sZS5sb2cgIlBBUkFNRVRSSVpFRCBDQU5WQVMgRElETU9VTlQgLS0gIiBtYXgtd2lkdGggbWF4LWhlaWdodCB3aWR0aCBoZWlnaHQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgKHdhcm4gImFzcGVjdCByYXRpbyBvZiBzdHVmZiBpbiBjYW52YXMiICgvIHdpZHRoIGhlaWdodCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICh3YXJuICJhc3BlY3QgcmF0aW8gb2YgY2FudmFzIiAoLyBtYXgtd2lkdGggbWF4LWhlaWdodCkpCgogICAgICAgICAgICAgICAgICAgICAgICAgICAod2FybiAic2NhbGUgZmFjdG9yIiBzY2FsZSkK</text>
+        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHNldCEgKC4uIGFwcCAtcmVzaXplVG8pIGRpdikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsJCSBicmVjdCAJCQkoLi4gZGl2IChnZXRCb3VuZGluZ0NsaWVudFJlY3QpKQoK</text>
+        <text encoding="base64">CjsgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChzZXQhICguLXggbWFpbi1jb250YWluZXIpICgvICguLiBhcHAgLXNjcmVlbiAtd2lkdGgpIDIpKQo7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc2V0ISAoLi15IG1haW4tY29udGFpbmVyKSAoLyAoLi4gYXBwIC1zY3JlZW4gLWhlaWdodCkgMikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdkb20vZ2V0RWxlbWVudCBkaXYtaWQK</text>
+        <text encoding="base64">OyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHNldCEgKC4uIGFwcCAtcmVzaXplVG8pIGRpdikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
