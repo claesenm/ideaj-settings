@@ -17,12 +17,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563914368983">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563915031647">
         <mark key="a" line="70" column="47" />
         <mark key="'" line="167" column="22" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+        <mark key="[" line="71" column="40" />
+        <mark key="]" line="71" column="40" />
+        <mark key="." line="71" column="40" />
         <mark key="^" line="67" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/deps.edn" timestamp="1563442265031">
@@ -515,11 +515,11 @@
           <key char="60" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVmZXJlbmNlIDpzZWxmCg==</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>.-x</text>
