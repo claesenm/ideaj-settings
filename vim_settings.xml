@@ -10,12 +10,12 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="54" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/util/colors.cljs" timestamp="1563886915690">
-        <mark key="'" line="68" column="50" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/util/colors.cljs" timestamp="1563907025706">
+        <mark key="'" line="67" column="50" />
+        <mark key="[" line="8" column="103" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563781956572">
         <mark key="'" line="228" column="42" />
@@ -54,12 +54,12 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563893791706">
-        <mark key="'" line="301" column="64" />
-        <mark key="[" line="321" column="0" />
-        <mark key="]" line="321" column="0" />
-        <mark key="." line="321" column="0" />
-        <mark key="^" line="321" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563907119028">
+        <mark key="'" line="307" column="64" />
+        <mark key="[" line="512" column="5" />
+        <mark key="]" line="512" column="21" />
+        <mark key="." line="512" column="21" />
+        <mark key="^" line="512" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1560348802329">
         <mark key="[" line="145" column="106" />
@@ -513,11 +513,11 @@
           <key char="60" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>.-x</text>
