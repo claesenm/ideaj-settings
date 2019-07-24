@@ -17,13 +17,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563918583090">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563962699504">
         <mark key="a" line="67" column="47" />
-        <mark key="'" line="223" column="53" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="35" />
-        <mark key="^" line="38" column="35" />
+        <mark key="'" line="52" column="29" />
+        <mark key="[" line="199" column="39" />
+        <mark key="]" line="199" column="46" />
+        <mark key="." line="199" column="46" />
+        <mark key="^" line="199" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/deps.edn" timestamp="1563442265031">
         <mark key="[" line="0" column="34" />
@@ -55,12 +55,8 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563936081579">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" timestamp="1563961945810">
         <mark key="'" line="371" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nrl-backend/flask/app/domain/serializers.py" timestamp="1560348802329">
         <mark key="[" line="145" column="106" />
@@ -343,12 +339,11 @@
         <mark key="." line="191" column="28" />
         <mark key="^" line="191" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/util/generic.cljs" timestamp="1563936918490">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/util/generic.cljs" timestamp="1563961824416">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="32" column="8" />
-        <mark key="." line="32" column="8" />
-        <mark key="^" line="32" column="8" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/project.clj" timestamp="1562236217977">
         <mark key="[" line="2" column="17" />
@@ -381,8 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
-      <jump line="28" column="30" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="224" column="45" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
       <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/util.cljs" />
       <jump line="13" column="53" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
@@ -481,6 +474,8 @@
       <jump line="269" column="31" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="51" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="220" column="53" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="131" column="40" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="52" column="29" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -515,11 +510,11 @@
           <key char="60" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICguLiBjb250YWluZXIgKHJlbW92ZUNoaWxkcmVuKSkgOyBjbGVhbiB1cCBvbGQgc3ByaXRlCg==</text>
+      <register name="&quot;" type="4">
+        <text>reference</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>reference</text>
       </register>
       <register name="/" type="4">
         <text>triggered rerender</text>
@@ -528,31 +523,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICguLiBjb250YWluZXIgKHJlbW92ZUNoaWxkIHNwcml0ZSkpIDsgY2xlYW4gdXAgb2xkIHNwcml0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICguLiBjb250YWluZXIgKHJlbW92ZUNoaWxkcmVuKSkgOyBjbGVhbiB1cCBvbGQgc3ByaXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICh3aGVuLW5vdCAoPSAoOmFzcGVjdC5tYXRyaXgvaW5mbyBwcmV2LXByb3BzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICg6YXNwZWN0Lm1hdHJpeC9pbmZvIChwcmltL3Byb3BzIHRoaXMpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgooZGVmbiBkZWVwPSBbYSBiXQogIChjb25kCiAgICAobm90PSBhIGIpIGZhbHNlCiAgICA7IGEgYW5kIGIgYXJlIGVxdWFsIGJ1dCBpZiB0aGV5IGFyZSBtYXBzIHdlIG5lZWQgdG8gbG9vayBmdXJ0aGVyCiAgICAobm90IChtYXA/IGEpKSB0cnVlCiAgICA7IGEgaXMgYSBtYXAsIHNvIGIgbXVzdCBiZSB0b28gLT4gY2hlY2sgcmVjdXJzaXZlbHkKICAgIChldmVyeT8gKGZuIFtrXSAoZGVlcD0gKGdldCBhIGspIChnZXQgYiBrKSkpIChrZXlzIGEpKSB0cnVlCiAgICA7IGFib3ZlIHN0YXRlbWVudCB3YXMgbm90IGEgaGl0LCBzbyBzb21lIGRlZXAgZXF1YWxpdHkgY2hlY2sgbXVzdCBoYXZlIGZhaWxlZAogICAgOmVsc2UgZmFsc2UpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NvcGUgOmFsbH19Cg==</text>
+        <text encoding="base64">CgoKICAoaWYgKD0gYSBiKQogICAgKGlmKQogICAgZmFsc2UpCiAgKGlmICg9IChrZXlzIGEpIChrZXlzIGIpKQogICAgKGV2ZXJ5PyAobWFwIChmbiBba10gKGRlZXA9IChnZXQgYSBrKSAoZ2V0IGIgaykpIChrZXlzIGEpKSkpCiAgICBmYWxzZSkpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgWzptc2ktZGF0YS1zZXQtaWQKICAgOm16LXZhbHVlCiAgIHs6cXVhbnRpemF0aW9uIFs6bXotdmFsdWUKICAgICAgICAgICAgICAgICAgIDp3aW5zb3ItcGVyY2VudGlsZQogICAgICAgICAgICAgICAgICAgOm5vcm1hbGl6ZS1hY3Jvc3MtdGlzc3Vlc119XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICguLiBjb250YWluZXIgKHJlbW92ZUNoaWxkcmVuKSkgOyBjbGVhbiB1cCBvbGQgc3ByaXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbmZvIHNob3VsZCBoYXZlIGEgc3RydWN0dXJlIHRoYXQgYWxsb3dzIHRoZSBmb2xsb3dpbmcgcXVlcnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVmZXJlbmNlIDpzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NvcGUgOmFsbH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFudGl6YXRpb24gICAobWVyZ2UKICAgICAgICAgICAgICAgICAgICAgICAgIHs6d2luc29yLXBlcmNlbnRpbGUgMC45NzUKICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVmZXJlbmNlIDpzZWxmCiAgICAgICAgICAgICAgICAgICAgICAgICAgOnNjb3BlIDphbGx9CiAgICAgICAgICAgICAgICAgICAgICAgICBxdWFudGl6YXRpb24pCg==</text>
+        <text encoding="base64">CiAgWzptc2ktZGF0YS1zZXQtaWQKICAgOm16LXZhbHVlCiAgIHs6cXVhbnRpemF0aW9uIFs6bXotdmFsdWUKICAgICAgICAgICAgICAgICAgIDp3aW5zb3ItcGVyY2VudGlsZQogICAgICAgICAgICAgICAgICAgOm5vcm1hbGl6ZS1hY3Jvc3MtdGlzc3Vlc119XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBpbmZvIHNob3VsZCBoYXZlIGEgc3RydWN0dXJlIHRoYXQgYWxsb3dzIHRoZSBmb2xsb3dpbmcgcXVlcnk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVmZXJlbmNlIDphbGx9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVmZXJlbmNlIDpzZWxmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
