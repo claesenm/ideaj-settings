@@ -343,12 +343,12 @@
         <mark key="." line="191" column="28" />
         <mark key="^" line="191" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/util/generic.cljs" timestamp="1563914282737">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/util/generic.cljs" timestamp="1563936918490">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-        <mark key="^" line="24" column="9" />
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/project.clj" timestamp="1562236217977">
         <mark key="[" line="2" column="17" />
