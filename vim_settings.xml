@@ -17,13 +17,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563962699504">
+      <file name="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" timestamp="1563964427729">
         <mark key="a" line="67" column="47" />
-        <mark key="'" line="52" column="29" />
-        <mark key="[" line="199" column="39" />
-        <mark key="]" line="199" column="46" />
-        <mark key="." line="199" column="46" />
-        <mark key="^" line="199" column="46" />
+        <mark key="'" line="57" column="31" />
+        <mark key="[" line="212" column="51" />
+        <mark key="]" line="212" column="50" />
+        <mark key="." line="212" column="50" />
+        <mark key="^" line="212" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/deps.edn" timestamp="1563442265031">
         <mark key="[" line="0" column="34" />
@@ -376,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="45" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
       <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/util.cljs" />
       <jump line="13" column="53" filename="$USER_HOME$/IdeaProjects/canvas/src/main/aspect/ui/canvas.cljs" />
       <jump line="87" column="36" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
@@ -476,6 +475,7 @@
       <jump line="220" column="53" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="131" column="40" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
       <jump line="52" column="29" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
+      <jump line="57" column="31" filename="$USER_HOME$/IdeaProjects/canvas/src/workspaces/canvas/demo_ws.cljs" />
     </jumps>
     <registers>
       <register name="a" type="4">
