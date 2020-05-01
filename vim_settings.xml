@@ -29,6 +29,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -62,11 +65,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/aspect-bioinformatics/aspect/numpy/core_impl.py" timestamp="1588323579512">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="143" column="8" />
-        <mark key="." line="143" column="8" />
-        <mark key="^" line="143" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/aspect-bioinformatics/aspect/numpy/core_impl.py" timestamp="1588325406313">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="135" column="20" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="141" column="1" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/metex-backend/.gitignore" timestamp="1564494268254">
         <mark key="[" line="18" column="6" />
@@ -142,48 +146,60 @@
       <jump line="4" column="61" filename="$USER_HOME$/IdeaProjects/metex-backend/run-nginx.sh" />
       <jump line="119" column="3" filename="$USER_HOME$/PycharmProjects/bruker-thumbnail-gen/kernel.py" />
       <jump line="80" column="4" filename="$USER_HOME$/PycharmProjects/bruker-thumbnail-gen/kernel.py" />
+      <jump line="13" column="15" filename="$USER_HOME$/IdeaProjects/aspect-bioinformatics/aspect/numpy/core_impl.py" />
+      <jump line="30" column="59" filename="$USER_HOME$/IdeaProjects/aspect-bioinformatics/aspect/numpy/core_impl.py" />
+      <jump line="206" column="4" filename="$USER_HOME$/IdeaProjects/aspect-bioinformatics/aspect/numpy/core_impl.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/IdeaProjects/aspect-bioinformatics/aspect/numpy/core_impl.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="8">
+        <text>#
+#
+#
+#
+#</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>nrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBucC5jbGlwKGFub3JtLCAwLCBibm9ybSkuc3VtKCkK</text>
+        <text encoding="base64">IyBkZWYgbWFrZV96aXBfa3dhcmdzKGt3YXJncywgaW5kZXgpOgojICAgICBpZiBrd2FyZ3M6CiMgICAgICAgICByZXR1cm4ge2s6IHZbaW5kZXhdIGZvciBrLCB2IGluIGt3YXJncy5pdGVtcygpfQojICAgICBlbHNlOgojICAgICAgICAgcmV0dXJuIHt9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CnRyeToKCgoKCg==</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgYW5vcm0gPSBhCiAgICAgICAgYm5vcm0gPSBiCg==</text>
+        <text encoding="base64">QG5iLm5qaXQKZGVmIG1ha2VfemlwX2t3YXJncyhrd2FyZ3MsIGluZGV4KToKICAgIGlmIGt3YXJnczoKICAgICAgICByZXR1cm4ge2s6IHZbaW5kZXhdIGZvciBrLCB2IGluIGt3YXJncy5pdGVtcygpfQogICAgZWxzZToKICAgICAgICByZXR1cm4ge30KCgpAbmIubmppdChwYXJhbGxlbD1UcnVlKQpkZWYgX3BtYXBfcm93cyhkYXRhOiBucC5uZGFycmF5LCByb3dfdG9fZ3JpZDogbnAubmRhcnJheSwgZm4sCiAgICAgICAgICAgICAgIGluZGV4OiBib29sID0gRmFsc2UsIHBvc2l0aW9uOiBib29sID0gRmFsc2UsCiAgICAgICAgICAgICAgIGNhbGxfYXJncz1Ob25lLCBjYWxsX2t3YXJncz1Ob25lKToKCiAgICAjIGlmIGNhbGxfYXJncyBpcyBub3QgTm9uZToKICAgICMgICAgIHppcF9hcmdzID0gdHVwbGUoemlwKGNhbGxfYXJncykpCiAgICAjIGVsc2U6CiAgICAjICAgICB6aXBfYXJncyA9IE5vbmUKICAgICMgcmVzdWx0ID0gbnAuYXJyYXkoKGRhdGEuc2hhcGVbMF0sKSkKCiAgICByZXN1bHQgPSBucC5hcnJheShbZm4oZGF0YVtpLCAuLi5dKSBmb3IgaSBpbiBuYi5wcmFuZ2UoZGF0YS5zaGFwZVswXSldKQoKICAgICMgZm9yIGkgaW4gbmIucHJhbmdlKGRhdGEuc2hhcGVbMF0pOgogICAgIyAgICAgIyB6aXBfa3dhcmdzID0ge2s6IHZbaV0gZm9yIGssIHYgaW4gY2FsbF9rd2FyZ3MuaXRlbXMoKX0KICAgICMgICAgICMgaWYgaW5kZXg6CiAgICAjICAgICAjICAgICB6aXBfa3dhcmdzWyJpbmRleCJdID0gaQogICAgIyAgICAgIyBpZiBwb3NpdGlvbjoKICAgICMgICAgICMgICAgIHppcF9rd2FyZ3NbInBvc2l0aW9uIl0gPSByb3dfdG9fZ3JpZFtpLCAuLi5dCiAgICAjICAgICAjIHJlc3VsdFtpXSA9IGZuKGRhdGFbaSwgLi4uXSwgKnppcF9hcmdzW2ldLCAqKnppcF9rd2FyZ3MpCiAgICAjICAgICByZXN1bHRbaV0gPSBmbihkYXRhW2ksIC4uLl0pCgogICAgcmV0dXJuIHJlc3VsdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vcm1hbGl6ZToKICAgICAgICBhIC89IGEuc3VtKCkKICAgICAgICBiIC89IGIuc3VtKCkKICAgIAogICAgcmV0dXJuIHNrbGVhcm4ubWV0cmljcy5wYWlyd2lzZS5jb3NpbmVfc2ltaWxhcml0eShhLCBiKQo=</text>
+        <text encoding="base64">ZGVmIF9tYXBfb3Zlcl9yb3dzKGN1YmU6IG5wLikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yIGU6Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bWJhIGFzIG5iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGluZm8uY29udmVyZ2VkOgogICAgICAgIHJldHVybiBpbnQob3B0KSwgc3ZkCiAgICByZXR1cm4ga2VybmVsLnNoYXBlWzBdLCBzdmQK</text>
+        <text encoding="base64">QG5iLm5qaXQKZGVmIG1ha2VfemlwX2t3YXJncyhrd2FyZ3MsIGluZGV4KToKICAgIGlmIGt3YXJnczoKICAgICAgICByZXR1cm4ge2s6IHZbaW5kZXhdIGZvciBrLCB2IGluIGt3YXJncy5pdGVtcygpfQogICAgZWxzZToKICAgICAgICByZXR1cm4ge30KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnVsbF9vdXRwdXQ9VHJ1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IG51bWJhIGFzIG5iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vcm1hbGl6ZQo=</text>
+        <text encoding="base64">CgpAbmIubmppdChwYXJhbGxlbD1UcnVlKQpkZWYgX3BtYXBfcm93cyhkYXRhOiBucC5uZGFycmF5LCByb3dfdG9fZ3JpZDogbnAubmRhcnJheSwgZm4sCiAgICAgICAgICAgICAgIGluZGV4OiBib29sID0gRmFsc2UsIHBvc2l0aW9uOiBib29sID0gRmFsc2UsCiAgICAgICAgICAgICAgIGNhbGxfYXJncz1Ob25lLCBjYWxsX2t3YXJncz1Ob25lKToKCiAgICAjIGlmIGNhbGxfYXJncyBpcyBub3QgTm9uZToKICAgICMgICAgIHppcF9hcmdzID0gdHVwbGUoemlwKGNhbGxfYXJncykpCiAgICAjIGVsc2U6CiAgICAjICAgICB6aXBfYXJncyA9IE5vbmUKICAgICMgcmVzdWx0ID0gbnAuYXJyYXkoKGRhdGEuc2hhcGVbMF0sKSkKCiAgICByZXN1bHQgPSBucC5hcnJheShbZm4oZGF0YVtpLCAuLi5dKSBmb3IgaSBpbiBuYi5wcmFuZ2UoZGF0YS5zaGFwZVswXSldKQoKICAgICMgZm9yIGkgaW4gbmIucHJhbmdlKGRhdGEuc2hhcGVbMF0pOgogICAgIyAgICAgIyB6aXBfa3dhcmdzID0ge2s6IHZbaV0gZm9yIGssIHYgaW4gY2FsbF9rd2FyZ3MuaXRlbXMoKX0KICAgICMgICAgICMgaWYgaW5kZXg6CiAgICAjICAgICAjICAgICB6aXBfa3dhcmdzWyJpbmRleCJdID0gaQogICAgIyAgICAgIyBpZiBwb3NpdGlvbjoKICAgICMgICAgICMgICAgIHppcF9rd2FyZ3NbInBvc2l0aW9uIl0gPSByb3dfdG9fZ3JpZFtpLCAuLi5dCiAgICAjICAgICAjIHJlc3VsdFtpXSA9IGZuKGRhdGFbaSwgLi4uXSwgKnppcF9hcmdzW2ldLCAqKnppcF9rd2FyZ3MpCiAgICAjICAgICByZXN1bHRbaV0gPSBmbihkYXRhW2ksIC4uLl0pCgogICAgcmV0dXJuIHJlc3VsdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5vcm1hbGl6ZToKICAgICAgICBhIC89IGEuc3VtKCkKICAgICAgICBiIC89IGIuc3VtKCkK</text>
+        <text encoding="base64">CnRyeToKCgoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBfbm9ybWFsaXplKGEsIGIpCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgYW5vcm0gPSBhCiAgICAgICAgYm5vcm0gPSBiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
