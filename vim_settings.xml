@@ -208,7 +208,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="5" enabled="false" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -251,6 +251,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
