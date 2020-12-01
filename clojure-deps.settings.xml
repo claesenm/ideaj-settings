@@ -1,6 +1,13 @@
 <application>
   <component name="DepsSettings">
-    <option name="clojureCommandPath" value="" />
+    <option name="clojureCommandPath" value="/usr/local/bin/clojure" />
+    <option name="configFiles">
+      <list>
+        <option value="/usr/local/lib/clojure/deps.edn" />
+        <option value="$USER_HOME$/.clojure/deps.edn" />
+      </list>
+    </option>
+    <option name="configPath" value="$USER_HOME$/.clojure" />
     <option name="downloadedClasspath">
       <list>
         <option value="$MAVEN_REPOSITORY$/org/clojure/tools.deps.alpha/0.7.516/tools.deps.alpha-0.7.516.jar" />
@@ -81,6 +88,8 @@
       </list>
     </option>
     <option name="downloadedToolsDepsVersion" value="0.7.516" />
+    <option name="executableHash" value="669759031" />
+    <option name="installPath" value="/usr/local/lib/clojure" />
     <option name="toolsDepsVersion" value="0.7.516" />
     <option name="toolsDepsVersions">
       <list>
@@ -154,6 +163,7 @@
         <option value="0.1.14" />
       </list>
     </option>
-    <option name="useCli" value="false" />
+    <option name="uberjarPath" value="/usr/local/lib/clojure/libexec/clojure-tools-1.10.1.739.jar" />
+    <option name="version" value="1.10.1.739" />
   </component>
 </application>
